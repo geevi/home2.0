@@ -1,0 +1,11 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="col-lg-12 mx-auto">
+
+<h2 class='mb-3'>Contact</h2>
+
+<p class='mb-4'> Email: {{ $page.Params.email }}</p>
+
+{{ $page.Content }}
+</div>

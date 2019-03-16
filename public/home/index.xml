@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Girish Varma</title>
+    <link>https://geevi.github.io/home/</link>
+    <description>Recent content in Homes on Girish Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://geevi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/home/about/</guid>
+      <description>Hi! I am an Asst. Prof. at the Center for Security, Theory &amp;amp; Algorithms Research (CSTAR) at IIIT Hyderabad. I am broadly interested in theoretical and applied computer science problems.
+I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and continues to have interest in Complexity theory, Combinatorics and Graph theory. Later I went on to do research (at IIIT Hyderabad) in Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/home/teaching/</guid>
+      <description> Teaching  AI/ML for Natural Sciences, Jan 2019
+ Foundations of Artificial Intelligence and Machine Learning
+ Efficient CNNs (Reading Group), Jan 2018
+ Multi Object Tracking using Deep Learning (Reading Group), Jan 2018
+ Computational Complexity Theory, Sept - Nov 2017
+    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/home/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/home/events/</guid>
+      <description>Events &amp;amp; Talks  Semantic Segmentation: Recent Advances, Indian Datasets &amp; Universal Segmentation Problems Challenges and Advances in Vision-Based Self-Driving
+Tutorial cohosted with Prof. Manmohan Chandrakar (UCSD) at ICVGIP&#39;18, Hyderabad. December, 2018
+ IDD Dataset and Challenge ICTAI Workshop on Unstructured Driving Scenarios in India
+Intel Bangalore, November, 2018
+ Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
+First International Workshop On Auto. Nav. in Unconstrained Environments</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/home/projects/</guid>
+      <description> Research Areas </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

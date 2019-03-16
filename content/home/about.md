@@ -1,0 +1,61 @@
++++
+
+weight=1
+
+
+name="Girish  Varma"
+profile_pic="/img/profile_pic.jpg"
+jobtitle="Assitant Professor"
+
+[[works_for]]
+Org="Center for Security, Theory & Algorithms Research (CSTAR)"
+URL="http://cstar.iiit.ac.in/"
+
+
+[[works_for]]
+Org="IIIT Hyderabad"
+URL="http://iiit.ac.in/"
+
+
+# List your academic interests.
+[interests]
+  interests = [
+    "Complexity Theory & Algorithms",
+    "Transportation & Autonomous Navigation",
+    "Theory of Deep Learning",
+    "AI/ML in Natural Sciences"
+]
+
+# List your qualifications (such as academic degrees).
+
+[[education.courses]]
+  course = "Postdoctoral Research"
+  institution = '''Weizmann Institute of Science, Israel'''
+  year = "2015 - 2016"
+
+[[education.courses]]
+  course = "PhD and MS in Computer Science"
+  institution = '''Tata Institute of Fundamental Research, Mumbai'''
+  year = 2015
+
+[[education.courses]]
+  course = "BTech in Computer Science & Eng."
+  institution = "National Institute of Technology Calicut"
+  year = 2008
+
++++
+
+
+<h2>Hi!</h2>
+
+I am an Asst. Prof. at the [Center for Security, Theory & Algorithms Research (CSTAR)](http://cstar.iiit.ac.in/) at [IIIT Hyderabad](http://iiit.ac.in/).  I am broadly interested in theoretical and applied computer science problems. 
+
+I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and continues to have interest in Complexity theory, Combinatorics and Graph theory. Later I went on to do research (at IIIT Hyderabad) in Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. A summary of my research can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vRWkBqM6TOI8dT5VPSGjSZnrtiVGPjBFSwn7gF8cv-E8am32bxcZh-akJPobQulytrzo2qq3acLiLrO/pub?start=false&loop=false&delayms=3000).
+
+Students interested in doing research with me, can find oppurtunities [here](/openings).
+
+
+
+
+
+

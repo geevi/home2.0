@@ -1,0 +1,124 @@
+
+.profile {
+  margin-bottom: 20px;
+  text-align: center
+}
+
+.btn-group {
+  font-size: 8pt;
+  
+}
+
+.btn-group a {
+  font-weight: 300;
+}
+
+
+#profile-pic {
+  margin-bottom: 20px
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: "Neuton", Georgia, "Times New Roman", serif;
+}
+
+p.card-text {
+  font-weight: 300;
+}
+
+/* .navbar-dark .navbar-nav .nav-link:hover {
+  text-decoration: underline
+
+} */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Neuton", Georgia, "Times New Roman", serif;
+}
+
+
+p,span, div {
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+h4.heading {
+  padding-top: 10px;
+  border-bottom: 1px solid rgb(173, 172, 172);
+}
+
+.pub p {
+  text-align: justify;
+}
+.pub {
+  margin: 50px auto;
+  padding: 50px 0;
+}
+
+.pub-title, .pub-authors, .pub-conf, .pub-date, .pub-label, .pub-links {
+  text-align: center
+}
+
+main {
+  margin-top: 20px
+}
+
+
+
+.btn-group a:hover {
+  color: white;
+}
+
+.btn:hover a {
+  color: white;
+}
+
+.pub-item .card {
+  border: 0px;
+}
+
+.pub-item .card {
+  border-top: 1px solid rgba(0,0,0,.125);
+  padding: 5px 0px;
+}
+
+.card-body {
+  padding: 0rem 1.25rem
+}
+
+/* .widget {
+  padding: 0px 20px;
+} */
+
+h2 {
+  min-width: 100%;
+}
+
+
+.pub {
+  margin: 80px 0px;
+}
+
+.tag {
+  text-transform: uppercase;
+  font-size: 8pt;
+  background-color: #ecffff;
+  /* border-left: 1px solid rgb(173, 202, 232); */
+  padding: 5px 5px;
+  margin-right: 10px;
+}
+
+.tag-date {
+  margin-top: 10px;
+} 
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
+strong, b {
+  font-weight: 600
+}

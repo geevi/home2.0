@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Automatically generated HTML file from Doconce source
+(http://code.google.com/p/doconce/)
+-->
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Doconce: http://code.google.com/p/doconce/" />
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+     equationNumbers: {  autoNumber: "AMS"  },
+     extensions: ["AMSmath.js"]
+  }
+});
+</script>
+<script type="text/javascript"
+ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+</head>
+
+<body bgcolor="white">
+    <title>A Short Course on Complexity Theory</title>
+<center><h1>A Short Course on Complexity Theory</h1></center>
+
+<h1>Lecture 1: Introduction</h1>
+<P>
+You have seen algorithms for a variety of problems. This begs the question
+of <em>whether there is an algorithm for any  given problem?</em>. 
+Furthermore <em>is there an efficient 
+algorithm for all problems?</em>. Even if you have an algorithm for the problem, 
+<em>can it be made more efficient?</em>. This course will be addressing these 
+questions. For answering these questions, we first need to define:
+
+<ol>
+   <li> What is a <em>problem</em>?
+   <li> What is computer/programing language, where you can execute/write 
+      the algorithms?
+   <li> What do you mean by <em>efficient</em>?
+</ol>
+
+We will start with very simplified definitions for these questions and 
+try to find the answers for this setting. 
+
+<P>
+
+<P>
+<h2>Decision Problems</h2>
+<P>
+Typically the output of an algorithm could be a graph, a number etc. 
+But we will consider only problems with an YES or NO answer. Furthermore,
+we will define the problem to be just the set of all YES-instances. 
+You are familiar with this definition from your automata theory class. 
+For example take the REACHABILITY problem where the input is \( (G(V,E), s,t) \)
+where \( s,t \in V \), and the problem is whether there is a path from \( s \) to 
+\( t \) in the graph \( G \). So we will define the problem itself as the set of instances \( (G,s,t) \)
+where a path exists.
+
+<P>
+$$
+\mbox{REACHABILITY} = \{ (G,s,t) : \mbox{ there is a path in $G$ from } s \mbox{ to } t \}
+$$
+
+<P>
+The number of instances of graphs having a particular number of vertices \( n \) 
+is finite. But the set of all instances is the union of such instances with
+\( n=1 \) to \( \infty \). Hence each instance has a <em>size</em> \( n \) which is the 
+number of vertices in the graph. Size of an instance is a fundamental concept,
+and we will be defining it for all the instances. Later we will see, that size
+plays an important role in defining what we mean by an efficient algorithm.
+
+<P>
+It was easy to define REACHABILITY because the original problem had an YES or
+NO answer. But can we write problems for which the outputs are numbers, as 
+decision problems? Lets consider the the problem of finding the <em>chromatic 
+number</em> of a graph. Chromatic number of a graph \( G \) is the minimum number of
+distinct colors required to color a graph such that for every edge, end points
+are of different colors. Note that for a graph on \( n \) vertices, the chromatic number is \( \leq n \).
+
+<P>
+The descision version of the chromatic number problem  takes the graph \( G \) and a number \( k \) between \( 1 \) and \( n \) as input. The output is YES, if the chromatic number is \( \leq k \). So 
+
+<P>
+$$
+\text{CHROMATIC-NUMBER} = \{ (G,k) : \text{ chromatic number of graph } G \text{ is } \leq k \}
+$$
+
+<P>
+Suppose you have an algorithm that takes \( T(n) \) steps for deciding the CHROMATIC-NUMBER problem, 
+you can find the chromatic number also. For this we will create \( n \) instances of CHROMATIC-NUMBER
+from the input graphs, setting \( k=1 \) to \( n \). Note that these instances will transition from NO-instances
+to YES-instance and remain YES-instances. The chromatic number is the least \( k \) for which the instance
+is an YES-instance. Hence you have algorithm which takes \( n\times T(n) \) steps for finding the exact 
+chromatic number.
+
+<P>
+!bu-problem
+Can you find a algorithm, which takes \( (\log n) T(n) \) steps?
+!eu-problem
+
+<P>
+
+<P>
+<h2>Turing Machines</h2>
+<P>
+The simplfied model for computer/programming language will be the Turning Machine (TM).
+The discovery of the TM has a long and interesting history. See <a href="https://www.amazon.in/Logicomix-Epic-Search-Trurh-Truth/dp/0747597200/ref=sr_1_1?s=books&ie=UTF8&qid=1506918619&sr=1-1&keywords=logicomix">Logicomix</a>,
+for a nice read in comic book format.
+
+<P>
+The Turing Machine has many tapes (which is similar to the hard disk in 
+a modern computer) and a limited set of states (which is similar to the RAM or the cache).
+There is a read-only input tape, where the input is written and a write-only output
+tape where the output is expected when machine is finished. There is also multiple
+work tapes, which can be used for storing intermediate results in the computation.
+The work tapes are assumed to be of infinite length. This is needed because as 
+the size of the input instances becomes larger, the intermediate memory also needs to 
+be large. The set of states of the TM is fixed and does not change with input size.
+
+<P>
+The input is assumed to be a string from a finite alphabet \( \Sigma \). A tape cell
+can store an additional blank symbol indicating that it is unused. 
+
+<P>
+The algorithm is implemented in a TM by means of a state function. The state
+function takes as arguments:
+
+<ol>
+   <li> the symbol under the heads of the TM in each of the tapes, 
+   <li> well as the current state 
+</ol>
+
+and returns 
+
+<ol>
+   <li> the next state
+   <li> the symbols to be written under each of the work tape heads
+   <li> the directions to move each of the heads one cell to the left, right or not move.
+</ol>
+
+Now we define a TM using mathematical notation. \( \Sigma \) is the alphabet 
+in which input and work tape is written (for eg. binary ie. \( \Sigma = \{0,1\} \)). 
+The blank symbol for unwritten tape cell is \( \_ \). 
+Let \( \Omega \) be the set of states of the TM. There are 2 special states of the
+TM called \( \omega_{\text{start}} \) and \( \omega_{\text{stop}} \) called the start
+and the stop states. The state transition function is denoted by 
+$$
+\delta : \Omega \times \Sigma \cup \{ \_ \} \rightarrow \Omega \times \Sigma^k \times \{ < , > , - \}^{k+2}
+$$
+
+<P>
+Now lets see an example of a TM for solving the following problem:
+$$
+PALINDROMES = \{ x \in \{0,1\}^n : x \text{ is a palindrome}\}
+$$
+
+<P>
+First lets try to write a pseudo code for a TM solving the problem:
+
+<P>
+
+<ol>
+   <li> Copy the input in to the second tape 
+   <li> Move the head in the input tape to end and second tape to begining
+   <li> Compare each bit by moving the input head from end to beggining and second head from beggining to end
+   <li> If any bit is different reject
+   <li> If all bits match accept
+</ol>
+
+We will use a turing machine simulator for implementing this. 
+See the example : http://turingmachinesimulator.com/shared/oihvkhvacu
+
+<P>
+
+<P>
+Note that it is extremely tedious to write algorithms as a TM. Neverthless, all the 
+algorithms can be written as TM.
+
+<P>
+!bu-problem
+Design a TM which decides the language :
+$$
+DIV5 = \{ x \in \{0,1\}^n : x \text{ is binary number divisible by } 5\}
+$$
+
+<P>
+Write the program first as a pseudo code and then in the format in https://turingmachinesimulator.com/.
+!eu-problem
+
+<P>
+We will use a word "decidable" to indicate that a descision problem is solvable.
+A TM is said to decide a descision problem if there is a TM, that accepts
+all the YES-instances and rejects all other strings. Note that this TM will never 
+go  into an infinite loop.
+
+<P>
+
+<P>
+<h3>Robustness of TM</h3>
+<P>
+We will now see that doing some modifications to the TM definitions, does not change what it can compute. We will not be going into details, but only sketch the proof.
+
+<P>
+<b>Convert \( k \) tape TMs to single tape TMs.</b> <P>
+We will merge the \( k \) tapes in to a single tape which has an alphabet that encodes all the \( k \) symbols. But we will also need to encode whether the head in the \( k \) tape TM was placed over a symbol. So if the orignal alphabet was \( \{0,1\} \) then the new alphabet will be \( \{0,1, \dot 0, \dot 1 \}^k \). 
+
+<P>
+Each step of the \( k \) tape TM will be simulated by the one tape TM, by doing a full pass over its tape, reading all the alphabets with \( \{\dot 0, \dot 1\} \). Then it will erase and the write the dots according to the appropriate tape movement (given by the transition function of the old TM).
+
+<P>
+
+<P>
+<b>Convert alphabet from any \( \Sigma \) to binary.</b> <P>
+Suppose we have a TM with alphabet size \( |\Sigma| = t \). We will encode the \( t \) symbols into binary strings of length \( \log t \). For each step of the old TM, the new TM will go over \( \log t \) positions in its binary tape to read the symbol, and update \( \log t \) positions for writing the new symbol according to the transition funciton of the old TM.
+
+<P>
+It is important to note that, while doing these transformations, the alphabet size \( |\Sigma| \) and the state size \( |\Omega| \) remain constant, independent of the input size.
+
+<P>
+
+<P>
+<h2>Efficient Algorithms</h2>
+<P>
+Recall that for every instance of a problem, we will have a size defined (denoted by \( n \)).
+The number of steps taken by the TM to decide an instance will grow with \( n \).
+Hence the running time of a problem will be defined in terms of the size \( n \).
+Futhermore we will be considering <em>worst case</em> running time. That is the running time
+for intances of size \( n \) will be defined as the the largest running time,
+among all intances of size \( n \). 
+
+<P>
+For example, consider the Dijkstra's algorithm for 
+shortest path. There are instances of graph of size \( n \) like a 
+\( n \) length path on which the algorithm takes only \( O(n) \) steps. However if the 
+graph is a complete graph, it takes \( O(n^2) \) steps. But it never takes more than
+\( O(n^2) \) steps on instances of size \( n \). Hence running time of Dijkstra's
+algorithm will be considered as \( O(n^2) \).
+
+<P>
+!bu-problem
+Let \( f(n) \) and \( g(n) \) be any two of the following functions. Determine whether
+\( f(n) = O(g(n)) \),  \( f(n) = \Omega(g(n)) \) and \( f(n) = \Theta(g(n)) \).
+
+<ol>
+   <li> \( n! \)
+   <li> \( n^{\log n} \)
+   <li> \( n^2 \) when \( n \) is odd and \( 2^n \) otherwise
+   <li> \( n^3 \)
+   <li> \( n^{n} \)
+   <li> \( 2^n \)
+</ol>
+
+!eu-problem
+
+<P>
+
+<P>
+
+<P>
+<h3>Polynomial time vs Exponential Time</h3>
+<P>
+Now lets consider the CHROMATIC-NUMBER problem. There is very simple brute force
+algorithm for it. Given an instance \( (G,k) \), for every assignment of \( k \) colors to 
+the vertices, check for every edge, that the end points have different colors. If we 
+find a color assignment which passes all checks, the TM can say YES. If for all 
+assignments some check fails, then the TM says NO. This is a valid algorithm. Note
+that for a NO-instance, the TM has to loop over all the color assignments which is
+\( k^n \) in number, and do all the checks for each edge. Hence the running time is \( O(k^n\times n^2) \).
+
+<P>
+Note that the running time for the above algorithm grows exponentialy in \( n \). Even if
+\( n=100 \), the running time is a very huge number that even a fast computer cannot hope
+to solve it. So now the question is where there is another algorithm for CHROMATIC-NUMBER,
+which is faster.
+
+<P>
+Our definition of efficient algorithms will be <em>polynomial time algorithms</em>, that is 
+algorithms for which the running time is of the form \( O(n^t) \) for some fixed integer \( t \). 
+
+<P>
+<h2>Readings</h2>
+<P>
+<b>Chapter 3.</b> Michael Sipser, Introduction to Theory of Computation
+
+<P>
+
+<P>
+<b>Chapter 1, Chapter 2.</b> Christos Papadimitriou, Computational Complexity
+
+<P>
+
+<P>
+<b>Misc: </b> <a href="https://www.amazon.in/Logicomix-Epic-Search-Trurh-Truth/dp/0747597200/ref=sr_1_1?s=books&ie=UTF8&qid=1506918619&sr=1-1&keywords=logicomix">Logicomix</a>
+<h1>Lecture 2: Paradox's and Diagonalization</h1>
+<P>
+<h2>Russell's Paradox and Diagonalization</h2>
+<P>
+<em>There is a village where the barbers shave only those people who 
+do not shave by themselves. Now does a barber shave himself?</em>
+
+<P>
+If YES, then he cannot shave himself. If NO, then he can shave himself.
+
+<P>
+See <a href="https://www.amazon.in/Godel-Escher-Bach-Eternal-Golden/dp/0140289208">Godel, Escher, Bach</a>,
+for more paradoxes and their history.
+
+<P>
+Now we will solve a problem using the Russell's paradox. 
+Let \( \mathbb N \) be the set of natural numbers and \( \mathcal{P}(N) \) is the set of all
+subsets of \( \mathbb N \) (or the power set of \( \mathbb N \)). Show that there cannot 
+be a one to one mapping between \( \mathbb N \) and \( \mathcal{P}(N) \) that has range 
+equal to \( \mathcal{P}(N) \) (that is for every subset of \( \mathbb N \), there is some 
+integer that maps to it).
+
+<P>
+Suppose there is a one to one mapping \( f \) that has range 
+equal to \( \mathcal{P}(N) \). Consider the set 
+$$
+S = \{ x : x \notin f(x) \}
+$$
+Since \( f \) that has range equal to \( \mathcal{P}(N) \), there is some 
+integer \( y \) that maps to \( S \) (that is \( f(y) = S \)). Now does \( y \in S \)?
+
+<P>
+!bu-problem
+Let STRINGS be the set of all infinite length binary sequences. That is 
+$$
+\text{STRINGS} = \{ x:\mathbb{N} \rightarrow \{0,1\}  \}
+$$
+That is any infinite length binary sequence is simply a function that maps every integer 
+to the bit at the corresponding position. Show that there cannot 
+be a one to one mapping between \( \mathbb N \) and STRINGS.
+!eu-problem
+
+<P>
+
+<P>
+<h2>Universal Turing Machines</h2>
+Computer as we know them are general purpose machines. That is, you can give them
+any program in a particular format (a programming langauge, or assembly), and they
+can execute it. However the Turing Machines that we saw in the previous lecture,
+seems to be tailor made for a particular problem. 
+
+<P>
+The first step to making Turing Machines general purpose is to encode a TM as a string,
+which could be fed as input to a general purpose TM, which we will call Universal Turing
+Machines. As we saw previously, a TM is a tuple 
+
+<P>
+$$
+M = (\Omega, \Sigma, \mathcal{T}, \delta, \omega_{\text{start}}, \omega_{\text{accept}}, \omega_{\text{reject}})
+$$
+
+<P>
+where \( \Omega \) is a set of states, \( \Sigma \) is the alphabet for the language, \( \mathcal{T} \) is the tape 
+alphabet, \( \delta \) is a transition function and \( \omega_{\text{start}}, \omega_{\text{accept}}, \omega_{\text{reject}} \)
+are the special start, reject, accept states respectively. Note that the states, the alphabets and the special states,
+are all finite and can be encoded as a finite alphabet. \( \delta \) function also is finite and could be represented as 
+a set of rules (similar to how the turning machine simulater is doing). We will denote the string representing a
+TM \( M \) by \( \langle M \rangle \).
+
+<P>
+A Universal Turing Machine takes a string \( (\langle M \rangle, x) \), and simulates the running of the TM \( M \) on the 
+input \( x \). It is just another TM having its own transition function, alphabets and states. However it is designed
+such that it can accept a TM encoding \( \langle M \rangle \) as in part of the input, and the transition function
+is defined such that it simulates the running of \( M \) on a string \( x \).
+
+<P>
+<b>Configuration.</b> An important concept for doing simulation is the configuration of a TM. Lets 
+stick to 1-tape TMs for now. The "state" of the algorithm (not the TM state) is
+really consist of the the TM's state, the contents of its tape as well as the position
+of the tape heads. If a TM is at state \( \omega_i \), has the string 101101111 in 
+its tape and the tape head is at the 5th position, then its current configuration is 
+1011 \( \omega_i \) 01111. Note that this is a string over the alphabet \( \mathcal{T} \cup \Omega \). 
+The computation of TM is a graph in the space of all TM configurations. If the TM 
+halts, it is a path which ends in a configuration having an accept or reject state.
+If it loops, there will be a cycle in this graph. 
+
+<P>
+
+<P>
+A universal TM, goes over a configuration string, then goes over the encoding of the delta function,
+finds out which rule in the delta function to use, and can update the configuration,
+to reflect the next configuration of the TM begin simulated.
+
+<P>
+
+<P>
+<h2>Halting Problem</h2>
+<P>
+Recall that we started with the question whether all problems can be solved by a TM.
+Consider the following descision problem:
+$$
+H = \{ (\langle M \rangle,x) : M \text{ accepts } x \}
+$$
+That is, given a TM encoding \( \langle M \rangle \) and a string \( x \), check if 
+\( M \) accepts \( x \). Can you think of a TM which decides \( H \). One way is to simulate \( M \) on \( x \)
+like the universal TM. But its possible that \( M \) loops on \( x \) and the UTM will also loop.
+
+<P>
+Suppose there a TM \( M_H \) which decides \( H \). We will define a new TM \( D \) which takes an encoding
+of a TM \( \langle M \rangle \) as input , which does
+the following 
+
+<ol>
+   <li> Run \( M_H \) on \( (\langle M \rangle, \langle M \rangle) \).
+   <li> Output the opposite of what \( M_H \) outputs.
+</ol>
+
+So \( D \) accepts \( \langle M \rangle \) if \( M \) rejects the input \( \langle M \rangle \) and 
+it rejects of if \( M \) accepts the input \( \langle M \rangle \). Now the question is 
+what is the output of of \( D \) when run on \( \langle D \rangle \)?
+
+<P>
+You will see that there is a problem, very similar to the Russell's paradox here. Hence 
+there cannot be a TM \( D \). But we can construct \( D \) if there is a TM \( M_H \). So 
+neither can there be a TM \( M_H \) which decides \( H \).
+
+<P>
+\( H \) is popularly known as the halting problem which was shown by Turing to be not
+decidable (or undecidable).
+
+<P>
+!bu-problem
+Let \( \text{EMPTY} = \{ \langle M \rangle : M \text{ rejects all inputs } \} \). Show 
+that this problem is undecidable.
+!eu-problem
+
+<P>
+
+<P>
+
+<P>
+<h1>Lecture 3: Non Determinism, NP and Search Problems</h1>
+<P>
+<h2>Non Deterministic Turing Machines</h2>
+<P>
+Last lecture we saw that TM's can be encoded as strings and simulated by a
+universal TM using the configurations. We also saw that simulation of a TM,
+is essentialy tracing a path in the configuration space. But in the TMs that 
+we defined, the out degree of any node (a configuration) 
+in the graph (in the configuration space) is one. 
+
+<P>
+Similar to the Nondeterministic finite automata, we can also define TMs 
+with delta rules that results in multiple next states 
+(called Nondeterministic Turing Machines or NTMs). Then the delta rules
+will be of the form \( \delta:\Omega\times \mathcal{T} \rightarrow \mathcal{P}(\Omega\times \mathcal{T}\times \{\langle, \rangle, -\}) \).
+(\( \mathcal{P} \) denotes the power set). So the configuration graph of a 
+NTM can have out degree greater than \( 1 \). However the it still has to be a finite 
+number since the size of \( \mathcal{P}(\Omega\times \mathcal{T}\times \{\langle, \rangle, -\}) \) is 
+finite. Following the different paths, an NTM could accept, reject or keep looping.
+So we need to define what is meant by deciding a language by an NTM.
+
+<P>
+An NTM is said to decide a language (a descision problem) \( L \) iff,
+for all strings in the language, there exists one path in the configuration 
+space that results in accept state.  For strings not in the language, all 
+paths in the configuration space should result in reject state.
+
+<P>
+We know that NFA (Nondeterministic Finite automata) can always be converted to 
+a deterministic one. However for Pushdown Automaton this coverstion is not possible
+always. We will see that for TMs, this conversion can always be done. That is the 
+set of languages that can be decided by TMs does not change by allowing 
+nondeterminism.
+
+<P>
+Recall that UTM simulated a deterministic TM, by tracing the path in the configuration
+space. But for NTMs, the graph in the configuration space is a tree. A simple 
+idea is for a UTM to do a graph traversal. DFS might be a bad idea, because
+some of the paths go into infinite loops. Hence it can to BFS. The first time,
+it finds that the NTM has reached the accept state, the UTM can also accept.
+If it never finds an accept state, the simulating TM rejects.
+
+<P>
+<h2>Nondeterministic Polynomial Time : NP</h2>
+<P>
+As we disscussed earlier, an NTM can take different paths in the configuration space.
+The length of the path is essentialy the number of steps. Now we will define 
+the worst case running time for a NTM. 
+
+<P>
+For a language \( L \), on inputs of size \( n \), the worst case running time of an NTM 
+is the length of the longest path in the configuration space on any of the inputs 
+of size \( n \).
+
+<P>
+NP or Nondeterministic Polynomial time  is the class of descision problems for which,
+there is an NTM which decides it in worst case polynomial time.
+
+<P>
+<h2>NP : Verifier Definition</h2>
+<P>
+We will define descision problems that are <em>verifiable</em>. A descision problem 
+is said to be verifable if there exists  a deterministic TM \( M \) that takes two 
+inputs \( (x,y) \) where \( x \) is an instance of the descision problem and \( y \) is
+called a certificate which has length of  atmost \( p(n) \) where \( p \) is a polynomial. 
+For YES-instances \( x \), there should exist a certificate 
+\( y \) such the \( M \) accepts the input \( (x,y) \). For instances not in the language,
+for every \( y \) of length \( p(n) \), \( M \) should reject on \( (x,y) \). Also the running
+time of \( M \) must be polynomial time in size of \( x \).
+
+<P>
+!bu-problem
+Show that NP is the same as the set of verifable languages.
+!eu-problem
+
+<P>
+An example of a verifiable language is the Clique problem.
+
+<P>
+$$
+\text{CLIQUE} = \{ (G,k): G \text{ has a clique of size } k  \}
+$$
+
+<P>
+A certificate for YES-instance \( (G,k) \),  is just the list of vertices in a $k$-clique.
+The polynomial time verifier just checks if there is an edge between all pairs of
+vertices. If \( (G,k) \) is not in the language, then for any set of \( k \) vertices,
+that you can give to the verifier, it will reject, since there will not be an 
+edge between some pair in the list.
+
+<P>
+!bu-problem
+Show that the CHROMATIC-NUMBER problem defined in Lecture 1 is verifiable.
+!eu-problem
+
+<P>
+
+<P>
+<h2>Descision vs Search Problems</h2>
+<h1>Lecture 4: Reductions, Cook-Levin Theorem and NP-Completeness</h1>
+<P>
+The notes are mostly from Section 7.4, 7.5 in the Sipser book.
+
+<P>
+<h2>Polynomial Time Reductions</h2>
+<P>
+Last lecture, we showed that for some problems, the search problem can be solved in polytime,
+if the corresponding desciion problem can be solved in polytime. In this lecture,
+we will show that many desicion problems can be solved by solving one particular 
+desciion problem called $3$-SAT.
+
+<P>
+For this we need first define a reduction. The following problems were defined previously
+
+<ol>
+   <li> $3$-SAT = \( \{ \phi : \phi \text{ is a 3CNF formula that is satisfiable} \} \).
+   <li> CLIQUE = \( \{ (G,k) : G \text{ has a clique of size } k \}. \)
+</ol>
+
+We will say that \( f \) is a (poly time) reduction from $3$-SAT to CLIQUE, if it maps $3$-CNF formulas \( \phi \)
+to a tuple \( (G,k) \) where \( G \) is a graph and \( k \) is a number such that 
+
+<ol>
+   <li> \( f \) can be computed by a polynomial time TM.
+   <li> \( \phi \) is satisfiable if and only if \( G \) has a \( k \) clique.
+</ol>
+
+If we have such an \( f \), any polynomial time algorithm for CLIQUE can be used to 
+design a polynomial time algorithm for $3$-SAT.
+
+<P>
+
+<P>
+Verify that: If we have such an \( f \), give a polynomial time algorithm for $3$-SAT, 
+assuming there is a polynomial time algorithm for CLIQUE.
+
+<P>
+
+<P>
+The algorithm for computing \( f \) is as follows:
+
+<ol>
+   <li> For every clause in \( \phi \), put \( 3 \) new verticies correponding to each literal in the clause.
+   <li> Put all edges in the graph except:
+
+<ol>
+       <li> between the 3 veritices correponding to the same clause.
+       <li> \( x_i \) an \( \bar x_i \) for all \( i \).
+</ol>
+
+   <li> Set \( k \) to be equal to the number of clauses.
+</ol>
+
+Verify the following:
+
+<ol>
+   <li> \( f \) is polynomial time.
+   <li> Show that if \( \phi \) is satisfiable \( G \) has a \( k \) CLIQUE.
+   <li> Show that if \( G \) has a \( k \) CLIQUE then \( \phi \) is satisfiable.
+</ol>
+
+Such a reduction says that CLIQUE is a harder problem than $3$-SAT, because an algo for 
+CLIQUE gives an algo for $3$-SAT and we dont know if the reverse is True. Hence it is denote as
+$$ \text{CLIQUE} \geq_p 3\text{-SAT}.$$
+
+<P>
+
+<P>
+<h2>Cook-Levin Theorem</h2>
+The Cook-Levin Theorem tells that the reverse reduction also exists. In fact,
+it states that any language in NP can be reduced to SAT
+
+<P>
+<b>Cook-Levin Theorem.</b> For any language \( L \in NP \), SAT \( \geq_p  \) L.
+
+<P>
+For doing this, for any language \( L \), that has a nondeterministic polynomial time TM,
+we need to come up with a polynomial time reduction, which satisfies the conditions,
+given in the previous section.
+
+<P>
+
+<P>
+See Theorem 7.37 for the proof of Cook-Levin Theorem.
+
+<P>
+!bu-problem
+Show that $3$-SAT \( \geq_p \) SAT.
+!eu-problem
+
+<P>
+<h2>NP Compeleness / Hardness</h2>
+<P>
+Vertex Cover 3SAT Reduction.
+
+<P>
+!bu-problem
+Solve Problem 7.21 in Sipser book
+!eu-problem
+
+<P>
+!bu-problem
+Solve Problem 7.23 in Sipser book
+!eu-problem
+
+<P>
+
+<P>
+!bu-problem
+Solve Problem 7.27 in Sipser book
+!eu-problem
+
+<P>
+<h1>Lecture 5: More Time Complexity</h1>
+<P>
+<h2>NP-completeness of Vertex Cover and Subset Sum</h2>
+See Section 7.5 in Sipser 2nd Edition
+
+<P>
+<h2>EXP and Time Heirachy Theorem</h2>
+EXPTIME is the set of languages for which there is a poly time determinitic
+TM that runs in \( 2^{n^k} \) for some integer \( k \).
+
+<P>
+Clearly \( \text{P} \subseteq \text{NP} \subseteq \text{EXPTIME} \).
+
+<P>
+As we discussed, the question if P=NP or P \( \subsetneq \) NP is an open problem.
+But what about P \( \subsetneq \) EXP?
+
+<P>
+This is easy to prove using diagonalization. Let DTIME(\( f(n) \)), be the 
+set of languages that can be decided in time \( f(n) \) by a determinitic TM.
+Note that P \( \subseteq \) DTIME(\( 2^n \)). We will design a language that is 
+different from all languages in DTIME(\( 2^n \)) by can be decided in EXPTIME.
+
+<P>
+We define the language by giving a TM \( D \). \( D \) takes encodings of TMs as 
+input \( \langle M \rangle \). D simulates M on \( \langle M \rangle \) for \( 2^n \) steps. 
+If M halts in \( 2^n \) steps, it gives the opposite answer. Otherwise it rejects.
+ Due to 
+the overheads involved in simulating a TM, the TM \( D \) will take more time 
+than \( 2^n \), however halts in less than \( 2^{n^2} \) steps. Hence the 
+language decided by \( D \) is in EXPTIME. 
+
+<P>
+But can the language decided by \( D \) be in DTIME(\( 2^n \)). That is their 
+another TM \( D' \) that decided this language in \( 2^n \) steps. If so 
+what is the output of \( D \) on the input \( \langle D' \rangle \).
+
+<P>
+You can see that this results in a contradiction and hence the 
+language decided by \( D \) is not in P. So P \( \subsetneq \) EXPTIME.
+
+<P>
+The question of whether NP = EXPTIME is again open.
+
+<P>
+<h2>coNP and Map of Complexity classes</h2>
+The complement of a language \( L \) is 
+$$ \bar L = \{ x : x \not in L \}.$$ 
+Let coNP \( = \{ L : \bar L \in \text{NP} \} \).
+
+<P>
+Another way of defining coNP is: it is the set of languages \( L \) for which
+there is a determinitic TM \( M \) that takes 2 inputs \( x,y \) such that 
+
+<ol>
+   <li> If \( x \in L \) then for every \( y \), \( M(x,y) \) accepts.
+</ol>
+
+    p If \( x \notin L \) then there exist a \( y \), for which \( M(x,y) \) rejects.
+
+<P>
+!bu-problem
+Show that these two definitions gives the same set of languages.
+!eu-problem
+
+<P>
+coNP is a set of languages for which there is a certificate for non membership.
+Similar to NP-complete, we can define:
+$$\text{coNP-complete} = \{ L \in \text{coNP} : \forall L' \in \text{coNP}, L' \leq_p L \}$$
+
+<P>
+
+<P>
+!bu-problem
+Show that UNSAT = \( \{ \phi : \phi \text{ is a boolean formula that is unsatisfiable} \} \),
+is coNP-complete
+(a formula is unstatisfiable when for all assignments to the variable, the formula evaluates to False).
+!eu-problem
+
+<P>
+Note that P = coP.
+
+<P>
+
+<P>
+Map of complexity classes
+
+<P>
+
+<P>
+
+<P>
+
+<P>
+<h1>Lecture 6: Space Complexity</h1>
+<P>
+<h2>Space Complexity classes and some Relationships</h2>
+<P>
+Let SPACE$(f(n))$ be the set of languages that can be decided in space \( f(n) \),
+then 
+$$\text{TIME}(f(n)) \subseteq \text{SPACE}(f(n)) \subseteq \text{TIME}(2^{cf(n)}).$$
+
+<P>
+Let coSPACE$(f(n))$ be the complements of languages in SPACE$(f(n))$, then
+$$\text{coSPACE}(f(n)) = \text{SPACE}(f(n)).$$
+
+<P>
+Let L be the set of languages that can be decided in space \( c\log n \) for some constant \( c \),
+and PSPACE the set of languages that can be deciding in polynomial space. Then 
+$$ \text{L} \subsetneq \text{PSPACE}.$$
+
+<P>
+
+<P>
+!bu-problem
+Show that 
+
+<ol>
+   <li> \( \text{L} = \text{coL} \subseteq \text{P} \subset \text{PSPACE} \subseteq \text{EXPTIME}. \)
+   <li> \( \text{L} \subsetneq \text{PSPACE}. \)
+</ol>
+
+!eu-problem
+
+<P>
+
+<P>
+
+<P>
+<h2>Non Determinism and Space : NL-complete, Savith's Theorem</h2>
+<P>
+Just like we defined NP, we can define NL as the set of languages that
+is decided by a non deterministic log-space TM. Whether L = NL is again 
+a well known open problem like P = NP. We can do reductions in NL. 
+As we will see later \( NL \subseteq P \). Therefore any two languages 
+in NL are polynomial time reducible (in fact a polytime machine solve the problem 
+itself). Hence for defining NL-complete langauges, we use log-space reductions
+that runs in \( O(\log n) \) space (denoted by \( \leq_l \)). That is 
+$$\text{NL-complete} = \{ R : R \text{ is a language such that for all other languages R' } \in L, R' \leq_l R \}.$$
+
+<P>
+!bu-problem
+Show that 
+
+<ol>
+   <li> \( \text{REACHABILITY} \in \text{NL-complete}. \)
+   <li> \( \text{NL} \subseteq \text{P}. \)
+</ol>
+
+!eu-problem
+
+<P>
+Actually all languages is NL can be decided by a deterministic \( O(\log^2 n) \) space TM. 
+This theorem is known as Savitch's Theorem.
+
+<P>
+Savitch's theorem says that \( \text{NPSPACE}(f(n)) \subseteq \text{SPACE}(f^2(n)) \).
+See proof in proof of Theorem 8.5 in Sipser book.
+
+<P>
+
+<P>
+<h2>Overview of next part of course</h2>
+<P>
+Streaming algorithms for Well paranthesised expressions.
+Lowerbound using communication complexity.
+
+<P>
+
+<P>
+
+<P>
+<h2>Readings</h2>
+Chapter 8, Introduction to Theory of Computation by Micheal Sipser, Edition 2.
+
+<P>
+Chapter 4, Computational Complexity: A Modern Approach
+Sanjeev Arora and Boaz Barak
+http://theory.cs.princeton.edu/complexity/book.pdf
+
+<P>
+
+<P>
+<h1>Lecture 7: NL = coNL, Randomization</h1>
+<P>
+<h2>Recapping Nondeterminism</h2>
+<P>
+When do we say a Nondeterministic TM accepts a languages?
+
+<P>
+Why is it not obiviously true that \( NP = coNP \).?
+
+<P>
+Verifier definition of NP, NL.
+
+<P>
+<h2>Immerman-Szelepcsenyi Theorem : NL = coNL</h2>
+<P>
+In time complexity, we didnt have a proof of NP = coNP. This remains an open problem.
+However in space complexity, we know that NL = coNL. This theorem is known as the 
+Immerman-Szelepcsenyi Theorem.
+See Section 8.6 in Sipser book.
+
+<P>
+
+<P>
+!bu-problem
+Given an NL algorithm (use verifier definition) :
+
+<ol>
+   <li> which on input a graph \( G(V,E) \), vertices \( s,t \in V \) and a number \( i \), checks if \( s \) is reachable from \( t \) in \( \leq i \) steps.
+   <li> which on input a graph \( G(V,E) \), verticex \( s \in V \) and a numbers \( i, c \), checks if the number of vertices reachable from \( s \) in \( i \) steps is  \( \geq c \).
+   <li> which on input a graph \( G(V,E) \), verticex \( s \in V \) and a numbers \( i, c \), checks if the number of vertices not reachable from \( s \) in \( i \) steps is  \( =c \).
+</ol>
+
+!eu-problem
+
+<P>
+
+<P>
+<h2>Randomized TMs and Complexity Classes</h2>
+<P>
+!bu-problem
+Show that
+
+<ol>
+   <li> RP \( \subseteq \) BPP
+   <li> coRP \( \subseteq \) BPP
+   <li> BPP \( \subseteq \) PSPACE
+   <li> RP \( \subseteq \) NP
+   <li> BPP \( = \) coBPP
+</ol>
+
+!eu-problem
+
+<P>
+
+<P>
+
+<P>
+!bu-problem
+<em>Bonus Problem</em>
+A forest is a graph which is a disjoint union of trees (ie tree on different set of vertices).
+Show that REACHABILITY in a forest can be solved using \( O(\log n) \) space.
+!eu-problem
+
+<P>
+
+<P>
+<h2>Readings</h2>
+Chapter 8, Introduction to Theory of Computation by Micheal Sipser, Edition 2.
+
+<P>
+Chapter 4, Computational Complexity: A Modern Approach
+Sanjeev Arora and Boaz Barak
+http://theory.cs.princeton.edu/complexity/book.pdf
+
+<P>
+
+<P>
+<h1>Lecture 8: Randomized Algos</h1>
+<P>
+<h2>BPP and Amplification</h2>
+<P>
+Last lecture we saw that \( \text{RP}_{1/100} = \text{RP}_{99/100} \). 
+This lecture we said that \( \text{BPP}_{1/2 + \epsilon} = \text{BPP}_{1 - \epsilon} \)
+for any small constant \( \epsilon \).
+
+<P>
+!bu-problem
+Let \( \text{BPP}_\alpha \) be the class of languguages L that have a PTM M such that
+
+<ol>
+   <li> If \( x\in L \) then \( \Pr[M(x) \text{accepts}] \geq \alpha \).
+   <li> If \( x\notin L \) then \( \Pr[M(x) \text{rejects}] \geq \alpha \).
+</ol>
+
+Show that:
+
+<ol>
+   <li> \( \text{BPP}_{1/2} \) is the set of all languages.
+   <li> \( \text{BPP}_{2/3} = \text{BPP}_{20/27} \) (without using Chernoff's Bounds).
+</ol>
+
+!eu-problem
+
+<P>
+
+<P>
+See Chapter 10.2 in Sipser
+
+<P>
+<h2>Approx MAX-CUT</h2>
+See Chapter 10.1 in Sipser for approximation algorithms. 
+See Section 2.3.4 in 
+https://people.seas.harvard.edu/~salil/pseudorandomness/power.pdf
+
+<P>
+
+<P>
+!bu-problem
+The Approximate-$7/8$-$3$SAT problem is given an input a $3$-SAT boolean formula,
+find an assignment that satisfies atleast \( 7/8 \) fraction of the clauses (ie if 
+there are \( m \) clauses, find an assignment that satisfies \( m\times 7/8 \) clauses).
+
+<P>
+Give a randomized algorithm which solves Approximate-7/8-3SAT (answer just need
+to be correct in expectation as we discussed for the MAXCUT problem in class.).
+!eu-problem
+
+<P>
+<h2>Undirected REACHABILITY in RL</h2>
+<P>
+See Section 2.4 in 
+https://people.seas.harvard.edu/~salil/pseudorandomness/power.pdf
+
+<P>
+!bu-problem
+Let M be the adjacency matrix of a undirected $d$-regular graph \( G \) (all vertices have exactly \( d \) neighbours).
+Show that:
+
+<ol>
+   <li> \( d \) is an eigenvalue of \( M \).
+   <li> If \( c \) is the number of connected components in \( G \), then there are \( c \) linearly independent eigenvectors of \( M \) with eigen value \( d \).
+   <li> If \( G \) is a bipartite graph then \( -d \) is an eigenvalue of \( M \).
+</ol>
+
+!eu-problem
+
+<P>
+
+<P>
+!bu-problem
+<b>Bonus Problem</b>
+Let M be the adjacency matrix of a undirected $d$-regular graph \( G \) (all vertices have exactly \( d \) neighbours).
+Show that:
+
+<ol>
+   <li> If there are \( c \) linearly independent eigenvectors of \( M \) with eigen value \( d \) then \( G \) has \( c \) connected components.
+   <li> If \( -d \) is an eigenvalue of \( M \) then \( G \) is a bipartite graph,.
+</ol>
+
+!eu-problem
+
+<P>
+<h2>Readings</h2>
+<P>
+Chapter 10, Intro to Theory of Comp., Edition 2, Sipser
+
+<P>
+Chapter 2, Pseudorandomness survey,
+Salil Vadhan 
+https://people.seas.harvard.edu/~salil/pseudorandomness/power.pdf
+https://people.seas.harvard.edu/~salil/pseudorandomness/
+
+<P>
+Chapter 7, Computational Complexity: A Modern Approach
+Sanjeev Arora and Boaz Barak
+http://theory.cs.princeton.edu/complexity/book.pdf
+
+<P>
+
+<P>
+
+</body>
+</html>
+    

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://geevi.github.io/home/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/home/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/home/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/home/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/home/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/home/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/univ-seg/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/idd/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/xnet/</loc>
+    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/visual-reloc-achor/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/road-audit/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/grad-group/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/class2str/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/teaching/efficient-cnns/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/teaching/mot/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/complexity-notes/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/teaching/complexity-theory/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/compression-place/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/thesis/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/characterization-covering/</loc>
+    <lastmod>2015-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/hyper-coloring-journal/</loc>
+    <lastmod>2015-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/fortification/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/improved-khot-saket/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/graph-prods/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/playing-games/</loc>
+    <lastmod>2014-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/slime-mold2/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/streaming2/</loc>
+    <lastmod>2011-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/publication/conductance/</loc>
+    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/algorithms/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/autonomous-navigation/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/complexity-theory/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/computer-vision/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/deep-learning/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/game-theory/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/graph-theory/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/hardness-of-approximation/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/image-retrieval/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/latent-heirarchy/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/localization/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/machine-learning/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/model-compression/</loc>
+    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/physarum-computer/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/probabilistically-checkable-proofs/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/semantic-segmentation/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/streaming-algorithms/</loc>
+    <lastmod>2011-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/teaching/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://geevi.github.io/projects/transportation/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

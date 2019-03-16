@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+<div class="container">
+
+<div class="row">
+
+    <div class="col-lg-8 col-centered pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+
+        <div class="container pub-title">
+          <h1 itemprop="name">{{ .Title }}</h1></div>
+      
+
+{{ .Content }}
+</div>
+
+
+</div>
+</div>
+
+{{ partial "footer.html" . }}

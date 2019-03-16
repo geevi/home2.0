@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+    
+    
+    
+    
+    <meta name="generator" content="Hugo 0.51" />
+
+    <title>Girish Varma</title>
+
+    
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <link href="/css/scrolling-nav.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Neuton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://geevi.github.io/css/style.css">
+
+</head>
+
+
+
+<body id="page-top">
+
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="https://geevi.github.io">Girish Varma</a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarResponsive" style="">
+        <ul class="navbar-nav ml-auto">
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#about">Home</a>
+            </li>
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#teaching">Teaching</a>
+            </li>
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#events">Events</a>
+            </li>
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#projects">Research</a>
+            </li>
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#publications">Publications</a>
+            </li>
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/pdfs/girish-resume.pdf">CV</a>
+            </li>
+            
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#contact">Contact</a>
+            </li>
+            
+        </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+<div class="row">
+
+    <div class="col-lg-8 col-centered pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+
+        <div class="container pub-title">
+          <h1 itemprop="name">Efficient CNNs</h1></div>
+      
+
+
+
+<p>Deep Neural Networks, while being unreasonably effective for several vision tasks, have their usage limited by the computational and memory requirements, both during training and inference stages. Analyzing and improving the connectivity patterns between layers of a network has resulted in several compact architectures like GoogleNet, ResNet and DenseNet-BC. We survey the most recent developments giving CNN architectures with better error vs resourse (parameters/FLOPs/energy/memory/fps) tradeoffs.</p>
+
+<p>We also plan to learn how to do fast implementations of CNNs in existing processing architectures. Most important processor currently is the GPU. Hence we plan to learn some amount of GPU programming as well.</p>
+
+<h2 id="schedule">Schedule</h2>
+
+<p>Every week we meet for 3 hrs. Broadly it will be divided in to:</p>
+
+<ul>
+<li>1 hr will be spent on basics and pre 2017 techniques</li>
+<li>1 hr on more recent techniques or theory</li>
+<li>1 hr on GPU programming (also some thing about FPGAs or general hardware?)</li>
+</ul>
+
+<h2 id="papers">Papers</h2>
+
+<p>The topics covered can be broadly classified into following. It is reccomended that each participant take one topic and read all papers related to it. If there are too many in a particular topic, we can find some way to share the load.</p>
+
+<h3 id="explicit-compression-techniques">Explicit Compression Techniques</h3>
+
+<ul>
+<li>Trained Pruning and Quantization : <a href="https://arxiv.org/abs/1510.00149">https://arxiv.org/abs/1510.00149</a></li>
+<li>Low Rank and Sparse Approximations : <a href="http://ieeexplore.ieee.org/document/8099498/">http://ieeexplore.ieee.org/document/8099498/</a></li>
+<li>Binarized Networks : <a href="http://allenai.org/plato/xnornet/">http://allenai.org/plato/xnornet/</a></li>
+</ul>
+
+<h3 id="efficient-cnn-designs">Efficient CNN Designs</h3>
+
+<ul>
+<li>Grouped Convolutions :
+
+<ul>
+<li><a href="https://ikhlestov.github.io/pages/machine-learning/convolutions-types/">https://ikhlestov.github.io/pages/machine-learning/convolutions-types/</a></li>
+<li><a href="https://blog.yani.io/filter-group-tutorial/">https://blog.yani.io/filter-group-tutorial/</a></li>
+</ul></li>
+<li>Depthwise Seperable Convolutions (MobileNet)
+
+<ul>
+<li><a href="https://arxiv.org/abs/1704.04861">https://arxiv.org/abs/1704.04861</a></li>
+</ul></li>
+<li>ResNext
+
+<ul>
+<li><a href="https://arxiv.org/abs/1611.05431">https://arxiv.org/abs/1611.05431</a></li>
+</ul></li>
+<li>DenseNet
+
+<ul>
+<li><a href="https://arxiv.org/abs/1608.06993">https://arxiv.org/abs/1608.06993</a></li>
+</ul></li>
+<li>ShuffleNet
+
+<ul>
+<li><a href="https://arxiv.org/abs/1707.01083">https://arxiv.org/abs/1707.01083</a></li>
+</ul></li>
+<li>Interleaved Convolution
+
+<ul>
+<li><a href="https://arxiv.org/pdf/1707.02725.pdf">https://arxiv.org/pdf/1707.02725.pdf</a></li>
+</ul></li>
+<li>Deep Expander Nets
+
+<ul>
+<li><a href="https://arxiv.org/abs/1711.08757">https://arxiv.org/abs/1711.08757</a></li>
+</ul></li>
+<li>ZeroFLOP operation
+
+<ul>
+<li><a href="https://arxiv.org/abs/1711.08141">https://arxiv.org/abs/1711.08141</a></li>
+</ul></li>
+<li>Block Sparse GPU Kernels
+
+<ul>
+<li><a href="https://blog.openai.com/block-sparse-gpu-kernels/">https://blog.openai.com/block-sparse-gpu-kernels/</a></li>
+</ul></li>
+<li>Capsule Network
+
+<ul>
+<li><a href="https://arxiv.org/abs/1710.09829">https://arxiv.org/abs/1710.09829</a></li>
+</ul></li>
+<li>FractalNet
+
+<ul>
+<li><a href="https://arxiv.org/abs/1605.07648">https://arxiv.org/abs/1605.07648</a></li>
+</ul></li>
+<li>MEC (ICML &lsquo;17)
+
+<ul>
+<li><a href="http://proceedings.mlr.press/v70/cho17a/cho17a.pdf">http://proceedings.mlr.press/v70/cho17a/cho17a.pdf</a></li>
+</ul></li>
+<li>SENet (ImageNet 2017 Competition Winner)
+
+<ul>
+<li><a href="https://arxiv.org/pdf/1709.01507.pdf">https://arxiv.org/pdf/1709.01507.pdf</a></li>
+</ul></li>
+<li>MobileNet v2 (with detection and segmentation scores)
+
+<ul>
+<li><a href="https://arxiv.org/pdf/1801.04381.pdf">https://arxiv.org/pdf/1801.04381.pdf</a></li>
+</ul></li>
+</ul>
+
+<h3 id="efficient-semantic-segmentation-architectures">Efficient Semantic Segmentation Architectures</h3>
+
+<ul>
+<li>DeepLab V3, PSPNet (Atrous Convolutions, Pyramidal Spatial Pooling)
+
+<ul>
+<li><a href="https://arxiv.org/abs/1706.05587">https://arxiv.org/abs/1706.05587</a></li>
+<li><a href="https://hszhao.github.io/projects/pspnet/">https://hszhao.github.io/projects/pspnet/</a></li>
+</ul></li>
+</ul>
+
+<h3 id="architecture-search">Architecture Search</h3>
+
+<ul>
+<li>NasNet
+
+<ul>
+<li><a href="https://research.googleblog.com/2017/11/automl-for-large-scale-image.html">https://research.googleblog.com/2017/11/automl-for-large-scale-image.html</a></li>
+<li><a href="https://arxiv.org/abs/1707.07012">https://arxiv.org/abs/1707.07012</a></li>
+</ul></li>
+<li>Hierarchical Representations for Efficient Architecture Search
+
+<ul>
+<li><a href="https://arxiv.org/abs/1711.00436">https://arxiv.org/abs/1711.00436</a></li>
+</ul></li>
+<li>Progressive Neural Architecture Search
+
+<ul>
+<li><a href="https://arxiv.org/abs/1712.00559">https://arxiv.org/abs/1712.00559</a></li>
+</ul></li>
+<li>CondenseNet
+
+<ul>
+<li><a href="https://arxiv.org/abs/1711.09224">https://arxiv.org/abs/1711.09224</a></li>
+</ul></li>
+</ul>
+
+<h3 id="gpu-programming">GPU Programming</h3>
+
+<ul>
+<li>Follow course notes : <a href="http://courses.cms.caltech.edu/cs179/">http://courses.cms.caltech.edu/cs179/</a></li>
+</ul>
+
+<h3 id="theory-for-cnns">Theory for CNNs</h3>
+
+<ul>
+<li>Follow some papers from : <a href="https://stats385.github.io/readings">https://stats385.github.io/readings</a></li>
+</ul>
+
+<h2 id="meetings">Meetings</h2>
+
+<ol>
+<li>CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | Pruning and Quantization Introduction</li>
+<li>ResNext | GPU Programming 1</li>
+<li>FractualNets | Memory Efficient Convolutions (MEC)</li>
+<li>CapsuleNet | tvmlang | Semantic segmentation architectures (PSP Module, Atrous convolutions from Deeplab v3)</li>
+</ol>
+
+<h2 id="participants">Participants</h2>
+
+<ul>
+<li>Ameya Prabhu</li>
+<li>Aniruddha Vivek Patil</li>
+<li>Sriharsha Annamaneni</li>
+<li>Aaron Varghese</li>
+<li>Vallurupalli Nikitha</li>
+<li>Sudhir Kumar Reddy</li>
+<li>Soham Saha</li>
+<li>Ashutosh Mishra</li>
+</ul>
+
+</div>
+
+
+</div>
+</div>
+
+
+    
+    <footer class="py-5 bg-dark">
+        <div class="container">
+          <p class="m-0 text-center text-white">
+              © 2017 Girish Varma · Powered by the Research Portfolio theme for Hugo.</p>
+        </div>
+        
+      </footer>
+  
+      
+      <script src="/js/jquery.min.js"></script>
+      <script src="/js/bootstrap.bundle.min.js"></script>
+  
+      
+      <script src="/js/jquery.easing.min.js"></script>
+  
+      
+      <script src="/js/scrolling-nav.js"></script>
+  
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i" rel="stylesheet">
+  
+  
+</body></html>

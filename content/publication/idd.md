@@ -52,12 +52,12 @@ projects = ["autonomous-navigation", "semantic-segmentation", "computer-vision"]
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
 url_preprint = "https://arxiv.org/abs/1811.10200"
-#url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
+url_code = "https://github.com/AutoNUE/public-code"
 url_dataset = "http://idd.insaan.iiit.ac.in"
 url_project = "http://insaan.iiit.ac.in"
 url_slides = "/pdfs/idd.pdf"
 url_video = "https://docs.google.com/file/d/1eELxtxx7RutTxWtMHOKHRE_IsLa7uWmp/preview"
-#url_poster = "/pdfs/ECCV18.pdf"
+url_poster = "/pdfs/IDD_WACV19_Poster.pdf"
 #url_source = "#"
 
 # Custom links (optional).

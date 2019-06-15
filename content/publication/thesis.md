@@ -34,7 +34,7 @@ selected = true
 projects = ["hardness-of-approximation", "probabilistically-checkable-proofs", "complexity-theory"]
 
 # Links (optional).
-url_pdf =  "https://pdfs.semanticscholar.org/45a0/63f265b3baa41161d959fc7417804cfbc508.pdf"
+url_pdf =  "/pdfs/thesis.pdf"
 #url_preprint = "http://arxiv.org/abs/1104.0848"
 #url_code = "#"
 #url_dataset = "#"

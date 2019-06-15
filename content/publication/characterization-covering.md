@@ -34,8 +34,8 @@ selected = true
 projects = ["hardness-of-approximation", "probabilistically-checkable-proofs", "complexity-theory"]
 
 # Links (optional).
-url_doi =  "https://doi.org/10.1016/j.jtbi.2012.06.017"
-url_preprint = "https://arxiv.org/abs/1411.7747"
+url_doi =  "http://drops.dagstuhl.de/opus/volltexte/2015/5057/"
+#url_preprint = "https://arxiv.org/abs/1411.7747"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

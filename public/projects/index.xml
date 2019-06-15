@@ -6,22 +6,13 @@
     <description>Recent content in Projects on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://geevi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Algorithms</title>
-      <link>https://geevi.github.io/projects/algorithms/</link>
-      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/algorithms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomous Navigation</title>
+      <title>autonomous-navigation</title>
       <link>https://geevi.github.io/projects/autonomous-navigation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -30,16 +21,7 @@
     </item>
     
     <item>
-      <title>Complexity Theory</title>
-      <link>https://geevi.github.io/projects/complexity-theory/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/complexity-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
+      <title>computer-vision</title>
       <link>https://geevi.github.io/projects/computer-vision/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -48,7 +30,7 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
+      <title>deep-learning</title>
       <link>https://geevi.github.io/projects/deep-learning/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -57,61 +39,7 @@
     </item>
     
     <item>
-      <title>Game Theory</title>
-      <link>https://geevi.github.io/projects/game-theory/</link>
-      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/game-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Theory</title>
-      <link>https://geevi.github.io/projects/graph-theory/</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/graph-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardness of Approximation</title>
-      <link>https://geevi.github.io/projects/hardness-of-approximation/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/hardness-of-approximation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Retrieval</title>
-      <link>https://geevi.github.io/projects/image-retrieval/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/image-retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latent Heirarchy</title>
-      <link>https://geevi.github.io/projects/latent-heirarchy/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/latent-heirarchy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Localization</title>
-      <link>https://geevi.github.io/projects/localization/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
+      <title>machine-learning</title>
       <link>https://geevi.github.io/projects/machine-learning/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -120,34 +48,7 @@
     </item>
     
     <item>
-      <title>Model Compression</title>
-      <link>https://geevi.github.io/projects/model-compression/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/model-compression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physarum Computer</title>
-      <link>https://geevi.github.io/projects/physarum-computer/</link>
-      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/physarum-computer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistically Checkable Proofs</title>
-      <link>https://geevi.github.io/projects/probabilistically-checkable-proofs/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://geevi.github.io/projects/probabilistically-checkable-proofs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Segmentation</title>
+      <title>semantic-segmentation</title>
       <link>https://geevi.github.io/projects/semantic-segmentation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -156,20 +57,119 @@
     </item>
     
     <item>
-      <title>Streaming Algorithms</title>
-      <link>https://geevi.github.io/projects/streaming-algorithms/</link>
-      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+      <title>model-compression</title>
+      <link>https://geevi.github.io/projects/model-compression/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/streaming-algorithms/</guid>
+      <guid>https://geevi.github.io/projects/model-compression/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transportation</title>
+      <title>localization</title>
+      <link>https://geevi.github.io/projects/localization/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transportation</title>
       <link>https://geevi.github.io/projects/transportation/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://geevi.github.io/projects/transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent heirarchy</title>
+      <link>https://geevi.github.io/projects/latent-heirarchy/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/latent-heirarchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity-theory</title>
+      <link>https://geevi.github.io/projects/complexity-theory/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/complexity-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image-retrieval</title>
+      <link>https://geevi.github.io/projects/image-retrieval/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/image-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardness-of-approximation</title>
+      <link>https://geevi.github.io/projects/hardness-of-approximation/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/hardness-of-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probabilistically-checkable-proofs</title>
+      <link>https://geevi.github.io/projects/probabilistically-checkable-proofs/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/probabilistically-checkable-proofs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game-theory</title>
+      <link>https://geevi.github.io/projects/game-theory/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/game-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph-theory</title>
+      <link>https://geevi.github.io/projects/graph-theory/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/graph-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithms</title>
+      <link>https://geevi.github.io/projects/algorithms/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physarum-computer</title>
+      <link>https://geevi.github.io/projects/physarum-computer/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/physarum-computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streaming-algorithms</title>
+      <link>https://geevi.github.io/projects/streaming-algorithms/</link>
+      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/projects/streaming-algorithms/</guid>
       <description></description>
     </item>
     

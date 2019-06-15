@@ -52,10 +52,3 @@ I am an Asst. Prof. at the [Center for Security, Theory & Algorithms Research (C
 
 I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and continues to have interest in Complexity theory, Combinatorics and Graph theory. Later I went on to do research (at IIIT Hyderabad) in Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. A summary of my research can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vRWkBqM6TOI8dT5VPSGjSZnrtiVGPjBFSwn7gF8cv-E8am32bxcZh-akJPobQulytrzo2qq3acLiLrO/pub?start=false&loop=false&delayms=3000).
 
-Students interested in doing research with me, can find oppurtunities [here](/openings).
-
-
-
-
-
-

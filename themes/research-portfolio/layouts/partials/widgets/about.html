@@ -2,57 +2,59 @@
 {{ $page := .page }}
 
 <div class="col-lg-3 profile">
-        <img id='profile-pic' class="rounded-circle" src="{{ $page.Params.profile_pic }}" alt="Generic placeholder image" width="200" height="200">
-        <div class="portrait-title">
+  <img id='profile-pic' class="rounded-circle" src="{{ $page.Params.profile_pic }}" alt="Generic placeholder image"
+    width="150" height="150">
+  <div class="portrait-title">
     <h2 itemprop="name">{{ $page.Params.name }}</h2>
-    <br/>
-    <span itemprop="jobTitle">{{ $page.Params.jobtitle }}</span><br/>
+    <span class="worksfor" itemprop="jobTitle">{{ $page.Params.jobtitle }}</span>
     {{ range $page.Params.works_for }}
-    <span itemprop="worksFor" itemscope="" itemtype="http://schema.org/Organization">
+    <span class="worksfor" itemprop="worksFor" itemscope="" itemtype="http://schema.org/Organization">
       <a href="{{.URL}}" target="_blank" itemprop="url" rel="noopener">
-      <span itemprop="name">{{.Org}}</span>
+        <span itemprop="name">{{.Org}}</span>
       </a>
-    </span><br/>
+    </span>
     {{ end }}
-  </br/>
+    </br />
     <a class="btn btn-outline-primary" href="#contact">Contact</a>
   </div>
-      </div>
+</div>
 
 <div class="col-lg-9">
-<div >          
-        {{ $page.Content }}
-</div>
-<div class="row">
-
-  {{ with $page.Params.interests }}
-  <div class="col-sm-5">
-    <h4>Interests</h4>
-    <ul class="ul-interests">
-      {{ range .interests }}
-      <li><p>{{ . | markdownify }}</p></li>
-      {{ end }}
-    </ul>
+  <div>
+    {{ $page.Content }}
   </div>
-  {{ end }}
+  <div class="row">
 
-  {{ with $page.Params.education }}
-  <div class="col-sm-7">
-    <h4>Education</h4>
-    <ul class="ul-edu fa-ul">
-      {{ range .courses }}
-      <li>
-        <i class="fa-li fa fa-graduation-cap"></i>
-        <div class="description">
-          <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}<br/>
-          {{ .institution }}</p>
-        </div>
-      </li>
-      {{ end }}
-    </ul>
+    {{ with $page.Params.interests }}
+    <div class="col-sm-5">
+      <h4>Interests</h4>
+      <ul class="ul-interests">
+        {{ range .interests }}
+        <li>
+          <p>{{ . | markdownify }}</p>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ with $page.Params.education }}
+    <div class="col-sm-7">
+      <h4>Education</h4>
+      <ul class="ul-edu fa-ul">
+        {{ range .courses }}
+        <li>
+          <i class="fa-li fa fa-graduation-cap"></i>
+          <div class="description">
+            <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}<br />
+              {{ .institution }}</p>
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
   </div>
-  {{ end }}
-
-</div>
 
 </div>

@@ -15,7 +15,7 @@
 
 
 #profile-pic {
-  margin-bottom: 20px
+  margin-bottom: 10px
 }
 
 .navbar-brand {
@@ -121,4 +121,10 @@ h2 {
 
 strong, b {
   font-weight: 600
+}
+
+.worksfor {
+    display: block;
+    border-bottom: 1px lightgray solid;
+    padding: 5px 0px;
 }

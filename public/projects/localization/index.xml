@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>localization on Girish Varma</title>
-    <link>https://geevi.github.io/projects/localization/</link>
+    <link>https://girishvarma.in/projects/localization/</link>
     <description>Recent content in localization on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/localization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/localization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Improved Visual Relocalization by Discovering Anchor Points</title>
-      <link>https://geevi.github.io/publication/visual-reloc-achor/</link>
+      <link>https://girishvarma.in/publication/visual-reloc-achor/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/visual-reloc-achor/</guid>
+      <guid>https://girishvarma.in/publication/visual-reloc-achor/</guid>
       <description>We address the visual relocalization problem of predicting the location and camera orientation or pose (6DOF) of the given input scene. We propose a method based on how humans determine their location using the visible landmarks. We define anchor points uniformly across the route map and propose a deep learning architecture which predicts the most relevant anchor point present in the scene as well as the relative offsets with respect to it.</description>
     </item>
     

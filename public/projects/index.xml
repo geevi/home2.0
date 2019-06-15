@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Girish Varma</title>
-    <link>https://geevi.github.io/projects/</link>
+    <link>https://girishvarma.in/projects/</link>
     <description>Recent content in Projects on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>autonomous-navigation</title>
-      <link>https://geevi.github.io/projects/autonomous-navigation/</link>
+      <link>https://girishvarma.in/projects/autonomous-navigation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/autonomous-navigation/</guid>
+      <guid>https://girishvarma.in/projects/autonomous-navigation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>computer-vision</title>
-      <link>https://geevi.github.io/projects/computer-vision/</link>
+      <link>https://girishvarma.in/projects/computer-vision/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/computer-vision/</guid>
+      <guid>https://girishvarma.in/projects/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deep-learning</title>
-      <link>https://geevi.github.io/projects/deep-learning/</link>
+      <link>https://girishvarma.in/projects/deep-learning/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/deep-learning/</guid>
+      <guid>https://girishvarma.in/projects/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine-learning</title>
-      <link>https://geevi.github.io/projects/machine-learning/</link>
+      <link>https://girishvarma.in/projects/machine-learning/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/machine-learning/</guid>
+      <guid>https://girishvarma.in/projects/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>semantic-segmentation</title>
-      <link>https://geevi.github.io/projects/semantic-segmentation/</link>
+      <link>https://girishvarma.in/projects/semantic-segmentation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/semantic-segmentation/</guid>
+      <guid>https://girishvarma.in/projects/semantic-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>model-compression</title>
-      <link>https://geevi.github.io/projects/model-compression/</link>
+      <link>https://girishvarma.in/projects/model-compression/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/model-compression/</guid>
+      <guid>https://girishvarma.in/projects/model-compression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>localization</title>
-      <link>https://geevi.github.io/projects/localization/</link>
+      <link>https://girishvarma.in/projects/localization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/localization/</guid>
+      <guid>https://girishvarma.in/projects/localization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>transportation</title>
-      <link>https://geevi.github.io/projects/transportation/</link>
+      <link>https://girishvarma.in/projects/transportation/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/transportation/</guid>
+      <guid>https://girishvarma.in/projects/transportation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>latent heirarchy</title>
-      <link>https://geevi.github.io/projects/latent-heirarchy/</link>
+      <link>https://girishvarma.in/projects/latent-heirarchy/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/latent-heirarchy/</guid>
+      <guid>https://girishvarma.in/projects/latent-heirarchy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>complexity-theory</title>
-      <link>https://geevi.github.io/projects/complexity-theory/</link>
+      <link>https://girishvarma.in/projects/complexity-theory/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/complexity-theory/</guid>
+      <guid>https://girishvarma.in/projects/complexity-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image-retrieval</title>
-      <link>https://geevi.github.io/projects/image-retrieval/</link>
+      <link>https://girishvarma.in/projects/image-retrieval/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/image-retrieval/</guid>
+      <guid>https://girishvarma.in/projects/image-retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hardness-of-approximation</title>
-      <link>https://geevi.github.io/projects/hardness-of-approximation/</link>
+      <link>https://girishvarma.in/projects/hardness-of-approximation/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/hardness-of-approximation/</guid>
+      <guid>https://girishvarma.in/projects/hardness-of-approximation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>probabilistically-checkable-proofs</title>
-      <link>https://geevi.github.io/projects/probabilistically-checkable-proofs/</link>
+      <link>https://girishvarma.in/projects/probabilistically-checkable-proofs/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/probabilistically-checkable-proofs/</guid>
+      <guid>https://girishvarma.in/projects/probabilistically-checkable-proofs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>game-theory</title>
-      <link>https://geevi.github.io/projects/game-theory/</link>
+      <link>https://girishvarma.in/projects/game-theory/</link>
       <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/game-theory/</guid>
+      <guid>https://girishvarma.in/projects/game-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph-theory</title>
-      <link>https://geevi.github.io/projects/graph-theory/</link>
+      <link>https://girishvarma.in/projects/graph-theory/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/graph-theory/</guid>
+      <guid>https://girishvarma.in/projects/graph-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>algorithms</title>
-      <link>https://geevi.github.io/projects/algorithms/</link>
+      <link>https://girishvarma.in/projects/algorithms/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/algorithms/</guid>
+      <guid>https://girishvarma.in/projects/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>physarum-computer</title>
-      <link>https://geevi.github.io/projects/physarum-computer/</link>
+      <link>https://girishvarma.in/projects/physarum-computer/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/physarum-computer/</guid>
+      <guid>https://girishvarma.in/projects/physarum-computer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>streaming-algorithms</title>
-      <link>https://geevi.github.io/projects/streaming-algorithms/</link>
+      <link>https://girishvarma.in/projects/streaming-algorithms/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/projects/streaming-algorithms/</guid>
+      <guid>https://girishvarma.in/projects/streaming-algorithms/</guid>
       <description></description>
     </item>
     

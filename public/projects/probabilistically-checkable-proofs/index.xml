@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>probabilistically-checkable-proofs on Girish Varma</title>
-    <link>https://geevi.github.io/projects/probabilistically-checkable-proofs/</link>
+    <link>https://girishvarma.in/projects/probabilistically-checkable-proofs/</link>
     <description>Recent content in probabilistically-checkable-proofs on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/probabilistically-checkable-proofs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/probabilistically-checkable-proofs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hardness of Approximate Coloring</title>
-      <link>https://geevi.github.io/publication/thesis/</link>
+      <link>https://girishvarma.in/publication/thesis/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/thesis/</guid>
+      <guid>https://girishvarma.in/publication/thesis/</guid>
       <description>The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0.</description>
     </item>
     
     <item>
       <title>A Characterization of Hard-to-cover CSPs</title>
-      <link>https://geevi.github.io/publication/characterization-covering/</link>
+      <link>https://girishvarma.in/publication/characterization-covering/</link>
       <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/characterization-covering/</guid>
+      <guid>https://girishvarma.in/publication/characterization-covering/</guid>
       <description>We continue the study of covering complexity of constraint satisfaction problems (CSPs) initiated by Guruswami, Hastad and Sudan [SIAM J. Computing, 31(6):1663&amp;ndash;1686, 2002] and Dinur and Kol [In Proc. 28th IEEE Conference on Computational Complexity, 2013]. The covering number of a CSP instance $\phi$, denoted by ν(Φ) is the smallest number of assignments to the variables of $\phi$, such that each constraint of Φ is satisfied by at least one of the assignments.</description>
     </item>
     
     <item>
       <title>On Fortification of Projection Games</title>
-      <link>https://geevi.github.io/publication/fortification/</link>
+      <link>https://girishvarma.in/publication/fortification/</link>
       <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/fortification/</guid>
+      <guid>https://girishvarma.in/publication/fortification/</guid>
       <description>A recent result of Moshkovitz cite{Moshkovitz14} presented an ingenious method to provide a completely elementary proof of the Parallel Repetition Theorem for certain projection games via a construction called fortification. However, the construction used in cite{Moshkovitz14} to fortify arbitrary label cover instances using an arbitrary extractor is insufficient to prove parallel repetition. In this paper, we provide a fix by using a stronger graph that we call fortifiers. Fortifiers are graphs that have both 1 and 2 guarantees on induced distributions from large subsets.</description>
     </item>
     

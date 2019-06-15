@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transportation on Girish Varma</title>
-    <link>https://geevi.github.io/projects/transportation/</link>
+    <link>https://girishvarma.in/projects/transportation/</link>
     <description>Recent content in transportation on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/transportation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/transportation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cityscale Road Audit System using Deep Learning</title>
-      <link>https://geevi.github.io/publication/road-audit/</link>
+      <link>https://girishvarma.in/publication/road-audit/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/road-audit/</guid>
+      <guid>https://girishvarma.in/publication/road-audit/</guid>
       <description>Road networks in cities are massive and is a critical component of mobility. Fast response to defects, that can occur not only due to regular wear and tear but also because of extreme events like storms, is essential. Hence there is a need for an automated system that is quick, scalable and cost-effective for gathering information about defects. We propose a system for city-scale road audit, using some of the most recent developments in deep learning and semantic segmentation.</description>
     </item>
     

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graph-theory on Girish Varma</title>
-    <link>https://geevi.github.io/projects/graph-theory/</link>
+    <link>https://girishvarma.in/projects/graph-theory/</link>
     <description>Recent content in graph-theory on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/graph-theory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/graph-theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Derandomized Graph Product Results using the Low Degree Long Code</title>
-      <link>https://geevi.github.io/publication/graph-prods/</link>
+      <link>https://girishvarma.in/publication/graph-prods/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/graph-prods/</guid>
+      <guid>https://girishvarma.in/publication/graph-prods/</guid>
       <description>In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the \&amp;ldquo;majority is stablest\&amp;rdquo; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.</description>
     </item>
     
     <item>
       <title> Physarum Can Compute Shortest Paths</title>
-      <link>https://geevi.github.io/publication/slime-mold2/</link>
+      <link>https://girishvarma.in/publication/slime-mold2/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/slime-mold2/</guid>
+      <guid>https://girishvarma.in/publication/slime-mold2/</guid>
       <description>Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution.</description>
     </item>
     
     <item>
       <title>Conductance and eigenvalue</title>
-      <link>https://geevi.github.io/publication/conductance/</link>
+      <link>https://girishvarma.in/publication/conductance/</link>
       <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/conductance/</guid>
+      <guid>https://girishvarma.in/publication/conductance/</guid>
       <description></description>
     </item>
     

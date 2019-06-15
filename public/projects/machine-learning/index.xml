@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine-learning on Girish Varma</title>
-    <link>https://geevi.github.io/projects/machine-learning/</link>
+    <link>https://girishvarma.in/projects/machine-learning/</link>
     <description>Recent content in machine-learning on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>
-      <link>https://geevi.github.io/publication/univ-seg/</link>
+      <link>https://girishvarma.in/publication/univ-seg/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/univ-seg/</guid>
+      <guid>https://girishvarma.in/publication/univ-seg/</guid>
       <description>In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs.</description>
     </item>
     
     <item>
       <title>Class2Str: End to End Latent Hierarchy Learning</title>
-      <link>https://geevi.github.io/publication/class2str/</link>
+      <link>https://girishvarma.in/publication/class2str/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/class2str/</guid>
+      <guid>https://girishvarma.in/publication/class2str/</guid>
       <description>Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes.</description>
     </item>
     

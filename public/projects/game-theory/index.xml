@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game-theory on Girish Varma</title>
-    <link>https://geevi.github.io/projects/game-theory/</link>
+    <link>https://girishvarma.in/projects/game-theory/</link>
     <description>Recent content in game-theory on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/game-theory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/game-theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On Fortification of Projection Games</title>
-      <link>https://geevi.github.io/publication/fortification/</link>
+      <link>https://girishvarma.in/publication/fortification/</link>
       <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/fortification/</guid>
+      <guid>https://girishvarma.in/publication/fortification/</guid>
       <description>A recent result of Moshkovitz cite{Moshkovitz14} presented an ingenious method to provide a completely elementary proof of the Parallel Repetition Theorem for certain projection games via a construction called fortification. However, the construction used in cite{Moshkovitz14} to fortify arbitrary label cover instances using an arbitrary extractor is insufficient to prove parallel repetition. In this paper, we provide a fix by using a stronger graph that we call fortifiers. Fortifiers are graphs that have both 1 and 2 guarantees on induced distributions from large subsets.</description>
     </item>
     
     <item>
       <title>Playing games in an uncertain world</title>
-      <link>https://geevi.github.io/publication/playing-games/</link>
+      <link>https://girishvarma.in/publication/playing-games/</link>
       <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/playing-games/</guid>
+      <guid>https://girishvarma.in/publication/playing-games/</guid>
       <description>Traditional game theory assumes that the players in the game are aware of the rules of the game. However, in practice, often the players are unaware or have only partial knowledge about the game they are playing. They may also have knowledge that other players have only partial knowledge of the game they are playing, which they can try to exploit. We present a novel mathematical formulation of such games. We make use of Kripke semantics, which are a way to keep track of what different players know and do not know about the world.</description>
     </item>
     

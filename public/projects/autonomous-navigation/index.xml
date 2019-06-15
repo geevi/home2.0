@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>autonomous-navigation on Girish Varma</title>
-    <link>https://geevi.github.io/projects/autonomous-navigation/</link>
+    <link>https://girishvarma.in/projects/autonomous-navigation/</link>
     <description>Recent content in autonomous-navigation on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/autonomous-navigation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/autonomous-navigation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>
-      <link>https://geevi.github.io/publication/univ-seg/</link>
+      <link>https://girishvarma.in/publication/univ-seg/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/univ-seg/</guid>
+      <guid>https://girishvarma.in/publication/univ-seg/</guid>
       <description>In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs.</description>
     </item>
     
     <item>
       <title>IDD: A Dataset for exploring problems in Autonomous Navigation in Unconstrained Environments</title>
-      <link>https://geevi.github.io/publication/idd/</link>
+      <link>https://girishvarma.in/publication/idd/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/idd/</guid>
+      <guid>https://girishvarma.in/publication/idd/</guid>
       <description>While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied.</description>
     </item>
     
     <item>
       <title>Improved Visual Relocalization by Discovering Anchor Points</title>
-      <link>https://geevi.github.io/publication/visual-reloc-achor/</link>
+      <link>https://girishvarma.in/publication/visual-reloc-achor/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/visual-reloc-achor/</guid>
+      <guid>https://girishvarma.in/publication/visual-reloc-achor/</guid>
       <description>We address the visual relocalization problem of predicting the location and camera orientation or pose (6DOF) of the given input scene. We propose a method based on how humans determine their location using the visible landmarks. We define anchor points uniformly across the route map and propose a deep learning architecture which predicts the most relevant anchor point present in the scene as well as the relative offsets with respect to it.</description>
     </item>
     
     <item>
       <title>Efficient Semantic Segmentation using Gradual Grouping</title>
-      <link>https://geevi.github.io/publication/grad-group/</link>
+      <link>https://girishvarma.in/publication/grad-group/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/grad-group/</guid>
+      <guid>https://girishvarma.in/publication/grad-group/</guid>
       <description>Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.</description>
     </item>
     

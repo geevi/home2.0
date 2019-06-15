@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>computer-vision on Girish Varma</title>
-    <link>https://geevi.github.io/projects/computer-vision/</link>
+    <link>https://girishvarma.in/projects/computer-vision/</link>
     <description>Recent content in computer-vision on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://geevi.github.io/projects/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://girishvarma.in/projects/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>
-      <link>https://geevi.github.io/publication/univ-seg/</link>
+      <link>https://girishvarma.in/publication/univ-seg/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/univ-seg/</guid>
+      <guid>https://girishvarma.in/publication/univ-seg/</guid>
       <description>In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs.</description>
     </item>
     
     <item>
       <title>IDD: A Dataset for exploring problems in Autonomous Navigation in Unconstrained Environments</title>
-      <link>https://geevi.github.io/publication/idd/</link>
+      <link>https://girishvarma.in/publication/idd/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/idd/</guid>
+      <guid>https://girishvarma.in/publication/idd/</guid>
       <description>While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied.</description>
     </item>
     
     <item>
       <title>Deep Expander Networks: Efficient Deep Networks from Graph Theory</title>
-      <link>https://geevi.github.io/publication/xnet/</link>
+      <link>https://girishvarma.in/publication/xnet/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/xnet/</guid>
+      <guid>https://girishvarma.in/publication/xnet/</guid>
       <description>Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs.</description>
     </item>
     
     <item>
       <title>Improved Visual Relocalization by Discovering Anchor Points</title>
-      <link>https://geevi.github.io/publication/visual-reloc-achor/</link>
+      <link>https://girishvarma.in/publication/visual-reloc-achor/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/visual-reloc-achor/</guid>
+      <guid>https://girishvarma.in/publication/visual-reloc-achor/</guid>
       <description>We address the visual relocalization problem of predicting the location and camera orientation or pose (6DOF) of the given input scene. We propose a method based on how humans determine their location using the visible landmarks. We define anchor points uniformly across the route map and propose a deep learning architecture which predicts the most relevant anchor point present in the scene as well as the relative offsets with respect to it.</description>
     </item>
     
     <item>
       <title>Cityscale Road Audit System using Deep Learning</title>
-      <link>https://geevi.github.io/publication/road-audit/</link>
+      <link>https://girishvarma.in/publication/road-audit/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/road-audit/</guid>
+      <guid>https://girishvarma.in/publication/road-audit/</guid>
       <description>Road networks in cities are massive and is a critical component of mobility. Fast response to defects, that can occur not only due to regular wear and tear but also because of extreme events like storms, is essential. Hence there is a need for an automated system that is quick, scalable and cost-effective for gathering information about defects. We propose a system for city-scale road audit, using some of the most recent developments in deep learning and semantic segmentation.</description>
     </item>
     
     <item>
       <title>Efficient Semantic Segmentation using Gradual Grouping</title>
-      <link>https://geevi.github.io/publication/grad-group/</link>
+      <link>https://girishvarma.in/publication/grad-group/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/grad-group/</guid>
+      <guid>https://girishvarma.in/publication/grad-group/</guid>
       <description>Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.</description>
     </item>
     
     <item>
       <title>Class2Str: End to End Latent Hierarchy Learning</title>
-      <link>https://geevi.github.io/publication/class2str/</link>
+      <link>https://girishvarma.in/publication/class2str/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/class2str/</guid>
+      <guid>https://girishvarma.in/publication/class2str/</guid>
       <description>Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes.</description>
     </item>
     
     <item>
       <title>Compressing Models for Recognizing Places</title>
-      <link>https://geevi.github.io/publication/compression-place/</link>
+      <link>https://girishvarma.in/publication/compression-place/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://geevi.github.io/publication/compression-place/</guid>
+      <guid>https://girishvarma.in/publication/compression-place/</guid>
       <description>Visual place recognition on low memory devices such as mobile phones and robotics systems is a challenging problem. The state of the art models for this task uses deep learning architectures having close to 100 million parameters which takes over 400MB of memory. This makes these models infeasible to be deployed in low memory devices and gives rise to the need of compressing them. Hence we study the effectiveness of model compression techniques like trained quantization and pruning for reducing the number of parameters on one of the best performing image retrieval models called NetVLAD.</description>
     </item>
     

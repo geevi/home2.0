@@ -42,10 +42,10 @@ theme = "research-portfolio"
  weight = 6
 
 
-[[menu.main]]
- name = "Openings"
- url = "/openings"
- weight = 6
+# [[menu.main]]
+#  name = "Openings"
+#  url = "/openings"
+#  weight = 6
 
 [[menu.main]]
   name = "Contact"

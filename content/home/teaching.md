@@ -5,10 +5,16 @@ weight=2
 
 ## Teaching
 
+
+
 <div class="row">
 
 <div class="col-lg-10 col-centered">
+
 <ul>
+<li><p><a >Probability and Statistics, August 2019.</a></p></li>
+<li><p><a >Advanced Mathematical Structures, August 2019. <a/></p></li>
+
 <li><p><a >AI/ML for Natural Sciences</a>, Jan 2019</p></li>
 <li><p><a href="https://cie.iiit.ac.in/aiml/" target="_blank">Foundations of Artificial Intelligence and Machine Learning</a></p></li>
 <li><p><a href="/teaching/efficient-cnns">Efficient CNNs (Reading Group)</a>, Jan 2018</p></li>

@@ -1,6 +1,6 @@
 +++
 title = "Hardness of Approximate Coloring"
-date = "2016-12-12"
+date = "2016-01-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ '''Phd Thesis advised by <a href='http://www.tcs.tifr.res.in/~prahladh/'>Prof. Prahlad Harsha</a>''']

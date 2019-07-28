@@ -99,3 +99,16 @@ If you are lagging behind, use the online course material to catch up. There are
 
 
 ## Texbook and References
+
+- Introduction to Probability, 2nd Edition
+  by Dimitri P. Bertsekas and John N. Tsitsiklis
+
+- Introduction to Probability and Statistics for Engineers and Scientists
+  by Sheldon M. Ross.
+
+- Probabilistic Systems Analysis and Applied Probability
+  Online Resource. MIT OCW
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm
+
+- An Introduction to Probability Theory and Its Applications, Volume 1
+  by William Feller

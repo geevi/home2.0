@@ -47,7 +47,7 @@ A first undergraduate course in probability and statistics with a focus on discr
 - Bonus Marks: 5%
   - For questions based on Bonus Topics
 
-## How to ace course with minimum effort?
+## How to ace the course with minimum effort?
 1. *Attend* all the lectures (90 mins each).
 2. *Read* the corresponding topics in the textbook on the same day (1 hr after each lecture).
 3. *Solve* the problems for the previous lecture before the next lecture (2 hr after each lecture).

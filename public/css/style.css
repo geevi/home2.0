@@ -6,7 +6,7 @@
 
 .btn-group {
   font-size: 8pt;
-  
+
 }
 
 .btn-group a {
@@ -112,7 +112,7 @@ h2 {
 
 .tag-date {
   margin-top: 10px;
-} 
+}
 
 .col-centered {
   float: none;
@@ -127,4 +127,9 @@ strong, b {
     display: block;
     border-bottom: 1px lightgray solid;
     padding: 5px 0px;
+}
+
+ul ul {
+    padding-bottom: 20px;
+
 }

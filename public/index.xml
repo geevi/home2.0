@@ -194,7 +194,7 @@ Tutorial cohosted with Prof. Manmohan Chandrakar (UCSD) at ICVGIP&#39;18, Hydera
     <item>
       <title>Hardness of Approximate Coloring</title>
       <link>https://girishvarma.in/publication/thesis/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/publication/thesis/</guid>
       <description>The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0.</description>
@@ -280,6 +280,15 @@ Tutorial cohosted with Prof. Manmohan Chandrakar (UCSD) at ICVGIP&#39;18, Hydera
       
       <guid>https://girishvarma.in/publication/conductance/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Probability &amp; Statistics</title>
+      <link>https://girishvarma.in/teaching/prob-stat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-stat/</guid>
+      <description>A first undergraduate course in probability and statistics with a focus on discrete spaces.</description>
     </item>
     
     <item>

@@ -49,19 +49,19 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 ## Lectures
 
-1. **Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups**
+- **Lec 1: Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups**
     - Read: [MA] Chapter 2, Section 1,2. [TJ] Chapter 3, 4
     - Solve:
         1. Prove that there is a unique Identity element for any group.
         2. [MA] Chapter 2 Exercies, Section 1 Question 5, Section 2 (Page 70) Question 10
         3. [TJ] Section 3.4: Problems 2, 10
 
-2. **Burnside / Polya Counting**
+- **Lec 2: Burnside / Polya Counting**
     - Read: [JM] Chapter 22, 23.
       https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf
     - Solve: [JM] 23.4 Exercises (Lecture 23), 1, 3
 
-3. **Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
+3. **Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
     - Read: [MA] Chapter 2, Section 3, 4, 5, 6.
       For FLT Proof using Polya Counting: https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/
     - Solve:
@@ -74,9 +74,11 @@ The course contains a broad set of intermediate and advanced level topics in Alg
             1. ZpxZq is a group.
             2. Show that if p, q is coprime (ie has gcd = 1) then ZpxZq is isomorphic to Zpq
 
-4. **Counting | 12 fold way of Counting Balls and Bins**
+4. **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
 
+5. **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Derangements**
+    - Read:
 
 
 ## Texbook and References

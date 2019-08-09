@@ -21,7 +21,7 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''International Conference on Computer Vision (<strong>BMVC'18</strong>)'''
+publication = '''International Conference on Computer Vision (<strong>ICCV'19</strong>)'''
 publication_short = "ICCV'19"
 
 # Abstract and optional shortened version.

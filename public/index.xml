@@ -29,7 +29,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <guid>https://girishvarma.in/home/teaching/</guid>
       <description> Teaching  Probability and Statistics, August 2019.
  Advanced Mathematical Structures, August 2019. 
- AI/ML for Natural Sciences, Jan 2019
+ AI/ML for Natural Sciences (Aug 2019) (Jan 2019)
  Foundations of Artificial Intelligence and Machine Learning
  Efficient CNNs (Reading Group), Jan 2018
  Multi Object Tracking using Deep Learning (Reading Group), Jan 2018
@@ -280,6 +280,17 @@ Tutorial cohosted with Prof. Manmohan Chandrakar (UCSD) at ICVGIP&#39;18, Hydera
       
       <guid>https://girishvarma.in/publication/conductance/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Mathematical Structures</title>
+      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
+      <description>The course contains a broad set of intermediate and advanced level topics in Algebra and Combinatorics. The course is intended to: i.) refresh the basic topics learnt in S1-S4 ii.) solve advanced problems on the basic topics iii.) introduce some newer topics which was not covered in S1-S4.
+Grading  Assignment Tests: 20%
+ Practice problems will be given after each lecture. There will be a test based on practice problems once in a quarter (4 in total) with 5 marks each.</description>
     </item>
     
     <item>

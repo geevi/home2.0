@@ -32,10 +32,10 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 
 ## Grading
-- Weekly Assignments: 20%
-  - 8 in total, 2 per quarter.
-  - Deadlines at the begining of tutorials.
-  - Questions based on assignments will be asked to random student during class. So make sure you understand your solutions.
+- Assignment Tests: 20%
+  - Practice problems will be given after each lecture.
+  - There will be a test based on practice problems once in a quarter (4 in total) with 5 marks each.
+
 
 - Quiz 1, Quiz 2: 10% each
   - Weight: 10% each
@@ -49,51 +49,54 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 ## Lectures
 
-- Lec 1: Group Theory Axioms | Subgroups & Cosets | Homomorphisms
-    - *Read*:
-    - *Solve*:
+1. **Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups**
+    - Read: [MA] Chapter 2, Section 1,2. [TJ] Chapter 3, 4
+    - Solve:
+        1. Prove that there is a unique Identity element for any group.
+        2. [MA] Chapter 2 Exercies, Section 1 Question 5, Section 2 (Page 70) Question 10
+        3. [TJ] Section 3.4: Problems 2, 10
 
-- Lec 2: Counting | 12 Fold Way
-    - *Read*:
-    - *Solve*:
+2. **Burnside / Polya Counting**
+    - Read: [JM] Chapter 22, 23.
+      https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf
+    - Solve: [JM] 23.4 Exercises (Lecture 23), 1, 3
 
-- Tutorial 1:
-  - Assignment 1 Deadline
+3. **Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
+    - Read: [MA] Chapter 2, Section 3, 4, 5, 6.
+      For FLT Proof using Polya Counting: https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/
+    - Solve:
+        1. If G has no proper subgroups then show that G is cyclic of order p, where p is a prime number.
+        2. If G is not a cyclic group then show that G has a proper subgroup (ie not {0} or G itself).
+        3. A group is called Abelian if the operation is also commutative. Prove that
+            1. Every finite cyclic group has to be an Abelian Group
+            2. Give an example of a finite Abelian Group that is not cyclic.
+        4. ZpxZq is the product of the two sets with pq elements. Addition is defined coordinate wise. Prove that:
+            1. ZpxZq is a group.
+            2. Show that if p, q is coprime (ie has gcd = 1) then ZpxZq is isomorphic to Zpq
 
-- Lec 3: Generators | Cyclic Groups | Chinese Remainder Theorem
-    - *Read*:
-    - *Solve*:
+4. **Counting | 12 fold way of Counting Balls and Bins**
+    - Read: [CoCo] Sections 1 - 1.5.2
 
-- Lec 4: Buffer Class
-    - *Read*:
-    - *Solve*:
-
-- Lec 5: Permutations | Cycle Structure
-    - *Read*:
-    - *Solve*:
-
-- Lec 6: Burnside Lemma | Polya Counting
-    - *Read*:
-    - *Solve*:
-
-- Tutorial 2:
-  - Assignment 2 Deadline
-
-
-- Lec 7: Inclusion Exlusion | Mobius Inversion
-    - *Read*:
-    - *Solve*:
-
-- Lec 8: Buffer & Problem Solving
-    - *Read*:
-    - *Solve*:
-
-- Quiz 1:
 
 
 ## Texbook and References
 
 There is no single book covering all the topics. For different lectures, we will be following material from different sources, which will be posted at the course page. Some of the sources that will be used often are:
+
+
+- [MA] Algebra by M Artin, Prentice-Hall India.
+
+- [TJ] Abstract Algebra: Theory and Applications
+  Thomas W. Judson
+  http://abstract.ups.edu/download/aata-20180801.pdf
+
+- [CoCo] Lecture Notes, Combinatorics
+  Lecture by Torsten Ueckerdt (KIT)
+  http://www.math.kit.edu/iag6/lehre/co2015s/media/script.pdf
+
+- [JM] Permutation Puzzles: A Mathematical Perspective.
+  Jamie Mulholland
+  http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May07-2012.pdf
 
 - Notes on Combinatorics
   Peter J. Cameron
@@ -102,12 +105,3 @@ There is no single book covering all the topics. For different lectures, we will
 - An Introduction to Combinatorics and Graph Theory
   David Guichard
   https://www.whitman.edu/mathematics/cgt_online/cgt.pdf
-
-- Lecture Notes, Combinatorics
-  Lecture by Torsten Ueckerdt (KIT)
-  http://www.math.kit.edu/iag6/lehre/co2015s/media/script.pdf
-
-- Algebra by M Artin, Prentice-Hall India.
-
-- Tom Judson's Abstract Algebra: Theory and Applications
-  http://abstract.ups.edu/download/aata-20180801.pdf

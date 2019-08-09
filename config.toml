@@ -24,7 +24,7 @@ theme = "research-portfolio"
    name = "Research"
    url = "#projects"
    weight = 4
-   
+
 [[menu.main]]
   name = "Publications"
   url = "#publications"
@@ -47,10 +47,10 @@ theme = "research-portfolio"
 #  url = "/openings"
 #  weight = 6
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 7
+# [[menu.main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 7
 
 [taxonomies]
   project = "projects"

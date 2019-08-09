@@ -140,3 +140,19 @@ li {
 h1, h2 {
   padding-bottom: 10px;
 }
+
+.navbar ul.navbar-nav {
+  margin-right: 10px;
+}
+
+.navbar button.btn {
+
+  background-color: #9cc3ec
+}
+
+.navbar button.btn a {
+  color: black
+}
+section {
+    padding: 20px 0px 10px 0px;
+}

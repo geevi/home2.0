@@ -15,6 +15,9 @@ URL="http://cstar.iiit.ac.in/"
 Org="Machine Learning Lab (MLL)"
 URL="http://mll.iiit.ac.in/"
 
+[[works_for]]
+Org="Kohli Center on Intelligent Systems (KCIS)"
+URL="http://kcis.iiit.ac.in/"
 
 [[works_for]]
 Org="IIIT Hyderabad"

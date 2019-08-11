@@ -1,29 +1,24 @@
-
-    {{ with .Params.url_preprint }}
-    <button type="button" class="btn btn-sm btn-outline-primary"><a href='{{ . | absURL }}'>arXiv</a></button>
-    {{ end }}
-    {{ with .Params.url_pdf }}
-    <button type="button" class="btn btn-sm btn-outline-primary"><a href='{{ . | absURL }}'>pdf</a></button>
-    {{ end }}
-    {{ with .Params.url_doi }}
-    <button type="button" class="btn btn-sm btn-outline-primary"><a href='{{ . | absURL }}'>paper</a></button>
-    {{ end }}
-    {{ with .Params.url_slides }}
-    <button type="button" class="btn btn-sm btn-outline-primary"><a href='{{ . | absURL }}'>slides</a></button>
-    {{ end }}
-    {{ with .Params.url_poster }}
-    <button type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'><a href='{{ . | absURL }}'>poster</a></button>
-    {{ end }}
-    {{ with .Params.url_code }}
-    <button type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'><a href='{{ . | absURL }}'>code</a></button>
-    {{ end }}
-    {{ with .Params.url_dataset }}
-    <button type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'><a href='{{ . | absURL }}'>dataset</a></button>
-    {{ end }}
-    {{ with .Params.url_video }}
-    <button type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'><a href='{{ . | absURL }}'>video</a></button>
-    {{ end }}
-    
-    
-    
-      
+{{ with .Params.url_preprint }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>arXiv</a>
+{{ end }}
+{{ with .Params.url_pdf }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>pdf</a>
+{{ end }}
+{{ with .Params.url_doi }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>paper</a>
+{{ end }}
+{{ with .Params.url_slides }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>slides</a>
+{{ end }}
+{{ with .Params.url_poster }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>poster</a>
+{{ end }}
+{{ with .Params.url_code }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>code</a>
+{{ end }}
+{{ with .Params.url_dataset }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>dataset</a>
+{{ end }}
+{{ with .Params.url_video }}
+<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>video</a>
+{{ end }}

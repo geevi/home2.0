@@ -16,6 +16,10 @@ weight=3
 <a href="http://cvit.iiit.ac.in/autonue2019" target="_blank">Second International Workshop On Auto. Nav. in Unconstrained Environments </a><br>
 in Conjunction with ICCV 2019, November 2, 2019, Seoul.<br></p></li>
 
+<li><p><a href="https://faculty.iiit.ac.in/~theory/seminar/talks/polya-counting/" target="_blank">Counting Objects under Symmetry: Pólya - Burnside Enumeration
+</a><br>
+<a href="https://faculty.iiit.ac.in/~theory/seminar/" target="_blank">Theory Seminars</a> at IIIT Hyderabad. June 1, 2019<br></p></li>
+
 
 <li><p>Semantic Segmentation: Recent Advances, Indian Datasets & Universal Segmentation Problems <br/>Challenges and Advances in Vision-Based Self-Driving<br>
 Tutorial cohosted with <a href='http://cseweb.ucsd.edu/~mkchandraker/'>Prof. Manmohan Chandrakar (UCSD)</a> at <a href='https://cvit.iiit.ac.in/icvgip18/index.php'>ICVGIP'18, Hyderabad</a>. December, 2018</p></li>

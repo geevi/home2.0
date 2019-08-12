@@ -163,3 +163,8 @@ section {
 a.btn:hover  {
   color: white;
 }
+
+.pub-item .card-text {
+  font-weight: 400;
+  font-style: italic
+}

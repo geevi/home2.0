@@ -1,24 +1,24 @@
 {{ with .Params.url_preprint }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>arXiv</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>arXiv</a>
 {{ end }}
 {{ with .Params.url_pdf }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>pdf</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>pdf</a>
 {{ end }}
 {{ with .Params.url_doi }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>paper</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>paper</a>
 {{ end }}
 {{ with .Params.url_slides }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>slides</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}'>slides</a>
 {{ end }}
 {{ with .Params.url_poster }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>poster</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>poster</a>
 {{ end }}
 {{ with .Params.url_code }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>code</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>code</a>
 {{ end }}
 {{ with .Params.url_dataset }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>dataset</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>dataset</a>
 {{ end }}
 {{ with .Params.url_video }}
-<a type="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>video</a>
+<a role="button" class="btn btn-sm btn-outline-primary" href='{{ . | absURL }}' href='{{ . | absURL }}'>video</a>
 {{ end }}

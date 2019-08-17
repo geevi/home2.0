@@ -123,12 +123,15 @@ strong, b {
 }
 
 ul ul {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 li {
-  padding-bottom: 5px;
   line-height: 30px;
+}
+
+li p {
+  margin: 0;
 }
 
 h1, h2 {

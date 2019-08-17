@@ -75,7 +75,7 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
     - Solve:
-        1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i * k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
+        1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i \cdot k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
 Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
 
 

@@ -69,14 +69,19 @@ The course contains a broad set of intermediate and advanced level topics in Alg
         3. A group is called Abelian if the operation is also commutative. Prove that
             1. Every finite cyclic group has to be an Abelian Group
             2. Give an example of a finite Abelian Group that is not cyclic.
-        4. $Z_p\times Z_q$ is the product of the two sets with $pq$ elements. Addition is defined coordinate wise. Prove that:
-            1. $Z_p\times Z_q$ is a group.
-            2. Show that if $p, q$ is coprime (ie has gcd = 1) then $Z\_p \times Z\_q$ is isomorphic to $Z_{pq}$.
+        4. $\mathbb{Z}_p\times \mathbb{Z}_q$ is the product of the two sets with $pq$ elements. Addition is defined coordinate wise. Prove that:
+            1. $\mathbb{Z}_p\times \mathbb{Z}_q$ is a group.
+            2. Show that if $p, q$ is coprime (ie has gcd = 1) then $\mathbb{Z}\_p \times \mathbb{Z}\_q$ is isomorphic to $\mathbb{Z}_{pq}$.
+        5. Let $p$ be a prime and $n, k$ positive integers. Show that:
+            1. $p$ divides $n^{p^k} - n^{p^{k-1}}$.
+            2. ** $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
+
+                [Hint] Use Burnside lemma similar to FLT proof by counting the appropriate collection of functions under the appropriate symmetry.
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
     - Solve:
         1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i \cdot k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
-Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
+        2. Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
 
 
 - **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions**
@@ -85,7 +90,20 @@ Find a generating set of size $2$ for $S_n$. (Need to prove why your set generat
 
 - **Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion**
     - Read: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
+    - Solve:
+        1. Show that the set of even parity permutations form a subgroup of $S_n$ of size $n!/2$. Show that the set of odd partiy permutations is a coset of this subgroup.
+        2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that
+            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| \qquad\text{ for odd } r $$
+            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| \qquad \text{ for even } r $$
 
+
+- **Tutorial 1**
+
+- **Test 1 | Lec 7: Inclusion Exclusion Examples**
+
+- **Lec 8: Mobius Inversion**
+
+- **Quiz I**
 
 
 ## Texbook and References

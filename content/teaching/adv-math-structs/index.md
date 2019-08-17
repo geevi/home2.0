@@ -60,31 +60,30 @@ The course contains a broad set of intermediate and advanced level topics in Alg
       https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf
     - Solve: [JM] 23.4 Exercises (Lecture 23), 1, 3
 
-3. **Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
+- **Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
     - Read: [MA] Chapter 2, Section 3, 4, 5, 6.
       For FLT Proof using Polya Counting: https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/
     - Solve:
-        1. If G has no proper subgroups then show that G is cyclic of order p, where p is a prime number.
-        2. If G is not a cyclic group then show that G has a proper subgroup (ie not {0} or G itself).
+        1. If $G$ has no proper subgroups then show that $G$ is cyclic of order $p$, where $p$ is a prime number.
+        2. If $G$ is not a cyclic group then show that $G$ has a proper subgroup (ie not $\{0\}$ or $G$ itself).
         3. A group is called Abelian if the operation is also commutative. Prove that
             1. Every finite cyclic group has to be an Abelian Group
             2. Give an example of a finite Abelian Group that is not cyclic.
-        4. ZpxZq is the product of the two sets with pq elements. Addition is defined coordinate wise. Prove that:
-            1. ZpxZq is a group.
-            2. Show that if p, q is coprime (ie has gcd = 1) then ZpxZq is isomorphic to Zpq
-
-4. **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
+        4. $Z_p\times Z_q$ is the product of the two sets with $pq$ elements. Addition is defined coordinate wise. Prove that:
+            1. $Z_p\times Z_q$ is a group.
+            2. Show that if $p, q$ is coprime (ie has gcd = 1) then $Z\_p \times Z\_q$ is isomorphic to $Z_{pq}$.
+- **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
     - Solve:
-        1. Let \(k1, k2, ...., kn\) be numbers such that ∑ni=1 i * ki = n. Find the number of permutations of [n], with k1 cycles of length 1, k2 cycles of length 2, ..., kn cycles of length n.
-Find a generating set of size 2 for Sn. (Need to prove why your set generates Sn).
+        1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i * k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
+Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
 
 
-5. **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions**
+- **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions**
     - Read: [CoCo] Sections 1.5.2 - 1.7
 
 
-5. **Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion**
+- **Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion**
     - Read: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
 
 

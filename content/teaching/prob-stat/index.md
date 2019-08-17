@@ -98,7 +98,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 ## Textbook and References
 
 - [BT] Introduction to Probability, 2nd Edition
-  by Dimitri P. Bertsekas and John N. Tsitsiklis.
+  by Dimitri P. Bertsekas and John N. Tsitsiklis./
 
 - [WF] An Introduction to Probability Theory and Its Applications, Volume 1
   by William Feller.

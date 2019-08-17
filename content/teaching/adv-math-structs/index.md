@@ -19,7 +19,7 @@ tags = ["mathematics"]
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -35,7 +35,6 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 - Assignment Tests: 20%
   - Practice problems will be given after each lecture.
   - There will be a test based on practice problems once in a quarter (4 in total) with 5 marks each.
-
 
 - Quiz 1, Quiz 2: 10% each
   - Weight: 10% each
@@ -76,9 +75,18 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 4. **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
+    - Solve:
+        1. Let \(k1, k2, ...., kn\) be numbers such that ∑ni=1 i * ki = n. Find the number of permutations of [n], with k1 cycles of length 1, k2 cycles of length 2, ..., kn cycles of length n.
+Find a generating set of size 2 for Sn. (Need to prove why your set generates Sn).
 
-5. **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Derangements**
-    - Read:
+
+5. **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions**
+    - Read: [CoCo] Sections 1.5.2 - 1.7
+
+
+5. **Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion**
+    - Read: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
+
 
 
 ## Texbook and References

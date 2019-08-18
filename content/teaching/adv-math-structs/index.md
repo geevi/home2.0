@@ -95,9 +95,11 @@ The course contains a broad set of intermediate and advanced level topics in Alg
     - Read: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
     - Solve:
         1. Show that the set of even parity permutations form a subgroup of $S_n$ of size $n!/2$. Show that the set of odd partiy permutations is a coset of this subgroup.
-        2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that
-            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \|\text{ for odd } r $$
-            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| \text{ for even } r $$
+        2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that:
+            1. For odd $r$,
+            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \|$$
+            2. For even $r$,
+            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| $$
 
 
 - **Tutorial 1**

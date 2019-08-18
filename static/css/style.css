@@ -215,3 +215,28 @@ ul,ol {
   padding-left: 20px;
 }
 }
+
+ul, ol {
+  border-left: 1px solid rgb(219, 219, 219);
+}
+
+
+.nav-item:hover a {
+  border-bottom: 2px gray solid;
+}
+
+.nav-item a {
+  border-bottom: 2px #343a40 solid;
+}
+.nav-item .active {
+  border-bottom: 2px white solid;
+
+}
+
+body {
+  padding-top: 40px;
+}
+
+ul.navbar-nav {
+  border: 0;
+}

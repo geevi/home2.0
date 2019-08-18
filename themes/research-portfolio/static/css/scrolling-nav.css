@@ -16,20 +16,5 @@ header {
 
 section {
   padding: 20px 0;
- 
-}
 
-
-/* custom */
-.nav-item:hover {
-  border-bottom: 2px gray solid;
-}
-
-.nav-item .active {
-  border-bottom: 2px white solid;
-
-}
-
-body {
-  padding-top: 40px;
 }

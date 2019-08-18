@@ -72,10 +72,12 @@ The course contains a broad set of intermediate and advanced level topics in Alg
         4. $\mathbb{Z}_p\times \mathbb{Z}_q$ is the product of the two sets with $pq$ elements. Addition is defined coordinate wise. Prove that:
             1. $\mathbb{Z}_p\times \mathbb{Z}_q$ is a group.
             2. Show that if $p, q$ is coprime (ie has gcd = 1) then $\mathbb{Z}\_p \times \mathbb{Z}\_q$ is isomorphic to $\mathbb{Z}_{pq}$.
-        5. Let $p$ be a prime and $n, k$ positive integers. Show that:
-            1. $p$ divides $n^{p^k} - n^{p^{k-1}}$.
-            2. ** $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
+        5. Let $p$ be a prime and $n, k$ positive integers, $F = \left\\{ f:\mathbb{Z}\_p^k \rightarrow [n] \right\\}$ (the set of all functions from $\mathbb{Z}\_p^k$ to $[n]$.). For a function $f \in F$, and $a \in \mathbb{Z}\_p^k$, the translation of $f$ by $a$ is the function $g(x) = f(x + a)$ (addition is defined coordinate-wise modulo $p$).
+            1. Define a group and a group action of that group on $F$ that captures translations.
+            2. Use this to show that $p$ divides $n^{p^k} - n^{p^{k-1}}$.
+            3. ** $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
 
+                This is just a simplified version of the previous question shared.
                 [Hint] Use Burnside lemma similar to FLT proof by counting the appropriate collection of functions under the appropriate symmetry.
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2

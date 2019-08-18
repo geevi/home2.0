@@ -57,12 +57,12 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 - **Lec 2: Burnside / Polya Counting**
     - Read: [JM] Chapter 22, 23.
-      https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf
+      [Alon Frieze's Slides](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf)
     - Solve: [JM] 23.4 Exercises (Lecture 23), 1, 3
 
 - **Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
     - Read: [MA] Chapter 2, Section 3, 4, 5, 6.
-      For FLT Proof using Polya Counting: https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/
+      For FLT Proof using Polya Counting see the [blog post](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/)
     - Solve:
         1. If $G$ has no proper subgroups then show that $G$ is cyclic of order $p$, where $p$ is a prime number.
         2. If $G$ is not a cyclic group then show that $G$ has a proper subgroup (ie not $\{0\}$ or $G$ itself).
@@ -93,8 +93,8 @@ The course contains a broad set of intermediate and advanced level topics in Alg
     - Solve:
         1. Show that the set of even parity permutations form a subgroup of $S_n$ of size $n!/2$. Show that the set of odd partiy permutations is a coset of this subgroup.
         2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that
-            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| \qquad\text{ for odd } r $$
-            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| \qquad \text{ for even } r $$
+            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \|\text{ for odd } r $$
+            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| \text{ for even } r $$
 
 
 - **Tutorial 1**
@@ -115,20 +115,20 @@ There is no single book covering all the topics. For different lectures, we will
 
 - [TJ] Abstract Algebra: Theory and Applications
   Thomas W. Judson
-  http://abstract.ups.edu/download/aata-20180801.pdf
+  [pdf](http://abstract.ups.edu/download/aata-20180801.pdf)
 
 - [CoCo] Lecture Notes, Combinatorics
   Lecture by Torsten Ueckerdt (KIT)
-  http://www.math.kit.edu/iag6/lehre/co2015s/media/script.pdf
+  [pdf](http://www.math.kit.edu/iag6/lehre/co2015s/media/script.pdf)
 
 - [JM] Permutation Puzzles: A Mathematical Perspective.
   Jamie Mulholland
-  http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May07-2012.pdf
+  [pdf](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May07-2012.pdf)
 
 - Notes on Combinatorics
   Peter J. Cameron
-  http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf
+  [pdf](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf)
 
 - An Introduction to Combinatorics and Graph Theory
-  David Guichard
-  https://www.whitman.edu/mathematics/cgt_online/cgt.pdf
+  David Guichard.
+  [pdf](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)

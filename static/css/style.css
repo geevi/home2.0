@@ -92,6 +92,7 @@ h2 {
 
 .pub {
   margin: 80px 0px;
+  padding: 50px 10px;
 }
 
 .tag {
@@ -208,5 +209,9 @@ ul ul {
     font-size: .7rem;
     line-height: 1.5;
     border-radius: .2rem;
+}
+
+ul,ol {
+  padding-left: 20px;
 }
 }

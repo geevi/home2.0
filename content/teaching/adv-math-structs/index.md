@@ -76,7 +76,7 @@ The course contains a broad set of intermediate and advanced level topics in Alg
             2. Let $a \in \mathbb{Z}^k\_p \setminus \\{ 0^k \\}$ . What is the number of cycles in the permutation corresponding to the translation by $a$?
             3. Use above to show that $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
 
-            [Hint] This is the strict generalization of the [example we did in class: the proof of FLT theorem](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/). For getting that result, substitute $k=1$ and $n = a$. One way to solve it is by carefully seeing how that result generalizes.
+            [Hint] This is the strict generalization of the [example we did in class: the proof of FLT theorem](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/). For getting that result, substitute $k=1$ and $n = a$.
 
 
         6. [Not for Test 1] A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. For example the sum  and product functions ($f(x) = \sum\_{i\in [k]} x\_i \mod n$ and $g(x) = \prod\_{i\in [k]} x\_i \mod n$ correspondingly) are symmetric. The Max, Min functions are also symmetric. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.

@@ -76,6 +76,10 @@ The course contains a broad set of intermediate and advanced level topics in Alg
             2. Let $a \in \mathbb{Z}^k\_p \setminus \\{ 0^k \\}$ . What is the number of cycles in the permutation corresponding to the translation by $a$?
             3. Use above to show that $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
 
+        6. [Not for Test 1] Let $n,m$ be positive integers and $k$ be a prime. Show that $k$ divides $n^{m^k} - n$.
+
+            [Hint] Similar to Problem 5.
+
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
     - Solve:

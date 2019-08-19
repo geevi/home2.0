@@ -45,7 +45,6 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 - Bonus Marks: 5%
 
-
 ## Lectures
 
 - **Lec 1: Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups**
@@ -76,7 +75,7 @@ The course contains a broad set of intermediate and advanced level topics in Alg
             1. Define a group and a group action of that group on $F$ that captures translations, which could be used to count the number of distinct functions with translation symmetry (ie. $f(x)$ and $g(x) = f(x + a)$ is in the same orbit).
             2. Let $a \in \mathbb{Z}^k\_p \setminus \\{ 0^k \\}$ . What is the number of cycles in the permutation corresponding to the translation by $a$?
             3. Use above to show that $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
-            
+
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
     - Read: [CoCo] Sections 1 - 1.5.2
     - Solve:

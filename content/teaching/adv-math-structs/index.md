@@ -79,7 +79,7 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
         6. [Not for Test 1] A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.
 
-        7. [Not for Test 1] Let $n, m$ be positive integers and $k$ be a prime. Show that $k$ divides $n^{m^k} - n$.
+        7. [Not for Test 1] Let $n, m$ be positive integers, $k$ be a prime and $t = \frac{m^k -m}{k} + m$. Show that $k$ divides $n^{m^k} - n^t$.
            [Hint] Need to use ideas from solutions to Problem 5, 6.
 
 

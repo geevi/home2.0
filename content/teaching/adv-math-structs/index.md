@@ -34,16 +34,15 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 ## Grading
 - Assignment Tests: 20%
   - Practice problems will be given after each lecture.
-  - There will be a test based on practice problems once in a quarter (4 in total) with 5 marks each.
+  - There will be a test based on practice problems (5 in total) with 5 marks each. The best 4 marks will be used for grading.
 
 - Quiz 1, Quiz 2: 10% each
-  - Weight: 10% each
 
 - MidSem: 25%
 
 - EndSem: 35%
 
-- Bonus Marks: 5%
+- Bonus Marks: 5% (for 90% attendance or solve some hard problem that will be given).
 
 ## Lectures
 
@@ -79,9 +78,9 @@ The course contains a broad set of intermediate and advanced level topics in Alg
             [Hint] This is the strict generalization of the [example we did in class: the proof of FLT theorem](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/). For getting that result, substitute $k=1$ and $n = a$.
 
 
-        6. [Not for Test 1] A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. For example the sum  and product functions ($f(x) = \sum\_{i\in [k]} x\_i \mod n$ and $g(x) = \prod\_{i\in [k]} x\_i \mod n$ correspondingly) are symmetric. The Max, Min functions are also symmetric. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.
+        6. A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. For example the sum  and product functions ($f(x) = \sum\_{i\in [k]} x\_i \mod n$ and $g(x) = \prod\_{i\in [k]} x\_i \mod n$ correspondingly) are symmetric. The Max, Min functions are also symmetric. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.
 
-        7. [Not for Test 1] Let $n, m$ be positive integers, $k$ be a prime and $t = \frac{m^k -m}{k} + m$. Show that $k$ divides $n^{m^k} - n^t$.
+        7. Let $n, m$ be positive integers, $k$ be a prime and $t = \frac{m^k -m}{k} + m$. Show that $k$ divides $n^{m^k} - n^t$.
            [Hint] Need to use ideas from solutions to Problem 5, 6.
 
 

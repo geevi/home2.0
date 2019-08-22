@@ -78,7 +78,7 @@ main {
 }
 
 .card-body {
-  padding: 10px
+  padding: 10px 20px;
 }
 
 /* .widget {
@@ -183,6 +183,12 @@ a.btn:hover  {
 }
 
 @media (max-width: 576px) {
+
+
+.card-body {
+  padding: 10px;
+}
+
 #publications .container {
     margin: 0;
     padding: 0;

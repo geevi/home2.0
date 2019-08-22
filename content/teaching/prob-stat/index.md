@@ -80,6 +80,8 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - Tutorial 2:
 
+- Office Hrs 1
+
 - Test 2:
 
 - **Lec 5: Expectation | Variance | Conditioning of Random Variables**

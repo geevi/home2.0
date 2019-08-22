@@ -66,6 +66,8 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
     - *Read*: [BT] Section 1.3, 1.4. [OCW] Lecture 2.
     - *Explore*: [WF] Chapter 5, Sections 1, 2, 3
 
+- Tutorial 1:
+
 - Test 1:
 
 - **Lec 3: Independence | Random Variables**
@@ -76,16 +78,23 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
     - *Read*:  [BT] Sections 2.1–2.3, [OCW] Lecture 5, Recitations 3, 5
     - *Explore*:  [WF] Chapter 9, Sections 1-4
 
-- Tutorial 1:
+- Tutorial 2:
 
 - Test 2:
 
 - **Lec 5: Expectation | Variance | Conditioning of Random Variables**
-    - *Read*:  [BT] Sections 2.2–2.4, [OCW] Lecture 6, Recitations 6
+    - *Read*:  [BT] Sections 2.2–2.4, [OCW] Lecture 6
+    - *Explore*: [WF] Chapter IX
+    - *Solve*: [OCW] Recitations 6
 
-- Lec 6: Buffer & Problem Solving
-    - *Read*:
-    - *Solve*:
+
+- **Lec 6: Multiple Random Variables | Examples: Balls and Bins, Sum of Bernoulli Trials | Independence of RVs**
+    - *Read*: [BT] Sections 2.4 - 2.7, [OCW] Lecture 7.
+    - *Explore*: [WF] Chapter IX
+    - *Solve*: [OCW] Problem Set 4, Quiz 1 (Fall 2009) Problem B, Quiz 1 (Fall 2010) Problem 1
+
+- Tutorial 3
+- Office Hours 2
 
 - Quiz 1:
 

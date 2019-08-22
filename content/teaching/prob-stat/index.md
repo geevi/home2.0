@@ -80,9 +80,8 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - Test 2:
 
-- Lec 5: Multiple Random Variables | Joint PMFs | Covarience
-    - *Read*:
-    - *Solve*:
+- **Lec 5: Expectation | Variance | Conditioning of Random Variables**
+    - *Read*:  [BT] Sections 2.2–2.4, [OCW] Lecture 6, Recitations 6
 
 - Lec 6: Buffer & Problem Solving
     - *Read*:

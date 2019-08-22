@@ -110,6 +110,11 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 - **Tutorial 1**
 
 - **Test 1 | Lec 7: Inclusion Exclusion Examples**
+  - Read: [CoCo] Section 2.
+  - Solve:
+    - Consider the set of all functions from $[2n]$ to $[2n]$.
+        1. Find the number of functions having size of the range to be exactly $k$.
+        2. Find the number of functions for which the range is exactly the set of even numbers in $[2n]$.
 
 - **Lec 8: Mobius Inversion**
 

@@ -114,6 +114,8 @@ The course contains a broad set of intermediate and advanced level topics in Alg
         1. Consider the set of all functions from $[2n]$ to $[2n]$.
            1. Find the number of functions having size of the range to be exactly $k$.
            2. Find the number of functions for which the range is exactly the set of even numbers in $[2n]$.
+        2. Let $n \geq 2$ be a positive integer. The Euler totient function is defined by $\phi(n) = \left| \\{ m: m < n \text{ and } \text{gcd}(m,n) = 1 \\} \right|$. If the prime factorization of $n$ is $n = p\_1^{e\_1}\cdot p\_2^{e\_2} \cdots p\_k^{e\_k}$. Show using inclusion exclusion that:
+            $$\phi(n) = n \prod_{i=1}^k \left(\frac{p_i - 1}{p_i}\right).$$
 
 - **Lec 8: Mobius Inversion**
 

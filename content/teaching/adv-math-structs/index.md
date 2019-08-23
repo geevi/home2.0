@@ -47,21 +47,21 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 ## Lectures
 
 - **Lec 1: Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups**
-    - Read: [MA] Chapter 2, Section 1,2. [TJ] Chapter 3, 4
-    - Solve:
+    - *Read*: [MA] Chapter 2, Section 1,2. [TJ] Chapter 3, 4
+    - *Solve*:
         1. Prove that there is a unique Identity element for any group.
         2. [MA] Chapter 2 Exercies, Section 1 Question 5, Section 2 (Page 70) Question 10
         3. [TJ] Section 3.4: Problems 2, 10
 
 - **Lec 2: Burnside / Polya Counting**
-    - Read: [JM] Chapter 22, 23.
+    - *Read*: [JM] Chapter 22, 23.
       [Alon Frieze's Slides](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf)
-    - Solve: [JM] 23.4 Exercises (Lecture 23), 1, 3
+    - *Solve*: [JM] 23.4 Exercises (Lecture 23), 1, 3
 
 - **Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
-    - Read: [MA] Chapter 2, Section 3, 4, 5, 6.
+    - *Read*: [MA] Chapter 2, Section 3, 4, 5, 6.
       For FLT Proof using Polya Counting see the [blog post](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/)
-    - Solve:
+    - *Solve*:
         1. If $G$ has no proper subgroups then show that $G$ is cyclic of order $p$, where $p$ is a prime number.
         2. If $G$ is not a cyclic group then show that $G$ has a proper subgroup (ie not $\{0\}$ or $G$ itself).
         3. A group is called Abelian if the operation is also commutative. Prove that
@@ -85,19 +85,19 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
-    - Read: [CoCo] Sections 1 - 1.5.2
-    - Solve:
+    - *Read*: [CoCo] Sections 1 - 1.5.2
+    - *Solve*:
         1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i \cdot k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
         2. Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
 
 
 - **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions**
-    - Read: [CoCo] Sections 1.5.2 - 1.7
+    - *Read*: [CoCo] Sections 1.5.2 - 1.7
 
 
 - **Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion**
-    - Read: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
-    - Solve:
+    - *Read*: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
+    - *Solve*:
         1. Show that the set of even parity permutations form a subgroup of $S_n$ of size $n!/2$. Show that the set of odd partiy permutations is a coset of this subgroup.
         2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that:
             1. For odd $r$,
@@ -109,17 +109,17 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 - **Tutorial 1**
 
 - **Test 1 | Lec 7: Inclusion Exclusion Examples**
-  - Read: [CoCo] Section 2.
-  - Solve:
+  - *Read*: [CoCo] Section 2.
+  - *Solve*:
         1. Consider the set of all functions from $[2n]$ to $[2n]$.
            1. Find the number of functions having size of the range to be exactly $k$.
            2. Find the number of functions for which the range is exactly the set of even numbers in $[2n]$.
 
 - **Lec 8: Inclusion Exclusion | Proof using Linear Algebra**
-  - Read:
+  - *Read*:
       1. [CoCo] Sections 2.1.2, 2.2.
       2. For Linear Algebra proof read [RP Stanley](http://www-math.mit.edu/~rstan/ec/ec1.pdf) pages 223-225.
-  - Solve:
+  - *Solve*:
       1. Let $n \geq 2$ be a positive integer. The Euler totient function is defined by $\phi(n) = \left| \\{ m: m < n \text{ and } \text{gcd}(m,n) = 1 \\} \right|$. If the prime factorization of $n$ is $n = p\_1^{e\_1}\cdot p\_2^{e\_2} \cdots p\_k^{e\_k}$. Show using inclusion exclusion that:
             $$\phi(n) = n \prod_{i=1}^k \left(\frac{p_i - 1}{p_i}\right).$$
 

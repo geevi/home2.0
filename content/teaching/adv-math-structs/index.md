@@ -121,6 +121,8 @@ The course contains a broad set of intermediate and advanced level topics in Alg
       1. Let $n \geq 2$ be a positive integer. The Euler totient function is defined by $\phi(n) = \left| \\{ m: m < n \text{ and } \text{gcd}(m,n) = 1 \\} \right|$. If the prime factorization of $n$ is $n = p\_1^{e\_1}\cdot p\_2^{e\_2} \cdots p\_k^{e\_k}$. Show using inclusion exclusion that:
             $$\phi(n) = n \prod_{i=1}^k \left(\frac{p_i - 1}{p_i}\right).$$
 
+            [Hint] Choose sets $A\_1, \cdots, A\_k$ that can easily be counted such that $\phi(n) = \left| \overline{A\_1 \cap \cdots \cap A\_k} \right|$.
+
 
 - **Quiz I**
 

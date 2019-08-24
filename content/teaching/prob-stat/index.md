@@ -97,14 +97,36 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - Tutorial 3
 
-
 - Office Hours 2
 
 - Quiz 1:
 
-- Lec 7: Buffer & Problem Solving
-    - *Read*:
-    - *Solve*:
+- **Continous RVs I**
+
+- **Multiple Continous RVs I**
+
+- **Continous Bayes**
+
+- **Markov | Chebyshev | Sum of RVs | Chernoff**
+
+- **Weak Law of Large Numbers**
+
+- **Central Limit Theorem**
+
+- Mid Sem Exam
+
+- **Proceses: Bernoulli | Poisson | Markov Chains**
+
+- Quiz 2
+
+- **Information Theory**
+
+- **Bayesian Stat. Inference**
+
+- **Classical Stat. Inference**
+
+- Final exam
+
 
 
 ## Textbook and References

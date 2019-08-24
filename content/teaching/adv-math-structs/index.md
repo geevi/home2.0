@@ -129,6 +129,24 @@ The course contains a broad set of intermediate and advanced level topics in Alg
   
 - **Quiz I**
 
+- **Combinatorics of Set Systems: Sperners | Dilworths | Erdos Ko Rado**
+
+- **System of Distinct Representatives, Halls Theorem**
+
+- **Rings, Fields, and Vector Spaces**
+
+- Mid Sem Exam
+
+- **Error Correcting Codes | Reed Solomon Codes**
+- **Probability Revision**
+- **Random Walks in Graphs**
+
+- Quiz 2
+
+- **Special Topic: 3 lecs**
+- **Probabilistic Method: 2 lecs**
+- **Welsh Berelekamp Decoding Algorithm (Polynomial Method): 2 lecs**
+
 
 ## Texbook and References
 

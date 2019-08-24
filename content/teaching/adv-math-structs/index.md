@@ -125,7 +125,8 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
             [Hint] Choose sets $A\_1, \cdots, A\_k$ that can easily be counted such that $\phi(n) = \left| \overline{A\_1 \cup \cdots \cup A\_k} \right|$.
 
-
+- **Office Hrs 1**
+  
 - **Quiz I**
 
 

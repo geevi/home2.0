@@ -96,6 +96,8 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
     - *Solve*: [OCW] Problem Set 4, Quiz 1 (Fall 2009) Problem B, Quiz 1 (Fall 2010) Problem 1
 
 - Tutorial 3
+
+
 - Office Hours 2
 
 - Quiz 1:

@@ -17,8 +17,8 @@ authors = ["Soham Saha", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Pattern Recognision (<strong>ICPR</strong>)"
-#publication_short = "In *ACPR*"
+publication = "International Conference on Pattern Recognision"
+publication_short = "ICPR'18"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -44,7 +44,7 @@ selected = false
 projects = ["model-compression", "latent heirarchy", "computer-vision", "deep-learning", "machine-learning"]
 
 # Links (optional).
-url_pdf = "" 
+url_pdf = ""
 url_preprint = "https://arxiv.org/abs/1808.06675"
 url_code = "https://github.com/Soham0/Class2Str"
 #url_dataset = "#"

@@ -4,7 +4,7 @@ date = "2018-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
-    "Girish Varma", 
+    "Girish Varma",
     "Anbumani Subramanian",
     '''<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a>''',
     '''<a href='http://cseweb.ucsd.edu/~mkchandraker/'>Manmohan Chandraker</a>''',
@@ -23,8 +23,8 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<a href='https://wacv2019.org/'>IEEE Winter Conference on Applications of Computer Vision (<strong>WACV'19</strong>)</a>'''
-#publication_short = "ECCV'18"
+publication = '''<a href='https://wacv2019.org/'>IEEE Winter Conference on Applications of Computer Vision</a>'''
+publication_short = "WACV'19"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -35,7 +35,7 @@ image_preview = "/img/idd.jpg"
 # Is this a selected publication? (true/false)
 selected = true
 
-bibtex= ''' 
+bibtex= '''
 @inproceedings{anue,
   title={IDD: A Dataset for Exploring Problems of Autonomous Navigation in Unconstrained Environments},
   author={Varma, Girish and Subramanian, Anbumani and Namboodiri, Anoop and Chandraker, Manmohan and Jawahar, CV.},
@@ -50,7 +50,7 @@ bibtex= '''
 projects = ["autonomous-navigation", "semantic-segmentation", "computer-vision"]
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
+#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
 url_preprint = "https://arxiv.org/abs/1811.10200"
 url_code = "https://github.com/AutoNUE/public-code"
 url_dataset = "http://idd.insaan.iiit.ac.in"

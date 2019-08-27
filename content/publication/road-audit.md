@@ -18,8 +18,8 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = '''<span style='color: orange'>JTCF Novel Technology paper award Finalist</span>
-<br/>International Conference on Intelligent Robots (<strong>IROS'18</strong>)'''
-#publication_short = "In *ACPR*"
+<br/>International Conference on Intelligent Robots'''
+publication_short = "IROS'18"
 
 bibtex='''
 @inproceedings{YVJ18,
@@ -47,7 +47,7 @@ selected = true
 projects = ["transportation", "semantic-segmentation", "deep-learning", "computer-vision"]
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
+#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
 url_preprint = "https://arxiv.org/abs/1811.10210"
 url_code = "https://github.com/Sudhir11292rt/City-scale-Road-Audit"
 url_dataset = "http://cvit.iiit.ac.in/research/projects/cvit-projects/city-scale-road-audit"

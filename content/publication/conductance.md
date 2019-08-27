@@ -18,7 +18,7 @@ authors = [  "Girish Varma"]
 publication_types = ["0"]
 # Publication name and optional abbreviated version.
 publication = "*arXiv*."
-publication_short = "*arXiv*"
+publication_short = "arXiv"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -62,4 +62,3 @@ url_preprint = "https://arxiv.org/abs/1009.1756"
 #caption = "My caption :smile:"
 
 +++
-

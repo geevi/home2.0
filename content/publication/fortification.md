@@ -18,7 +18,7 @@ authors = ["Amey Bhangale", "Ramprasad Saptharishi", "Girish Varma", "Rakesh Ven
 publication_types = ["1"]
 # Publication name and optional abbreviated version.
 publication = "Randomization and Computation (<strong>RANDOM'15</strong>)"
-publication_short = "*RANDOM'15*"
+publication_short = "RANDOM'15"
 
 # Abstract and optional shortened version.
 abstract = ""

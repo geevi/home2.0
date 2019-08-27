@@ -25,7 +25,8 @@
       <div class="card-body">
 
 
-        <small class="text-muted">{{.Date.Format "Jan, 2006" }}</small>
+        <small class="text-muted">{{.Date.Format "Jan, 2006" }} {{ if .Params.publication_short }} |
+          {{ .Params.publication_short }} {{ end }}</small>
         <h4 class="mb-2">
           <a href="{{.Permalink }}">{{.Title}}</a>
         </h4>

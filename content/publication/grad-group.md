@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = '''<span style='color: orange'>Best Runner-Up Award, Oral Presentation</span><br/><a href='https://embeddedvisionworkshop.wordpress.com/'>IEEE Embedded Vision Workshop, CVPR'18</a>'''
-#publication_short = "In *ACPR*"
+publication_short = "CVPRW'18"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -45,7 +45,7 @@ year = {2018}
 projects = ["model-compression", "autonomous-navigation", "semantic-segmentation", "computer-vision", "deep-learning"]
 
 # Links (optional).
-url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf" 
+url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
 #url_preprint = "https://arxiv.org/abs/1711.08757"
 url_code = "https://github.com/nikitha96/Semantic-Segmentation"
 #url_dataset = "#"

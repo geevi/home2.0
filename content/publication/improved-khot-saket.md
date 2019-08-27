@@ -18,7 +18,7 @@ authors = [ "Girish Varma"]
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
 publication = "*Chicago J. Theor. Comp. Sci*."
-publication_short = "*Chicago J. Theor. Comp. Sci*"
+publication_short = "CJTCS"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -63,7 +63,7 @@ url_preprint = "https://arxiv.org/abs/1408.0262"
 
 +++
 
-In a recent result, Khot and Saket [FOCS 2014] proved the quasi-NP-hardness of coloring a 2-colorable 12-uniform hypergraph with 2(logn)Ω(1) colors. This result was proved using a novel outer PCP verifier which had a strong soundness guarantee. In this note, we show that we can reduce the arity of their result by modifying their 12-query inner verifier to an 8-query inner verifier based on the hypergraph coloring hardness reductions of Guruswami et. al. [STOC 2014]. More precisely, we prove quasi-NP-hardness of the following problems on n-vertex hypergraphs. 
+In a recent result, Khot and Saket [FOCS 2014] proved the quasi-NP-hardness of coloring a 2-colorable 12-uniform hypergraph with 2(logn)Ω(1) colors. This result was proved using a novel outer PCP verifier which had a strong soundness guarantee. In this note, we show that we can reduce the arity of their result by modifying their 12-query inner verifier to an 8-query inner verifier based on the hypergraph coloring hardness reductions of Guruswami et. al. [STOC 2014]. More precisely, we prove quasi-NP-hardness of the following problems on n-vertex hypergraphs.
 
-- Coloring a 2-colorable 8-uniform hypergraph with 2(logn)Ω(1) colors. 
-- Coloring a 4-colorable 4-uniform hypergraph with 2(logn)Ω(1) colors. 
+- Coloring a 2-colorable 8-uniform hypergraph with 2(logn)Ω(1) colors.
+- Coloring a 4-colorable 4-uniform hypergraph with 2(logn)Ω(1) colors.

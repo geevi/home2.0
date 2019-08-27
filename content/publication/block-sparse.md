@@ -1,12 +1,11 @@
 +++
-title = "Universal Semi-supervised Semantic Segmentation"
-date = "2018-11-16"
+title = "Dynamic Block Sparse Reparametarization of Convolutional Neural Networks"
+date = "2019-08-27"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
-    '''Tarun Kalluri''',
+    '''Dharma Teja Vooturi''',
     "Girish Varma",
-    '''<a href="http://cseweb.ucsd.edu/~mkchandraker/">Manmohan Chandraker</a>''',
-    '''<a href='https://faculty.iiit.ac.in/~jawahar/'>C V Jawahar</a>'''
+    '''Kishore Kothapalli'''
 ]
 
 # Publication type.
@@ -21,14 +20,15 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''International Conference on Computer Vision'''
-publication_short = "ICCV'19"
+publication = '''4th International Workshop on
+Compact and Efficient Feature Representation and Learning in Computer Vision, ICCV 2019'''
+publication_short = "ICCVW'19"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "/img/uni-seg.jpg"
+image_preview = "/img/block_sparse.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,11 +36,11 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["autonomous-navigation", "semantic-segmentation", "computer-vision", "deep-learning", "machine-learning"]
+projects = ["model-compression", "computer-vision", "deep-learning", "machine-learning"]
 
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
-url_preprint = "https://arxiv.org/abs/1811.10323"
+#url_preprint = "https://arxiv.org/abs/1811.10323"
 #url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
 #url_dataset = "#"
 #url_project = "#"

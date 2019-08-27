@@ -17,8 +17,8 @@ authors = ["Soham Saha", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Spotlight Presentation</span><br/>British Machine Vision Conference (<strong>BMVC'18</strong>)'''
-#publication_short = "In *ACPR*"
+publication = '''<span style='color: orange'>Spotlight Presentation</span><br/>British Machine Vision Conference'''
+publication_short = "BMVC'18"
 
 bibtex='''
 @inproceedings{SVJ18,
@@ -48,7 +48,7 @@ selected = true
 projects = ["autonomous-navigation", "localization", "computer-vision", "deep-learning"]
 
 # Links (optional).
-url_pdf = "http://bmvc2018.org/contents/papers/0962.pdf" 
+url_pdf = "http://bmvc2018.org/contents/papers/0962.pdf"
 url_preprint = "https://arxiv.org/abs/1811.04370"
 url_code = "https://github.com/Soham0/Improved-Visual-Relocalization"
 #url_dataset = "#"

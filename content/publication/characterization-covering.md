@@ -16,8 +16,8 @@ authors = ["Amey Bhangale", "Prahladh Harsha", "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Theory of Computing Journal (<b>ToC</b>)</span><br/>Computational Complexity Conference (<b>CCC</b>)'''
-publication_short = "*CCC*"
+publication = '''<span style='color: orange'>Theory of Computing Journal (<b>ToC</b>)</span><br/>Computational Complexity Conference'''
+publication_short = "CCC'15"
 
 # Abstract and optional shortened version.
 
@@ -61,8 +61,8 @@ url_slides = "/files/covering-slides.pptx"
 #caption = "My caption :smile:"
 
 +++
-We continue the study of covering complexity of constraint satisfaction problems (CSPs) initiated by Guruswami, Hastad and Sudan [SIAM J. Computing, 31(6):1663--1686, 2002] and Dinur and Kol [In Proc. 28th IEEE Conference on Computational Complexity, 2013]. The covering number of a CSP instance $\phi$, denoted by ν(Φ) is the smallest number of assignments to the variables of $\phi$, such that each constraint of Φ is satisfied by at least one of the assignments. We show the following results regarding how well efficient algorithms can approximate the covering number of a given CSP instance. 
+We continue the study of covering complexity of constraint satisfaction problems (CSPs) initiated by Guruswami, Hastad and Sudan [SIAM J. Computing, 31(6):1663--1686, 2002] and Dinur and Kol [In Proc. 28th IEEE Conference on Computational Complexity, 2013]. The covering number of a CSP instance $\phi$, denoted by ν(Φ) is the smallest number of assignments to the variables of $\phi$, such that each constraint of Φ is satisfied by at least one of the assignments. We show the following results regarding how well efficient algorithms can approximate the covering number of a given CSP instance.
 
-- Assuming a covering unique games conjecture, introduced by Dinur and Kol, we show that for every non-odd predicate P over any constant sized alphabet and every integer K, it is NP-hard to distinguish between P-CSP instances (i.e., CSP instances where all the constraints are of type P) which are coverable by a constant number of assignments and those whose covering number is at least K. Previously, Dinur and Kol, using the same covering unique games conjecture, had shown a similar hardness result for every non-odd predicate over the Boolean alphabet that supports a pairwise independent distribution. Our generalization yields a complete characterization of CSPs over constant sized alphabet Σ that are hard to cover since CSP's over odd predicates are trivially coverable with |Σ| assignments. 
+- Assuming a covering unique games conjecture, introduced by Dinur and Kol, we show that for every non-odd predicate P over any constant sized alphabet and every integer K, it is NP-hard to distinguish between P-CSP instances (i.e., CSP instances where all the constraints are of type P) which are coverable by a constant number of assignments and those whose covering number is at least K. Previously, Dinur and Kol, using the same covering unique games conjecture, had shown a similar hardness result for every non-odd predicate over the Boolean alphabet that supports a pairwise independent distribution. Our generalization yields a complete characterization of CSPs over constant sized alphabet Σ that are hard to cover since CSP's over odd predicates are trivially coverable with |Σ| assignments.
 
 - For a large class of predicates that are contained in the 2k-LIN predicate, we show that it is quasi-NP-hard to distinguish between instances which have covering number at most two and covering number at least Ω(loglogn). This generalizes the 4-LIN result of Dinur and Kol that states it is quasi-NP-hard to distinguish between 4-LIN-CSP instances which have covering number at most two and covering number at least Ω(logloglogn).

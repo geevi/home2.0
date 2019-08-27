@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Spotlight Oral Presentation<br/>In Asian Conference on Pattern Recognision ACPR"
-publication_short = "In *ACPR* ()"
+publication_short = "ACPR'17"
 
 # Abstract and optional shortened version.
 abstract = ""

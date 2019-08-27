@@ -18,7 +18,7 @@ authors = [ "Manoj Gopalkrishnan", "Girish Varma"]
 publication_types = ["0"]
 # Publication name and optional abbreviated version.
 publication = "*arXiv*."
-publication_short = "*arXiv*"
+publication_short = "arXiv"
 
 # Abstract and optional shortened version.
 abstract = ""

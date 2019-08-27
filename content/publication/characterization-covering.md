@@ -17,7 +17,7 @@ authors = ["Amey Bhangale", "Prahladh Harsha", "Girish Varma"]
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
 publication = '''<span style='color: orange'>Theory of Computing Journal (<b>ToC</b>)</span><br/>Computational Complexity Conference'''
-publication_short = "CCC'15"
+publication_short = "CCC'15 | ToC"
 
 # Abstract and optional shortened version.
 

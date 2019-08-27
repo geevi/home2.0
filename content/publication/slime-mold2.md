@@ -16,8 +16,8 @@ authors = [" Vincenzo Bonifaci", "Kurt Mehlhorn", "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Journal of Theoretical Biology (<strong>JTB</strong>)</span><br/>Symp. of Discrete Algorithms (<strong>SODA</strong>)'''
-publication_short = "JTB'12"
+publication = '''<span style='color: orange'>Journal of Theoretical Biology</span><br/>Symp. of Discrete Algorithms'''
+publication_short = "JTB'12 | SODA'11"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -61,9 +61,9 @@ url_preprint = "https://arxiv.org/abs/1106.0423"
 #caption = "My caption :smile:"
 
 +++
-Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution. This matches the experimental observations by Tero et al. and can be seen as an example of a “natural algorithm”, that is, an algorithm developed by evolution over millions of years. 
+Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution. This matches the experimental observations by Tero et al. and can be seen as an example of a “natural algorithm”, that is, an algorithm developed by evolution over millions of years.
 
-Highlights 
+Highlights
 ► A standard model for Physarum converges to the shortest path in any network.
-► When flow directions stabilize, convergence to the shortest path is fast. 
+► When flow directions stabilize, convergence to the shortest path is fast.
 ► Flow directions stabilize in series–parallel networks and Wheatstone networks.

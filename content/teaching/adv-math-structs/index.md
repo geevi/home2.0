@@ -80,8 +80,8 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
         6. A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. For example the sum  and product functions ($f(x) = \sum\_{i\in [k]} x\_i \mod n$ and $g(x) = \prod\_{i\in [k]} x\_i \mod n$ correspondingly) are symmetric. The Max, Min functions are also symmetric. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.
 
-        7. Let $n, m$ be positive integers, $k$ be a prime and $t = \frac{m^k -m}{k} + m$. Show that $k$ divides $n^{m^k} - n^t$.
-           [Hint] Need to use ideas from solutions to Problem 5, 6.
+        7. Let $k$ be prime and $\mathcal F = \left\\{ f:[m]^k\rightarrow [n] \right\\}$ (set of all functions from $[m]^k$ to $[n]$). $g$ is a cyclic reordering of $f$, if $\exists i \in [k]$ such that $g(x) = f(\sigma^i(x))$ where $\sigma^i(x) = x\_i \cdots x\_n x\_1 \cdots x\_{i-1}$. Find the number of distinct functions in $\mathcal F$ if cyclic reorderings are considered the same.
+        Use this to show that $k$ divides $n^{m^k} - n^t$ where $t = \frac{m^k - m}{k} + m $.
 
 
 - **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
@@ -124,6 +124,9 @@ The course contains a broad set of intermediate and advanced level topics in Alg
             $$\phi(n) = n \prod_{i=1}^k \left(\frac{p_i - 1}{p_i}\right).$$
 
             [Hint] Choose sets $A\_1, \cdots, A\_k$ that can easily be counted such that $\phi(n) = \left| \overline{A\_1 \cup \cdots \cup A\_k} \right|$.
+
+      2. Let $\mathcal B\_n = \left\\{ f:\\{0,1\\}^n \rightarrow \\{0,1\\} \right\\}$ (the set of all Boolean functions). A function $f\in \mathcal B\_n$, depends on $i$th coordinate ($i \in [n]$) if $\exists x\_1, \cdots, x\_{i-1}, x\_{i+1}, \cdots, x_n \in \\{0,1\\}$ such that
+      for $y = x\_1 \cdots x\_{i-1}0x\_{i+1} \cdots x\_n$, $y' = x\_1 \cdots x\_{i-1}1x\_{i+1} \cdots x\_n$, $f(y) \neq f(y')$. Find the number of functions which depends on all the coordinates in $[n]$.  
 
 - **Office Hrs 1**
   

@@ -127,7 +127,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - Final exam
 
-
+    
 
 ## Textbook and References
 

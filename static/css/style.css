@@ -85,10 +85,6 @@ main {
   padding: 0px 20px;
 } */
 
-h2 {
-  min-width: 100%;
-}
-
 
 .pub {
   margin: 80px 0px;
@@ -248,4 +244,11 @@ body {
 
 ul.navbar-nav {
   border: 0;
+}
+
+.pub h2 {
+  min-width: 100%;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px #cccccc solid;
 }

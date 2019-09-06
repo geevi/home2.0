@@ -54,7 +54,7 @@ This course is intended to familiarize the students with the types of mathematic
         2. [MA] Chapter 2 Exercies, Section 1 Question 5, Section 2 (Page 70) Question 10
         3. [TJ] Section 3.4: Problems 2, 10
 
-- **Lec 2: Burnside / Polya Counting**
+- **Lec 2: Burnside / Pólya Counting**
     - *Read*: [JM] Chapter 22, 23.
       [Alon Frieze's Slides](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf)
     - *Solve*: [JM] 23.4 Exercises (Lecture 23), 1, 3
@@ -140,11 +140,11 @@ This course is intended to familiarize the students with the types of mathematic
             $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$
 
 
-- **Families of Sets: Sperners Theorem | Intersecting Families | Halls Theorem**
+- **Families of Sets: Sperner's Theorem | Intersecting Families | Hall's Theorem**
   - *Read*: [PJC] Chapter 7. [DG] Chapter 4.
 
 
-- **Halls Theorem | Erdos Ko Rado Theorem**
+- **Halls Theorem | Erdős Ko Rado Theorem**
 
 - **Rings, Fields and Vector Spaces I**
 

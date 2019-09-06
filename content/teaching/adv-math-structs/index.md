@@ -136,9 +136,11 @@ The course contains a broad set of intermediate and advanced level topics in Alg
   - *Read*: [PJC] Chapter 7. [DG] Chapter 4.
 
 
-- **System of Distinct Representatives, Halls Theorem**
+- **Halls Theorem | Erdos Ko Rado Theorem**
 
-- **Rings, Fields, and Vector Spaces**
+- **Rings, Fields and Vector Spaces I**
+
+- **Rings, Fields and Vector Spaces II**
 
 - Mid Sem Exam
 

@@ -140,15 +140,15 @@ This course is intended to familiarize the students with the types of mathematic
             $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$
 
 
-- **Families of Sets: Sperner's Theorem | Intersecting Families | Hall's Theorem**
+- **Lec 10: Families of Sets: Sperner's Theorem | Intersecting Families | Hall's Theorem**
   - *Read*: [PJC] Chapter 7. [DG] Chapter 4.
 
 
-- **Halls Theorem | Erdős Ko Rado Theorem**
+- **Lec 11: System of Distinct Representatives | Erdős-Ko-Rado Theorem**
 
-- **Rings, Fields and Vector Spaces I**
+- **Lec 12: Rings, Fields and Vector Spaces I**
 
-- **Rings, Fields and Vector Spaces II**
+- **Lec 13: Rings, Fields and Vector Spaces II**
 
 - Mid Sem Exam
 

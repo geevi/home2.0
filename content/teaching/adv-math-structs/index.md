@@ -125,12 +125,20 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
             [Hint] Choose sets $A\_1, \cdots, A\_k$ that can easily be counted such that $\phi(n) = \left| \overline{A\_1 \cup \cdots \cup A\_k} \right|$.
 
-      2. Let $\mathcal B\_n = \left\\{ f:\\{0,1\\}^n \rightarrow \\{0,1\\} \right\\}$ (the set of all Boolean functions). A function $f\in \mathcal B\_n$, depends on $i$th coordinate ($i \in [n]$) if $\exists x\_1, \cdots, x\_{i-1}, x\_{i+1}, \cdots, x_n \in \\{0,1\\}$ such that
-      for $y = x\_1 \cdots x\_{i-1}0x\_{i+1} \cdots x\_n$, $y' = x\_1 \cdots x\_{i-1}1x\_{i+1} \cdots x\_n$, $f(y) \neq f(y')$. Find the number of functions which depends on all the coordinates in $[n]$.  
-
 - **Office Hrs 1**
   
 - **Quiz I**
+
+- **Lec 9: Answer Discussion**
+  - *Solve*:
+    1. Let $\mathcal B\_n = \left\\{ f:\\{0,1\\}^n \rightarrow \\{0,1\\} \right\\}$ (the set of all Boolean functions). A function $f\in \mathcal B\_n$, depends on $i$th coordinate ($i \in [n]$) if $\exists x\_1, \cdots, x\_{i-1}, x\_{i+1}, \cdots, x_n \in \\{0,1\\}$ such that
+      for $y = x\_1 \cdots x\_{i-1}0x\_{i+1} \cdots x\_n$, $y' = x\_1 \cdots x\_{i-1}1x\_{i+1} \cdots x\_n$, $f(y) \neq f(y')$. Find the number of functions which depends on all the coordinates in $[n]$.  
+    2. Let $n \geq r$. Show that:
+        1. For odd $r$,
+        $$ {n \choose 0} - {n \choose 1} + \cdots + (-1)^r { n \choose r } \leq 0$$
+        2. For even $r$,
+        $$ {n \choose 0} - {n \choose 1} + \cdots + (-1)^r { n \choose r } \geq 0$$
+
 
 - **Families of Sets: Sperners Theorem | Intersecting Families | Halls Theorem**
   - *Read*: [PJC] Chapter 7. [DG] Chapter 4.

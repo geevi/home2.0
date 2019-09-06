@@ -131,13 +131,12 @@ The course contains a broad set of intermediate and advanced level topics in Alg
 
 - **Lec 9: Answer Discussion**
   - *Solve*:
-      1. Let $\mathcal B\_n = \left\\{ f:\\{0,1\\}^n \rightarrow \\{0,1\\} \right\\}$ (the set of all Boolean functions). A function $f\in \mathcal B\_n$, depends on $i$th coordinate ($i \in [n]$) if $\exists x\_1, \cdots, x\_{i-1}, x\_{i+1}, \cdots, x_n \in \\{0,1\\}$ such that
-      for $y = x\_1 \cdots x\_{i-1}0x\_{i+1} \cdots x\_n$, $y' = x\_1 \cdots x\_{i-1}1x\_{i+1} \cdots x\_n$, $f(y) \neq f(y')$. Find the number of functions which depends on all the coordinates in $[n]$.  
-      2. Let $k \geq r$. Prove Lec 6, Problem 2 by first showing that:
-          1. For odd $r$,
-          $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \leq 0$$
-          2. For even $r$,
-          $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$
+        1. Let $\mathcal B\_n = \left\\{ f:\\{0,1\\}^n \rightarrow \\{0,1\\} \right\\}$ (the set of all Boolean functions). A function $f\in \mathcal B\_n$, depends on $i$th coordinate ($i \in [n]$) if $\exists x\_1, \cdots, x\_{i-1}, x\_{i+1}, \cdots, x_n \in \\{0,1\\}$ such that for $y = x\_1 \cdots x\_{i-1}0x\_{i+1} \cdots x\_n$, $y' = x\_1 \cdots x\_{i-1}1x\_{i+1} \cdots x\_n$, $f(y) \neq f(y')$. Find the number of functions which depends on all the coordinates in $[n]$.  
+        2. Let $k \geq r$. Prove Lec 6, Problem 2 by first showing that:
+            1. For odd $r$,
+            $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \leq 0$$
+            2. For even $r$,
+            $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$
 
 
 - **Families of Sets: Sperners Theorem | Intersecting Families | Halls Theorem**

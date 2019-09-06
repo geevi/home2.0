@@ -28,8 +28,9 @@ math = true
 
 +++
 
-The course contains a broad set of intermediate and advanced level topics in Algebra and Combinatorics. The course is intended to: i.) refresh the basic topics learnt in S1-S4 ii.) solve advanced problems on the basic topics iii.) introduce some newer topics which was not covered in S1-S4.
+This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra and Combinatorics.
 
+**Goal**: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.
 
 ## Grading
 - Assignment Tests: 20%

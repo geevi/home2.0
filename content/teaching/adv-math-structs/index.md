@@ -132,7 +132,9 @@ The course contains a broad set of intermediate and advanced level topics in Alg
   
 - **Quiz I**
 
-- **Combinatorics of Set Systems: Sperners | Dilworths | Erdos Ko Rado**
+- **Families of Sets: Sperners Theorem | Intersecting Families | Halls Theorem**
+  - *Read*: [PJC] Chapter 7. [DG] Chapter 4.
+
 
 - **System of Distinct Representatives, Halls Theorem**
 
@@ -170,10 +172,10 @@ There is no single book covering all the topics. For different lectures, we will
   Jamie Mulholland
   [pdf](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May07-2012.pdf)
 
-- Notes on Combinatorics
+- [PJC] Notes on Combinatorics
   Peter J. Cameron
   [pdf](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf)
 
-- An Introduction to Combinatorics and Graph Theory
+- [DG] An Introduction to Combinatorics and Graph Theory
   David Guichard.
   [pdf](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)

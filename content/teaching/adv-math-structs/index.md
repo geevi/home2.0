@@ -144,7 +144,7 @@ This course is intended to familiarize the students with the types of mathematic
   - *Read*: [PJC] Chapter 7. [DG] Section 1.7 for Sperner's Thm. Chapter 4 for SDR.
   - *Solve*:
         1. Let $n = 2k$. Show that there are $2^{2k−1 \choose k−1}$ intersecting families of $k$-element subsets of $[n]$ having the maximum number${2k−1 \choose k−1}$ of members.
-        2.  Show that, for every non-empty subset $A$ of $[n]$, there is an intersecting family $\mathcal{F}$ of subsets of $[n]$ of size $2^{n−1}$ with $A\in \mathcal F$. Show further that any two subsets $A,B$ with $A\cap B =\phi$ are contained in a family with these properties. What about three pairwise intersecting sets?
+        2.  Show that, for every non-empty subset $A$ of $[n]$, there is an intersecting family $\mathcal{F}$ of subsets of $[n]$ of size $2^{n−1}$ with $A\in \mathcal F$. Show further that any two subsets $A,B$ with $A\cap B \neq \phi$ are contained in a family with these properties. What about three pairwise intersecting sets?
 
 - **Lec 11: System of Distinct Representatives | Erdős-Ko-Rado Theorem**
   - *Read*: *Read*: [PJC] Chapter 7 (Appendix for Erdos-Ko-Rado).  Chapter 4 for SDR.

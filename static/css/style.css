@@ -253,3 +253,7 @@ ul.navbar-nav {
   padding-bottom: 5px;
   border-bottom: 1px #cccccc solid;
 }
+
+a.btn.btn-default.tag.mb-3:hover {
+  color: blue;
+}

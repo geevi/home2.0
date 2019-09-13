@@ -147,9 +147,10 @@ This course is intended to familiarize the students with the types of mathematic
         2.  Show that, for every non-empty subset $A$ of $[n]$, there is an intersecting family $\mathcal{F}$ of subsets of $[n]$ of size $2^{n−1}$ with $A\in \mathcal F$. Show further that any two subsets $A,B$ with $A\cap B \neq \phi$ are contained in a family with these properties. What about three pairwise intersecting sets?
 
 - **Lec 11: System of Distinct Representatives | Erdős-Ko-Rado Theorem**
-  - *Read*: *Read*: [PJC] Chapter 7 (Appendix for Erdos-Ko-Rado).  Chapter 4 for SDR.
+  - *Read*: [PJC] Chapter 7 (Appendix for Erdos-Ko-Rado).  Chapter 4 for SDR.
 
 - **Lec 12: Rings, Fields and Vector Spaces I**
+  - *Read*: [ADS] Chapter 16. [TJ] Chapter 16.
 
 - **Lec 13: Rings, Fields and Vector Spaces II**
 
@@ -176,6 +177,10 @@ There is no single book covering all the topics. For different lectures, we will
 - [TJ] Abstract Algebra: Theory and Applications
   Thomas W. Judson
   [pdf](http://abstract.ups.edu/download/aata-20180801.pdf)
+
+- [ADS] Applied Discrete Structures,
+  Al Doerr, Ken Levasseur
+  [pdf](http://discretemath.org/ads-latex/ads.pdf)
 
 - [CoCo] Lecture Notes, Combinatorics
   Lecture by Torsten Ueckerdt (KIT)

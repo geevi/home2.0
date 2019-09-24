@@ -153,6 +153,7 @@ This course is intended to familiarize the students with the types of mathematic
   - *Read*: [ADS] Chapter 16. [TJ] Chapter 16.
 
 - **Lec 13: Rings, Fields and Vector Spaces II**
+  - *Read*: https://web.stanford.edu/class/ee392d/Chap7.pdf
 
 - Mid Sem Exam
 

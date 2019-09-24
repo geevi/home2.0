@@ -41,7 +41,7 @@ projects = ["autonomous-navigation", "semantic-segmentation", "computer-vision",
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
 url_preprint = "https://arxiv.org/abs/1811.10323"
-#url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
+url_code = "https://github.com/tarun005/USSS_ICCV19"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"

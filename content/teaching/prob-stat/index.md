@@ -101,33 +101,39 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - Quiz 1:
 
-- **Continous RVs I**
+- **Lec 7: Continuos RVs**
 
-- **Multiple Continous RVs I**
+- **Lec 8: Multiple Continuos RVs**
 
-- **Continous Bayes**
+- **Lec 9: Continuos Bayes**
 
-- **Markov | Chebyshev | Sum of RVs | Chernoff**
+- **Lec 10: Markov | Chebyshev**
 
-- **Weak Law of Large Numbers**
-
-- **Central Limit Theorem**
+- **Lec 11:  Sum of RVs | Chernoff**
+- **Lec 12: Chernoff**
+- **Lec 13: Central Limit Theorem**
 
 - Mid Sem Exam
 
-- **Proceses: Bernoulli | Poisson | Markov Chains**
+- **Lec 14: Process | Bernoulli Process**
+- **Poisson Process - I**
+- **Poisson Process - II**
+- **Markov Chains I**
+- **Markov Chains II**
+- **Markov Chains III**
+- **Markov Chains IV**
 
 - Quiz 2
 
-- **Information Theory**
-
 - **Bayesian Stat. Inference**
+
+- **Information Theory**
 
 - **Classical Stat. Inference**
 
 - Final exam
 
-    
+
 
 ## Textbook and References
 

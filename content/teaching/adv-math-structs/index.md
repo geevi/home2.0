@@ -159,8 +159,8 @@ This course is intended to familiarize the students with the types of mathematic
 
 - **Probability and Computing | PIT | Min Cut | Erdős Ko Rado**
   - *Read*
-    - Min Cut: http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf
-    - Probability Basics and EKR (Section 2.3): http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf
+      - Min Cut: http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf
+      - Probability Basics and EKR (Section 2.3): http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf
 
 - **Error Correcting Codes | Reed Solomon Codes**
 - **Probability Revision**

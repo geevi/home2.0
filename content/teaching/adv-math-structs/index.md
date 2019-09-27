@@ -162,14 +162,13 @@ This course is intended to familiarize the students with the types of mathematic
       - Min Cut: http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf
       - Probability Basics and EKR (Section 2.3): http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf
 
-- **Error Correcting Codes | Reed Solomon Codes**
-- **Probability Revision**
+- **Probabilistic Method**
+- **Random Graphs**
 - **Random Walks in Graphs**
 
 - Quiz 2
 
-- **Special Topic: 3 lecs**
-- **Probabilistic Method: 2 lecs**
+- **Error Correcting Codes | Reed Solomon Codes**
 - **Welsh Berelekamp Decoding Algorithm (Polynomial Method): 2 lecs**
 
 

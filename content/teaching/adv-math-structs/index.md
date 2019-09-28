@@ -32,6 +32,8 @@ This course is intended to familiarize the students with the types of mathematic
 
 **Goal**: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.
 
+**Acknowledgements**: This course is loosely based on a similar course offered by Jaikumar Radhakrishnan (http://www.tcs.tifr.res.in/~jaikumar/Courses/MathStructures/Autumn06/) at TIFR, Mumbai.
+
 ## Grading
 - Assignment Tests: 20%
   - Practice problems will be given after each lecture.

@@ -170,7 +170,8 @@ This course is intended to familiarize the students with the types of mathematic
       1. Suppose $A$ is a randomized algorithm for a decision problem ($0,1$ output)  which takes $x \in \\{0,1\\}^n$ (where $n$ is a fixed number say $100$; we are not interested in all inputs which are infinite in number but only the $2^n$ inputs of length $n$) as input. Also suppose we provide all the randomness that the algorithm requires by giving it a string $r \in \\{0,1\\}^m$ which is chosen uniformly at random. You are told that for all inputs $x \in \\{0,1\\}^n$, the algorithm is correct with probability
       $1-\frac{1}{2^{n+1}}$. That is
       $$ \forall x \in \\{0, 1\\}^n, \Pr_{r \in \\{0, 1\\}^m}\left[A(x,r) \text{ is correct}\right] \geq 1 - \frac{1}{2^{n+1}}.$$
-      Then show that there is a fixed string $r \in \\{0,1\\}^m$ such that for every input $x\in \\{0,1\\}^n$, $A(x,r)$ is correct.
+      Then show that there is a fixed string $r \in \\{0,1\\}^m$ such that for every input $x\in \\{0,1\\}^n$, $A(x,r)$ is correct. That is
+      $$ \exists r \in \\{0,1\\}^m, \forall x \in \\{0,1\\}^n, A(x,r) \text{ is correct}.$$
 
       1. Let $p(x_1,x_2,\cdots,x_n)$ be a nonzero polynomial of total degree $d$ (maximum value among all monomials of the sum of degrees of each variable) on $n$ variables with coefficients from a finite field $\mathbb F$.  Let $\alpha_1,\cdots, \alpha_n$ be chosen uniformly and independently from $\mathbb F$. Show that:
             $$ \Pr\left[p(\alpha_1,\cdots, \alpha_n) = 0 \right] \leq \frac{d}{|\mathbb F|}.$$

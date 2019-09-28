@@ -32,7 +32,7 @@ This course is intended to familiarize the students with the types of mathematic
 
 **Goal**: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.
 
-**Prerequisites**: Students are expected to have already attended Discrete Maths, Linear Algebra and Probability courses some time in their career. Though we will spend some time revising these, we will quickly move on to advanced topics.
+**Prerequisites**: Students are expected to have already attended Discrete Maths, Linear Algebra and Probability courses some time in their career. Though some time will be spent on revising these, we will quickly move on to advanced topics.
 
 **Acknowledgements**: This course is loosely based on a similar course offered by Jaikumar Radhakrishnan (http://www.tcs.tifr.res.in/~jaikumar/Courses/MathStructures/Autumn06/) at TIFR, Mumbai.
 

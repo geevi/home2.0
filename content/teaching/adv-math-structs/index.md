@@ -162,6 +162,12 @@ This course is intended to familiarize the students with the types of mathematic
       - Min Cut: http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf
       - Probability Basics and EKR (Section 2.3): http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf
 
+  - *Solve*
+      1. Suppose $A$ is a randomized algorithm for a decision problem ($0,1$ output)  which takes $x \in \\{0,1\\}^n$ as input. Also suppose we provide all the randomness that the algorithm requires by giving it a string $r \in \\{0,1\\}^m$ which is chosen uniformly at random. You are told that for all inputs $x \in \\{0,1\\}^n$, the algorithm is correct with probability
+      $1-\frac{1}{2^{n+1}}$. That is
+      $$ \forall x \in \\{0, 1\\}^n, \Pr_{r \in \\{0, 1\\}^m}\left[A(x,r) \text{ is correct}\right] \geq 1 - \frac{1}{2^{n+1}}.$$
+      Then show that there is a fixed string $r \in \\{0,1\\}^m$ such that for every input $x\in \\{0,1\\}^n$, $A(x,r)$ is correct.
+
 - **Probabilistic Method**
 - **Random Graphs**
 - **Random Walks in Graphs**

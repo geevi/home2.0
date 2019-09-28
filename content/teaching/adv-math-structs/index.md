@@ -32,6 +32,8 @@ This course is intended to familiarize the students with the types of mathematic
 
 **Goal**: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.
 
+**Prerequisites**: Students are expected to have already attended Discrete Maths, Linear Algebra and Probability courses some time in their career. Though we will spend some time revising these, we will quickly move on to advanced topics.
+
 **Acknowledgements**: This course is loosely based on a similar course offered by Jaikumar Radhakrishnan (http://www.tcs.tifr.res.in/~jaikumar/Courses/MathStructures/Autumn06/) at TIFR, Mumbai.
 
 ## Grading
@@ -169,6 +171,10 @@ This course is intended to familiarize the students with the types of mathematic
       $1-\frac{1}{2^{n+1}}$. That is
       $$ \forall x \in \\{0, 1\\}^n, \Pr_{r \in \\{0, 1\\}^m}\left[A(x,r) \text{ is correct}\right] \geq 1 - \frac{1}{2^{n+1}}.$$
       Then show that there is a fixed string $r \in \\{0,1\\}^m$ such that for every input $x\in \\{0,1\\}^n$, $A(x,r)$ is correct.
+
+      2. Let $p(x_1,x_2,\cdots,x_n)$ be a nonzero polynomial of total degree $d$ (maximum of the sum of degrees of each variable among all monomials) on $n$ variables with coefficients from a finite field $\mathbb F$.  Let $\alpha_1,\cdots, \alpha_n$ be chosen uniformly and independently from $\mathbb F$. Show that:
+            $$ \Pr\left[p(\alpha_1,\cdots, \alpha_n) = 0 \right] \leq \frac{d}{|\mathbb F|}.$$
+            Hint: Use induction on number of variables $n$.
 
 - **Probabilistic Method**
 - **Random Graphs**

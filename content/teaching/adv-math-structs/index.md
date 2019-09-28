@@ -175,7 +175,7 @@ This course is intended to familiarize the students with the types of mathematic
 
       1. Let $p(x_1,x_2,\cdots,x_n)$ be a nonzero polynomial of total degree $d$ (maximum value among all monomials of the sum of degrees of each variable) on $n$ variables with coefficients from a finite field $\mathbb F$.  Let $\alpha_1,\cdots, \alpha_n$ be chosen uniformly and independently from $\mathbb F$. Show that:
             $$ \Pr\left[p(\alpha_1,\cdots, \alpha_n) = 0 \right] \leq \frac{d}{|\mathbb F|}.$$
-            Hint: Use induction on number of variables $n$.
+            Hint: Use induction on number of variables $n$. Decompose the polynomial according to powers of $x_1$. Condition on appropriate event and upperbound the probability.
 
 - **Probabilistic Method**
 - **Random Graphs**

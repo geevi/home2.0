@@ -181,7 +181,7 @@ This course is intended to familiarize the students with the types of mathematic
             1. Can you use the fair coin to choose one among three options uniformly at random? Can it be done using a finite number of tosses?
             2. Can it be done using infinite number of tosses? If so, can you give a general method for uniformly choosing one among $k$ options (for any number $k$)?
             3. Using a finite number of tosses, can you choose one among three options "almost" or "approximately" uniform way? When would you say a distribution is almost uniform among three options (what is the mathematical definition of almost uniform)?
-            4. Suppose you are given an unfair coin with probability of heads being $p<1/2$. Can you use the unfair coin to simulate a fair coin (that is choose 1 among 2 options uniformly)?
+            4. Suppose you are given an unfair coin with probability of heads being $p<1/2$. Can you use the unfair coin to simulate a fair coin exactly or even approximately (that is choose 1 among 2 options uniformly)?
 
 - **Probabilistic Method**
 - **Random Graphs**

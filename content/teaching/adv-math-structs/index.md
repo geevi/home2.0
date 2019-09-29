@@ -28,7 +28,7 @@ math = true
 
 +++
 
-This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra and Combinatorics.
+This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.
 
 **Goal**: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.
 

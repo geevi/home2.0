@@ -173,9 +173,15 @@ This course is intended to familiarize the students with the types of mathematic
       Then show that there is a fixed string $r \in \\{0,1\\}^m$ such that for every input $x\in \\{0,1\\}^n$, $A(x,r)$ is correct. That is
       $$ \exists r \in \\{0,1\\}^m, \forall x \in \\{0,1\\}^n, A(x,r) \text{ is correct}.$$
 
-      1. Let $p(x_1,x_2,\cdots,x_n)$ be a nonzero polynomial of total degree $d$ (maximum value among all monomials of the sum of degrees of each variable) on $n$ variables with coefficients from a finite field $\mathbb F$.  Let $\alpha_1,\cdots, \alpha_n$ be chosen uniformly and independently from $\mathbb F$. Show that:
+      2. Let $p(x_1,x_2,\cdots,x_n)$ be a nonzero polynomial of total degree $d$ (maximum value among all monomials of the sum of degrees of each variable) on $n$ variables with coefficients from a finite field $\mathbb F$.  Let $\alpha_1,\cdots, \alpha_n$ be chosen uniformly and independently from $\mathbb F$. Show that:
             $$ \Pr\left[p(\alpha_1,\cdots, \alpha_n) = 0 \right] \leq \frac{d}{|\mathbb F|}.$$
             Hint: Use induction on number of variables $n$. Decompose the polynomial according to powers of $x_1$. Condition on appropriate event and upperbound the probability.
+
+      3. Suppose you have a fair coin (equal probability of heads and tails). You can use the coin to choose one among four options uniformly at random by tossing it twice and assigning the four outcomes to the four options.
+            1. Can you use the fair coin to choose one among three options uniformly at random? Can it be done using a finite number of tosses?
+            2. Can it be done using infinite number of tosses? If so, can you give a general method for uniformly choosing one among $k$ options (for any number $k$)?
+            3. Using a finite number of tosses, can you choose one among three options "almost" or "approximately" uniform way? When would you say a distribution is almost uniform among three options (what is the mathematical definition of almost uniform)?
+            4. Suppose you are given an unfair coin with probability of heads being $p<1/2$. Can you use the unfair coin to simulate a fair coin (that is choose 1 among 2 options uniformly)?
 
 - **Probabilistic Method**
 - **Random Graphs**

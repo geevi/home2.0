@@ -184,6 +184,11 @@ This course is intended to familiarize the students with the types of mathematic
             4. Suppose you are given an unfair coin with probability of heads being $p<\frac{1}{2}$. Can you use the unfair coin to simulate a fair coin exactly or even approximately (that is choose 1 among 2 options uniformly)?
 
 - **Probabilistic Method**
+  - *Read:*
+      - Proofs from the Book, Chapter 35
+  - *Solve:*
+      1. Let $\sigma$ be a uniformly random permutation chosen from $S_n$. What is the expected number of fixed points ($i$ such that $\sigma(i)=i$) in $\sigma$? What about the expected number of cycles of length $2$? What about the expected number of cycles?
+      2. Let $G$ be a random graph on $n$ nodes. That is each of the ${n \choose 2}$ edges is independently chosen with probability $\frac{1}{2}$. What is the expected number of simple cycles of length less than $\ell$?
 - **Random Graphs**
 - **Random Walks in Graphs**
 

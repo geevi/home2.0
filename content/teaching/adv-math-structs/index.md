@@ -183,14 +183,15 @@ This course is intended to familiarize the students with the types of mathematic
             3. Using a finite number of tosses, can you choose one among three options "almost" or "approximately" uniform way? When would you say a distribution is almost uniform among three options (what is the mathematical definition of almost uniform)?
             4. Suppose you are given an unfair coin with probability of heads being $p<\frac{1}{2}$. Can you use the unfair coin to simulate a fair coin exactly or even approximately (that is choose 1 among 2 options uniformly)?
 
-- **Probabilistic Method**
+- **Lec 15: Probabilistic Method**
   - *Read:*
-      - Proofs from the Book, Chapter 35
+      - [AZ] Proofs from the Book, Chapter 35
   - *Solve:*
       1. Let $\sigma$ be a uniformly random permutation chosen from $S_n$. What is the expected number of fixed points ($i$ such that $\sigma(i)=i$) in $\sigma$? What about the expected number of cycles of length $2$? What about the expected number of cycles?
       2. Let $G$ be a random graph on $n$ nodes. That is each of the ${n \choose 2}$ edges is independently chosen with probability $\frac{1}{2}$. What is the expected number of simple cycles of length less than $\ell$?
 - **Random Graphs**
 - **Random Walks in Graphs**
+- **Expanders**
 
 - Quiz 2
 
@@ -202,6 +203,11 @@ This course is intended to familiarize the students with the types of mathematic
 
 There is no single book covering all the topics. For different lectures, we will be following material from different sources, which will be posted at the course page. Some of the sources that will be used often are:
 
+- [AZ] Proofs from the Book.
+  Aigner and Ziegler
+
+- [AS] The Probabilistic Method.
+  Alon and Sipser
 
 - [MA] Algebra by M Artin, Prentice-Hall India.
 

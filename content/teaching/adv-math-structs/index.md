@@ -193,7 +193,7 @@ This course is intended to familiarize the students with the types of mathematic
   - *Read:*
       - 3SAT 7/8 algorithm: https://i.cs.hku.hk/~hubert/teaching/c8601_2011/notes1.pdf
       - Method of conditional expectations: https://i.cs.hku.hk/~hubert/teaching/c8601_2011/notes2.pdf
-      - [AZ] Proofs from the Book, Chapter 35
+      - Large girth, large chromatic number graphs: [AZ] Proofs from the Book, Chapter 35
 - **Random Walks in Graphs**
 - **Expanders**
 

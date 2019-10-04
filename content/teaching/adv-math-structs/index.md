@@ -189,7 +189,11 @@ This course is intended to familiarize the students with the types of mathematic
   - *Solve:*
       1. Let $\sigma$ be a uniformly random permutation chosen from $S_n$. What is the expected number of fixed points ($i$ such that $\sigma(i)=i$) in $\sigma$? What about the expected number of cycles of length $2$? What about the expected number of cycles?
       2. Let $G$ be a random graph on $n$ nodes. That is each of the ${n \choose 2}$ edges is independently chosen with probability $\frac{1}{2}$. What is the expected number of simple cycles of length less than $\ell$?
-- **Random Graphs**
+- **Lec 16: Probabilistic Method | Random Graphs**
+  - *Read:*
+      - 3SAT 7/8 algorithm: https://i.cs.hku.hk/~hubert/teaching/c8601_2011/notes1.pdf
+      - Method of conditional expectations: https://i.cs.hku.hk/~hubert/teaching/c8601_2011/notes2.pdf
+      - [AZ] Proofs from the Book, Chapter 35
 - **Random Walks in Graphs**
 - **Expanders**
 

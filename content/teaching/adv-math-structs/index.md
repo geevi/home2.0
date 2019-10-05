@@ -196,13 +196,15 @@ This course is intended to familiarize the students with the types of mathematic
       - Large girth, large chromatic number graphs:
           - [AZ] Proofs from the Book, Chapter 35.
           - [AS] Page 38.
-- **Random Walks in Graphs**
-- **Expanders**
+- **Lec 17: Second Moment Method I | Chebyshev | Chernoff**
+- **Lec 18: Random Walks and Eigen Values**
+- **Lec 19: Fields, Rings, Polynomials Revision**
 
 - Quiz 2
 
-- **Error Correcting Codes | Reed Solomon Codes**
-- **Welsh Berelekamp Decoding Algorithm (Polynomial Method): 2 lecs**
+- **Error Correcting Codes | Reed Solomon Codes: 3 lecs (by Prof. Prasad)**
+- **Welsh Berelekamp Decoding Algorithm (Polynomial Method): 2 lecs (by Prof. Prasad)**
+- **Expanders | Codes | Hashing (2 lecs)**
 
 
 ## Texbook and References

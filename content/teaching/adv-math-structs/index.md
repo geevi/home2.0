@@ -196,9 +196,16 @@ This course is intended to familiarize the students with the types of mathematic
       - Large girth, large chromatic number graphs:
           - [AZ] Proofs from the Book, Chapter 35.
           - [AS] Page 38.
-- **Lec 17: Second Moment Method I | Chebyshev | Chernoff**
-- **Lec 18: Random Walks and Eigen Values**
-- **Lec 19: Fields, Rings, Polynomials Revision**
+- **Lec 17: Tail Bounds | Chebyshev | Chernoff**
+  - *Read:*
+      - http://math.mit.edu/~goemans/18310S15/chernoff-notes.pdf
+      - We also used Chernoff's Bound to amplify the probability of a weak algorithm to obtain a strong algorithm using Chebyshev and Chernoff's Bounds.
+      
+- **Lec 18: Introduction to Spectral Graph Theory**
+  - *Read:*
+      - Upto Page 6 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf
+
+- **Lec 19: Random Walks, Eigen Values and Expanders**
 
 - Quiz 2
 

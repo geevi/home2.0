@@ -117,7 +117,6 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - **Lec 14: Process | Bernoulli Process**
 - **Poisson Process - I**
-- **Poisson Process - II**
 - **Markov Chains I**
 - **Markov Chains II**
 - **Markov Chains III**
@@ -127,7 +126,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - **Bayesian Stat. Inference**
 
-- **Information Theory**
+- **Information Theory (2 lecs by Prof. Lalitha)**
 
 - **Classical Stat. Inference**
 

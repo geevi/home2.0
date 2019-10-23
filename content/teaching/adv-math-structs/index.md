@@ -206,6 +206,8 @@ This course is intended to familiarize the students with the types of mathematic
       - Upto Page 6 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf
 
 - **Lec 19: Random Walks, Eigen Values and Expanders**
+  - *Read:*
+      - Section 4.2 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf
 
 - Quiz 2
 

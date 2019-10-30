@@ -132,7 +132,7 @@ This course is intended to familiarize the students with the types of mathematic
 
 - **Office Hrs 1**
 
-- **Quiz I**
+- **[Quiz I](AMS_Quiz_1.pdf)**
 
 - **Lec 9: Answer Discussion**
   - *Solve*:
@@ -159,7 +159,7 @@ This course is intended to familiarize the students with the types of mathematic
 - **Lec 13: Rings, Fields and Vector Spaces II**
   - *Read*: https://web.stanford.edu/class/ee392d/Chap7.pdf
 
-- Mid Sem Exam
+- **[Mid Sem Exam](AMS_Midsem.pdf)**
 
 - **Lec 14: Probability and Computing | PIT | Min Cut | Erdős Ko Rado**
   - *Read*
@@ -209,7 +209,7 @@ This course is intended to familiarize the students with the types of mathematic
   - *Read:*
       - Section 4.2 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf
 
-- Quiz 2
+- **[Quiz 2](AMS_Quiz_2.pdf)**
 
 - **Error Correcting Codes | Reed Solomon Codes: 3 lecs (by Prof. Prasad)**
 - **Welsh Berelekamp Decoding Algorithm (Polynomial Method): 2 lecs (by Prof. Prasad)**

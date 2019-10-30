@@ -99,7 +99,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - Office Hours 2
 
-- Quiz 1:
+- **[Quiz 1](Prob_Quiz_1.pdf)**:
 
 - **Lec 7: Continuos RVs**
 
@@ -113,7 +113,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 - **Lec 12: Chernoff**
 - **Lec 13: Central Limit Theorem**
 
-- Mid Sem Exam
+- **[Mid Sem Exam](PS_Midsem.pdf)**
 
 - **Lec 14: Process | Bernoulli Process**
 - **Poisson Process - I**
@@ -121,10 +121,11 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 - **Markov Chains II**
 - **Markov Chains III**
 - **Markov Chains IV**
+- **[Test 5](Test_Assign_5.pdf)**
+- **[Quiz 2](PS_Quiz_II.pdf)**
 
-- Quiz 2
-
-- **Bayesian Stat. Inference**
+- **Classical Stat. Inference**: (2 lecs)  
+  Point Estimates for Mean, Varience | Interval Estimates | Maximum Likelihood | Hypothesis Testing | Linear Regression
 
 - **Information Theory (2 lecs by Prof. Lalitha)**
 

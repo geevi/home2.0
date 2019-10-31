@@ -39,14 +39,14 @@ selected = true
 projects = ["autonomous-navigation", "semantic-segmentation", "computer-vision", "deep-learning", "machine-learning"]
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
+url_pdf = "http://openaccess.thecvf.com/content_ICCV_2019/html/Kalluri_Universal_Semi-Supervised_Semantic_Segmentation_ICCV_2019_paper.html"
 url_preprint = "https://arxiv.org/abs/1811.10323"
 url_code = "https://github.com/tarun005/USSS_ICCV19"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
-#url_poster = "/pdfs/ECCV18.pdf"
+url_poster = "publication/pdf/uni-seg.pdf"
 #url_source = "#"
 
 # Custom links (optional).
@@ -58,6 +58,18 @@ url_code = "https://github.com/tarun005/USSS_ICCV19"
 
 # Does the content use source code highlighting?
 #highlight = true
+
+
+bibtex='''
+@InProceedings{Kalluri_2019_ICCV,
+author = {Kalluri, Tarun and Varma, Girish and Chandraker, Manmohan and Jawahar, C.V.},
+title = {Universal Semi-Supervised Semantic Segmentation},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
+'''
+
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

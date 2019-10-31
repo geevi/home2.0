@@ -1,18 +1,18 @@
 {{ partial "header.html" . }}
 	<main>
 
-{{ range $i, $page := where .Pages.ByWeight "Section" "home"}}
+{{ range $i, $page := where $.Site.Pages.ByWeight "Section" "home"}}
   {{ $params := dict "root" $ "page" $page }}
   {{ $widget := printf "widgets/%s.html" $page.File.BaseFileName }}
-
-
-<section id="{{ $page.File.BaseFileName }}" class="{{ if (modBool $i 2) }} bg-light {{ end }}">
+  {{with $page.File }}
+<section id="{{ .BaseFileName }}" class="{{ if (modBool $i 2) }} bg-light {{ end }}">
   <div class="container">
     <div class="row">
           {{ partial $widget $params }}
     </div>
   </div>
 </section>
+{{ end }}
 
 {{ end }}
 

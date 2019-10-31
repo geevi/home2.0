@@ -30,7 +30,7 @@ URL="http://iiit.ac.in/"
     "Complexity Theory & Algorithms",
     "Transportation & Autonomous Navigation",
     "Theory of Deep Learning",
-    "AI/ML in Natural Sciences"
+    '''<a href="http://ml4science.iiit.ac.in/">AI/ML in Natural Sciences</a>'''
 ]
 
 # List your qualifications (such as academic degrees).

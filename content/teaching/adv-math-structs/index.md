@@ -212,7 +212,10 @@ This course is intended to familiarize the students with the types of mathematic
 - **[Quiz 2](AMS_Quiz_2.pdf)**
 
 - **Error Correcting Codes | Reed Solomon Codes: 3 lecs (by Prof. Prasad)**
-- **Welsh Berelekamp Decoding Algorithm (Polynomial Method): 2 lecs (by Prof. Prasad)**
+- **Lec 23: Graphs and Codes**
+  - Recapped Error Correcting Codes. Rate, Distance, Hamming bound, Singleton Bound.
+  - *Read:*
+      - Upto Section 10.4 in http://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf
 - **Expanders | Codes | Hashing (2 lecs)**
 
 

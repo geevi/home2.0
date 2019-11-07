@@ -216,7 +216,8 @@ This course is intended to familiarize the students with the types of mathematic
   - Recapped Error Correcting Codes. Rate, Distance, Hamming bound, Singleton Bound.
   - *Read:*
       - Upto Section 10.4 in http://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf
-- **Expanders | Codes | Hashing (2 lecs)**
+- **Lec 24: Linear Decoding for Expander Codes**
+  - *Read:* http://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf
 
 
 ## Texbook and References

@@ -129,7 +129,9 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - **Information Theory (2 lecs by Prof. Lalitha)**
 
-- **Classical Stat. Inference**
+- **Bayesian Stat. Inference**
+
+- **Multidimensional Gaussian's & Kalman Filters**
 
 - Final exam
 

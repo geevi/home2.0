@@ -219,6 +219,11 @@ This course is intended to familiarize the students with the types of mathematic
 - **Lec 24: Linear Decoding for Expander Codes**
   - *Read:* http://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf
 
+- **Lec 25: Pairwise Independent Hash Functions**
+  - Pair/$k$-wise independent hash functions, Application to Set Membership, Construction using Reed Solomon Codes.
+  - *Read:*
+      - Sections 1, 3, 4 in https://cseweb.ucsd.edu/~slovett/teaching/SP15-CSE190/pairwise_hash_functions.pdf
+      - For Construction using Reed Solomon Codes, see Section 2.3 in https://people.csail.mit.edu/ronitt/COURSE/S12/handouts/lec5.pdf
 
 ## Texbook and References
 

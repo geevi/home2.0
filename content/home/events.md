@@ -12,6 +12,10 @@ weight=3
 
 <ul>
 
+<li><p><a href="http://cvit.iiit.ac.in/ncvpripg19/idd-challenge">IDD Challenge</a> at <a href="http://ncvpripg.kletech.ac.in/">NCVPRIPG'19</a><br/>
+Open for Submisions till 17th Dec, 2019.
+</p> </li>
+
 <li><p><a href="http://ml4science.iiit.ac.in/events/ml4science/">Machine Learning for Science
 Symposium and Discussion Meeting</a><br/>
 29 Nov - 1 Dec, 2019, IIIT Hyderabad

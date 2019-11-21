@@ -16,10 +16,6 @@ weight=3
 Open for Submisions till 17th Dec, 2019.
 </p> </li>
 
-<li><p><a href="http://ml4science.iiit.ac.in/events/ml4science/">Machine Learning for Science
-Symposium and Discussion Meeting</a><br/>
-29 Nov - 1 Dec, 2019, IIIT Hyderabad
-</p> </li>
 <li><p><a href="http://cvit.iiit.ac.in/autonue2019/challenge" target="_blank">Scene Understanding Challenge for Auto. Nav. in Unstructured Environments</a><br>
 <a href="http://cvit.iiit.ac.in/autonue2019" target="_blank">Second International Workshop On Auto. Nav. in Unconstrained Environments </a><br>
 in Conjunction with ICCV 2019, November 2, 2019, Seoul.<br></p></li>

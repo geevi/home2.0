@@ -225,6 +225,8 @@ This course is intended to familiarize the students with the types of mathematic
       - Sections 1, 3, 4 in https://cseweb.ucsd.edu/~slovett/teaching/SP15-CSE190/pairwise_hash_functions.pdf
       - For Construction using Reed Solomon Codes, see Section 2.3 in https://people.csail.mit.edu/ronitt/COURSE/S12/handouts/lec5.pdf
 
+- **[End Sem](AMS_EndSem.pdf)**
+
 ## Texbook and References
 
 There is no single book covering all the topics. For different lectures, we will be following material from different sources, which will be posted at the course page. Some of the sources that will be used often are:

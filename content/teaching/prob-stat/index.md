@@ -133,7 +133,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - **Multidimensional Gaussian's & Kalman Filters**
 
-- Final exam
+- **[Final exam](PS_EndSem.pdf)**
 
 
 

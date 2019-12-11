@@ -54,9 +54,7 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
 - [KM] Machine Learning: a Probabilistic Perspective  
   by Kevin Patrick Murphy
 
-- [WJ] [Graphical Models, Exponential Families, and
-Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)  
-  Martin J. Wainwright and Michael I. Jordan
+- [WJ] [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)  Martin J. Wainwright and Michael I. Jordan
 
 - [MM] [Information, Physics, and Computation](https://web.stanford.edu/~montanar/RESEARCH/book.html)   
   Marc Mézard and Andrea Montanari

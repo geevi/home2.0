@@ -37,6 +37,8 @@ the joint probability distribution, the marginals or even conditional distributi
 the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
 fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc. We will also be covering analysis of Markov Chain Monte Carlo (MCMC) Algorithms and touch upon probabilistic analysis in learning theory (PAC Learning) as well as Spectral Graph Theory. If time permits, we will look at novel representations of probability distributions like Normalizing Flows which has found some success in generative modeling in Machine Learning.
 
+[Draft Syllabus](pgm_syllabus.pdf)
+
 ## Grading
 
 ## Lectures

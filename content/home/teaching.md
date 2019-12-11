@@ -12,7 +12,7 @@ weight=2
 <div class="col-lg-10 col-centered">
 
 <ul>
-<li><p><a href="/teaching/prob-graph-models">Probabilistic Graphical Models, Jan 2020.</a></p></li>
+<li><p><a href="/teaching/prob-graph-models"><sup style="background-color:yellow"> NEW </sup> Probabilistic Graphical Models, Jan 2020.</a></p></li>
 <li><p><a href="/teaching/prob-stat">Probability and Statistics, August 2019.</a></p></li>
 <li><p><a href="/teaching/adv-math-structs">Advanced Mathematical Structures, August 2019. </a></p></li>
 <li><p><a >AI/ML for Natural Sciences</a> (Aug 2019) (Jan 2019)</p></li>

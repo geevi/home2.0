@@ -7,8 +7,8 @@ title = "Probabilistic Graphical Models"
 
 # Project summary to display on homepage.
 summary = """Probabilistic Graphical Models refers to concise representations of probability distributions using graphs. 
-It also studies efficient algorithms for sampling distrubtions represented in such form. Sampling might need to be done from
-the joint probability distribution, the marinals or even conditional distributions. Other algoritmic questions involve computing
+It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
+the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
 the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
 fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc."""
 
@@ -32,10 +32,10 @@ math = false
 
 +++
 Probabilistic Graphical Models refers to concise representations of probability distributions using graphs. 
-It also studies efficient algorithms for sampling distrubtions represented in such form. Sampling might need to be done from
-the joint probability distribution, the marginals or even conditional distributions. Other algoritmic questions involve computing
+It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
+the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
 the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
-fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc. We will also be covering analysis of Markov Chain Monte Carlo (MCMC) Algorithms.
+fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc. We will also be covering analysis of Markov Chain Monte Carlo (MCMC) Algorithms and touch upon probabilistic analysis in learning theory (PAC Learning) as well as Spectral Graph Theory. If time permits, we will look at novel representations of probability distributions like Normalizing Flows which has found some success in generative modeling in Machine Learning.
 
 ## Grading
 

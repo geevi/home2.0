@@ -5,6 +5,8 @@ date = "2018-01-01"
 # Project title.
 title = "Efficient CNNs"
 
+
+
 # Project summary to display on homepage.
 summary = "Surveying Deep learning methods used in Reinforcement Learning"
 
@@ -53,7 +55,7 @@ The topics covered can be broadly classified into following. It is reccomended t
 
 ### Efficient CNN Designs
 
-- Grouped Convolutions : 
+- Grouped Convolutions :
     - https://ikhlestov.github.io/pages/machine-learning/convolutions-types/
     - https://blog.yani.io/filter-group-tutorial/
 - Depthwise Seperable Convolutions (MobileNet)
@@ -109,10 +111,10 @@ The topics covered can be broadly classified into following. It is reccomended t
 ### Theory for CNNs
 - Follow some papers from : https://stats385.github.io/readings
 
-## Meetings 
+## Meetings
 
 1. CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | Pruning and Quantization Introduction
-2. ResNext | GPU Programming 1 
+2. ResNext | GPU Programming 1
 3. FractualNets | Memory Efficient Convolutions (MEC)
 4. CapsuleNet | tvmlang | Semantic segmentation architectures (PSP Module, Atrous convolutions from Deeplab v3)
 
@@ -127,6 +129,3 @@ The topics covered can be broadly classified into following. It is reccomended t
 - Sudhir Kumar Reddy
 - Soham Saha
 - Ashutosh Mishra
-
-
-

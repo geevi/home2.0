@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2019-11-12"
+date = "2020-01-02"
 
 # Project title.
 title = "Probabilistic Graphical Models"

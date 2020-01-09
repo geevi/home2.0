@@ -1,12 +1,14 @@
 +++
 # Date this page was created.
-date = "2019-29-07"
+date = "2019-07-29"
 
 # Project title.
 title = "Advanced Mathematical Structures"
 
+selected = true
+
 # Project summary to display on homepage.
-summary = ""
+summary = "This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
@@ -14,6 +16,8 @@ summary = ""
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["mathematics"]
+
+projects = ["mathematics", "theory-cs"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -200,7 +204,7 @@ This course is intended to familiarize the students with the types of mathematic
   - *Read:*
       - http://math.mit.edu/~goemans/18310S15/chernoff-notes.pdf
       - We also used Chernoff's Bound to amplify the probability of a weak algorithm to obtain a strong algorithm using Chebyshev and Chernoff's Bounds.
-      
+
 - **Lec 18: Introduction to Spectral Graph Theory**
   - *Read:*
       - Upto Page 6 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf

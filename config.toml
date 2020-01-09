@@ -23,23 +23,22 @@ theme = "research-portfolio"
 [[menu.main]]
    name = "Research"
    url = "#projects"
-   weight = 4
+   weight = 5
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 5
+  weight = 6
 
-# [[menu.main]]
-#   name = "Talks"
-#   url = "#talks"
-#   weight = 5
-
+[[menu.main]]
+  name = "Group"
+  url = "#group"
+  weight = 4
 
 [[menu.main]]
  name = "CV"
  url = "/pdfs/girish-resume.pdf"
- weight = 6
+ weight = 7
 
 
 # [[menu.main]]

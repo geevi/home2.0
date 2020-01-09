@@ -1,9 +1,12 @@
 +++
 # Date this page was created.
-date = "2019-29-07"
+date = "2019-07-29"
 
 # Project title.
 title = "Probability & Statistics"
+
+
+selected = true
 
 # Project summary to display on homepage.
 summary = "A first undergraduate course in probability and statistics with a focus on discrete spaces."
@@ -13,7 +16,7 @@ summary = "A first undergraduate course in probability and statistics with a foc
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mathematics"]
+projects = ["mathematics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -124,7 +127,7 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 - **[Test 5](Test_Assign_5.pdf)**
 - **[Quiz 2](PS_Quiz_II.pdf)**
 
-- **Classical Stat. Inference**: (2 lecs)  
+- **Classical Stat. Inference**: (2 lecs)
   Point Estimates for Mean, Varience | Interval Estimates | Maximum Likelihood | Hypothesis Testing | Linear Regression
 
 - **Information Theory (2 lecs by Prof. Lalitha)**

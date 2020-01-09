@@ -5,18 +5,21 @@
 
     <div class="row">
         <div class="col-lg-6">
-            <h2>Teaching</h2>
+            <h2>Group</h2>
         </div>
         <div class="col-lg-6" style="text-align: right">
-            <a class="btn btn-outline-primary" href="/teaching">All Courses</a>
+            <a class="btn btn-outline-primary" href="/students">Past Students</a>
         </div>
 
     </div>
 
-    {{ $.Scratch.Set "teaching" (where (where $.Site.RegularPages "Type" "teaching") ".Params.selected" true ) }}
-    {{ $teaching := $.Scratch.Get "teaching" }}
+    {{ $.Scratch.Set "students" (where $.Site.RegularPages "Type" "students") }}
+    {{ $students := $.Scratch.Get "students" }}
 
-    {{ range $teaching }}
+    {{ range $students }}
+
+
+
     <div class="row-lg-12 pub-item">
         <div class="card flex-md-row h-md-250">
             <div class="card-body">
@@ -25,9 +28,10 @@
                 <small class="text-muted">{{.Date.Format "Jan, 2006" }} {{ if .Params.publication_short }} |
                     {{ .Params.publication_short }} {{ end }}</small>
                 <h4 class="mb-2">
-                    <a href="{{.Permalink }}">{{.Title}}</a>
+                    <a>{{.Params.name}}</a>
                 </h4>
-                <p>{{ .Params.summary }}</p>
+
+                <p>{{ .Params.program }}</p>
 
                 <div class="tag-date">
 
@@ -44,7 +48,7 @@
             {{ if .Params.image_preview }}
 
             <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb"
-                alt="Thumbnail [200x250]" style="width: 300px; height: 220px;" src="{{ .Params.image_preview }}"
+                alt="Thumbnail [200x250]" style="width: 100px; height: 150px;" src="{{ .Params.image_preview }}"
                 data-holder-rendered="true">
             {{ end }}
 

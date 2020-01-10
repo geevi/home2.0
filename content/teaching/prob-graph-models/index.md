@@ -34,11 +34,30 @@ Probabilistic Graphical Models refers to concise representations of probability 
 It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
 the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
 the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
-fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc. We will also be covering analysis of Markov Chain Monte Carlo (MCMC) Algorithms and touch upon probabilistic analysis in learning theory (PAC Learning) as well as Spectral Graph Theory. If time permits, we will look at novel representations of probability distributions like Normalizing Flows which has found some success in generative modeling in Machine Learning.
+fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc. We will also be covering analysis of Markov Chain Monte Carlo (MCMC) Algorithms.
+
+Broadly the course will cover four modules
+
+1. Reperesentations
+2. Inference
+3. Learning
+4. Advanced Topics (More on MCMC Methods, Normalizing Flows, Learning theory)
 
 [Draft Syllabus](pgm_syllabus.pdf)
 
 ## Grading
+
+| Type of Eval | --Weightage |
+| ------------ | ----------: |
+| Quiz 1       |          10 |
+| Mid Sem      |          15 |
+| Quiz 2       |          10 |
+| End Sem      |          25 |
+| Assignments  |          20 |
+| Project      |          20 |
+
+
+
 
 ## Lectures
 
@@ -55,7 +74,7 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
 
 ## Textbook and References
 
-- [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
+- [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf).
   David Barber
 
 - [KE] [Probabilistic Graphical Models, Course Notes](https://ermongroup.github.io/cs228-notes/)

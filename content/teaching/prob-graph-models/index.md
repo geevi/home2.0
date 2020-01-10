@@ -64,9 +64,11 @@ Broadly the course will cover four modules
 - **Lec 1: Probability Recap**
   - *Read:* For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2
 
-- **Lec 2: Belief Networks I** :
+- **Lec 2: Belief Networks I**  
    Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
   - *Read:* [DB] Sections 3.1 - 3.3
+  - *Solve:*
+      - [DB] Section 3.8 Exercise 24, 35.
 
 - **Lec 3: Belief Networks II**
 

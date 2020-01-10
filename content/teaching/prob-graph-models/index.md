@@ -42,7 +42,21 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
 
 ## Lectures
 
+- **Lec 1: Probability Recap**
+  - *Read:* For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2
+
+- **Lec 2: Belief Networks I** :
+   Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
+  - *Read:* [DB] Sections 3.1 - 3.3
+
+- **Lec 3: Belief Networks II**
+
+- **Lec 4: Markov Networks**
+
 ## Textbook and References
+
+- [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
+  David Barber
 
 - [KE] [Probabilistic Graphical Models, Course Notes](https://ermongroup.github.io/cs228-notes/)
   Volodymyr Kuleshov and Stefano Ermon

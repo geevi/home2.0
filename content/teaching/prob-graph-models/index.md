@@ -63,7 +63,8 @@ Broadly the course will cover four modules
 
 - **Lec 1: Probability Recap**
   - *Read:* For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2
-  - *Solve:* For any two distributions $p,q$ on $\\{1, \cdots, n \\}$, show that:  
+  - *Solve:* 
+   <sup>sub</sup> For any two distributions $p,q$ on $\\{1, \cdots, n \\}$, show that:  
   $$\max\_{A \subseteq \\{1, \cdots, n\\}} | p(A) - q(A) | = \frac{\sum\_{i=1}^n | p(i) - q(i) |}{2}.$$
   Note that the event $A$ choosen in LHS is a way of distinguishing $p$ from $q$ using $1$ sample in the best possible way. The RHS is the $\ell_1$ norm $\|p - q\|_1$.
 
@@ -71,7 +72,7 @@ Broadly the course will cover four modules
    Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
   - *Read:* [DB] Sections 3.1 - 3.3
   - *Solve:*
-      - [DB] Section 3.8 Exercise 24, 27, 35.
+      - [DB] Section 3.8 Exercise 24<sup>sub</sup>, 27, 35<sup>sub</sup>.
 
 - **Lec 3: Belief Networks II**
 

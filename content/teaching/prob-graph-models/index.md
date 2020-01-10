@@ -68,7 +68,7 @@ Broadly the course will cover four modules
    Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
   - *Read:* [DB] Sections 3.1 - 3.3
   - *Solve:*
-      - [DB] Section 3.8 Exercise 24, 35.
+      - [DB] Section 3.8 Exercise 24, 27, 35.
 
 - **Lec 3: Belief Networks II**
 

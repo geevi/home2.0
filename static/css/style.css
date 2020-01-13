@@ -264,3 +264,7 @@ a.btn.btn-default.tag.mb-3:hover {
     margin: 5px;
     background: linear-gradient(to bottom, #f9f9f9, white);
 }
+
+li {
+  padding-bottom: 15px;
+}

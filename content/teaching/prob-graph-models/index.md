@@ -69,7 +69,9 @@ Broadly the course will cover four modules
          Note that the event $A$ choosen in LHS is a way of distinguishing $p$ from $q$ using $1$ sample in the best possible way. The RHS is the $\ell_1$ norm $\|p - q\|_1$.
       - <sup>sub</sup> Prove that any DAG (Directed Acyclic Graph) with finite number of vertices, has atleast one vertex with no incoming edges (ie. pointed towards it). Also show that there is atleast one vertex with no outgoing edges.
 
-- **Lec 2: Belief Networks I**  
+            [Hint] Note that there are infinite graphs where the statement is not true. Hence you need to use the fact that the graph has only finite number of nodes in the proof.
+
+- **Lec 2: Belief Networks I**
   Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
   - *Read:* [DB] Sections 3.1 - 3.3
   - *Solve:*

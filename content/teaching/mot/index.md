@@ -8,6 +8,7 @@ title = "Multi Object Tracking using Deep Learning"
 # Project summary to display on homepage.
 summary = "Surveying Deep learning methods used in Reinforcement Learning"
 
+page_type = "main"
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
 
@@ -70,7 +71,7 @@ Multi Object Tracking is the task tracking objects in video frames. We survey th
     - https://arxiv.org/abs/1409.7618
 
 
--  A survey on multiple object tracking algorithm 
+-  A survey on multiple object tracking algorithm
     - http://ieeexplore.ieee.org/document/7832121/
 
 -  Multiple Object Tracking: A Literature Review
@@ -85,6 +86,3 @@ Multi Object Tracking is the task tracking objects in video frames. We survey th
 - Mohammed Sharfuddin
 - Anjan Kumar
 - Haard Panjal
-
-
-

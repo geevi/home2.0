@@ -17,6 +17,8 @@ summary = "Surveying Deep learning methods used in Reinforcement Learning"
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["deep-learning"]
 
+page_type = "main"
+
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 

@@ -24,6 +24,8 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = true
 
+page_type = "main"
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 #image = "headers/bubbles-wide.jpg"

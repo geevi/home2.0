@@ -262,9 +262,17 @@ a.btn.btn-default.tag.mb-3:hover {
     width: 350px;
     float: left;
     margin: 5px;
-    background: linear-gradient(to bottom, #f9f9f9, white);
+
+}
+
+.card {
+  background: linear-gradient(to bottom, #f9f9f9, white);
+}
+
+main {
+  margin-top: 30px;;
 }
 
 .article-style li {
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }

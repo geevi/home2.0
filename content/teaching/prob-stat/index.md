@@ -5,6 +5,7 @@ date = "2019-07-29"
 # Project title.
 title = "Probability & Statistics"
 
+page_type = "main"
 
 selected = true
 
@@ -144,6 +145,9 @@ If you are lagging behind, use the online course material [OCW] to catch up. The
 
 - [BT] Introduction to Probability, 2nd Edition
   by Dimitri P. Bertsekas and John N. Tsitsiklis./
+
+- [HPN] Introduction to Probability, Statistics and Random Processes.
+  by Hossien Pishro-Nik. Texbook available online: https://www.probabilitycourse.com/
 
 - [WF] An Introduction to Probability Theory and Its Applications, Volume 1
   by William Feller.

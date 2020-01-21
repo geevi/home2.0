@@ -7,6 +7,7 @@ title = "Probabilistic Graphical Models"
 
 selected = true
 
+page_type = "main"
 
 # Project summary to display on homepage.
 summary = """Probabilistic Graphical Models refers to  i.) concise representations of probability distributions using graphs ii.) efficient algorithms for sampling distributions represented in such form iii.) learning these representations from data."""
@@ -78,8 +79,18 @@ Broadly the course will cover four modules
       - [DB] Section 3.8 Exercise 24<sup>sub</sup>, 27, 35<sup>sub</sup>.
 
 - **Lec 3: Belief Networks II**
+  d-Connectivity  | I-maps | Minimal and Perfect Imaps
+  - *Read:* 
+      - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
+      - [DB] Section 3.3
+  - *Explore:*
+      - [KF] Chapter 3. Section 3.3
 
-- **Lec 4: Markov Networks**
+- **Lec 4: Markov Networks I**
+
+- **Lec 5: Markov Networks II**
+
+- **Quiz I**
 
 ## Textbook and References
 

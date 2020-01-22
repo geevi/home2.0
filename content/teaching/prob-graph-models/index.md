@@ -62,7 +62,7 @@ Broadly the course will cover four modules
 
 ## Lectures
 
-- **Lec 1: Probability Recap**
+- **Lec 1: Probability Recap.**
   - *Read:* For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2
   - *Solve:*
       - <sup>sub</sup> For any two distributions $p,q$ on $\\{1, \cdots, n \\}$, show that:
@@ -72,13 +72,13 @@ Broadly the course will cover four modules
 
             [Hint] Note that there are infinite graphs where the statement is not true. Hence you need to use the fact that the graph has only finite number of nodes in the proof.
 
-- **Lec 2: Belief Networks I**
+- **Lec 2: Belief Networks I.**
   Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
   - *Read:* [DB] Sections 3.1 - 3.3
   - *Solve:*
       - [DB] Section 3.8 Exercise 24<sup>sub</sup>, 27, 35<sup>sub</sup>.
 
-- **Lec 3: Belief Networks II**
+- **Lec 3: Belief Networks II.**
   d-Connectivity  | I-maps | Minimal and Perfect Imaps
   - *Read:* 
       - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
@@ -86,9 +86,9 @@ Broadly the course will cover four modules
   - *Explore:*
       - [KF] Chapter 3. Section 3.3
 
-- **Lec 4: Markov Networks I**
+- **Lec 4: Markov Networks I.**
 
-- **Lec 5: Markov Networks II**
+- **Lec 5: Markov Networks II.**
 
 - **Quiz I**
 

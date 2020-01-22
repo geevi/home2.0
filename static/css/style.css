@@ -269,10 +269,19 @@ a.btn.btn-default.tag.mb-3:hover {
   background: linear-gradient(to bottom, #f9f9f9, white);
 }
 
+.card:hover {
+  background: linear-gradient(to bottom,#ebf7f8, white);
+}
+
+
 main {
   margin-top: 30px;;
 }
 
 .article-style li {
   padding-bottom: 10px;
+}
+
+.article-style {
+  margin-top: 10px;
 }

@@ -39,7 +39,7 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
 
 Broadly the course will cover four modules
 
-1. Reperesentations
+1. Representations
 2. Inference
 3. Learning
 4. Advanced Topics (More on MCMC Methods, Normalizing Flows, Learning theory)
@@ -87,8 +87,15 @@ Broadly the course will cover four modules
       - [KF] Chapter 3. Section 3.3
 
 - **Lec 4: Markov Networks I.**
+  - *Read:*
+     - [DB] Chapter 4
+     - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
 
 - **Lec 5: Markov Networks II.**
+ - *Read:*
+     - [DB] Chapter 4
+     - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
+
 
 - **Quiz I**
 

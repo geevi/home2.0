@@ -80,7 +80,7 @@ Broadly the course will cover four modules
 
 - **Lec 3: Belief Networks II.**
   d-Connectivity  | I-maps | Minimal and Perfect Imaps
-  - *Read:* 
+  - *Read:*
       - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
       - [DB] Section 3.3
   - *Explore:*
@@ -97,7 +97,7 @@ Broadly the course will cover four modules
      - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
 
 
-- **Quiz I**
+- **[Quiz I](PGM_Quiz_1.pdf)**
 
 ## Textbook and References
 

@@ -121,7 +121,7 @@ strong, b {
 }
 
 ul ul {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
       list-style-position: outside;
       /* margin-left: 0px; */
      /* padding-left: 5px; */
@@ -279,7 +279,7 @@ main {
 }
 
 .article-style li {
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .article-style {

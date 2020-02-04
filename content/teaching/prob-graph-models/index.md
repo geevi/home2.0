@@ -78,20 +78,20 @@ Broadly the course will cover four modules
 - **Lec 3: Belief Networks II.**
   d-Connectivity  | I-maps | Minimal and Perfect Imaps
   - *Read:*
-    - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
-    - [DB] Section 3.3
+      - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
+      - [DB] Section 3.3
   - *Explore:*
         - [KF] Chapter 3. Section 3.3
 
 - **Lec 4: Markov Networks I.**
   - *Read:*
-    - [DB] Chapter 4
-    - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
+      - [DB] Chapter 4
+      - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
 
 - **Lec 5: Markov Networks II.**
  - *Read:*
-     - [DB] Chapter 4
-     - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
+       - [DB] Chapter 4
+       - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
 
 
 - **[Quiz I](PGM_Quiz_1.pdf)**
@@ -99,8 +99,8 @@ Broadly the course will cover four modules
 - **Lec 6: Inference I : Variable Elimination and Message Passing**
   - [Notes](https://iiitaphyd-my.sharepoint.com/:o:/g/personal/girish_varma_iiit_ac_in/EjDx5EHDB15HsxnQffn_WkoBxcO1nO3cmaNsz7uSe6q8mw?e=IidTZi)
   - *Read:*
-    - [DB] Chapter 5
-    - [KE] https://ermongroup.github.io/cs228-notes/inference/ve/
+      - [DB] Chapter 5
+      - [KE] https://ermongroup.github.io/cs228-notes/inference/ve/
 
 ## Textbook and References
 

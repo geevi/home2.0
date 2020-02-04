@@ -97,7 +97,7 @@ Broadly the course will cover four modules
 - **[Quiz I](PGM_Quiz_1.pdf)**
 
 - **Lec 6: Inference I : Variable Elimination and Message Passing**
-  - [Notes](https://iiitaphyd-my.sharepoint.com/personal/girish_varma_iiit_ac_in/_layouts/15/WopiFrame.aspx?sourcedoc={41e4f130-07c3-475e-b319-d07df9ff5a4a}&action=view&wd=target%28Inference%20I.one%7C557cfdae-a5f5-4959-aa11-04247589e15e%2FVariable%20Elimination%20and%20Message%20Passing%7C4b361c37-d21b-4bcf-8854-7fc82ea65e68%2F%29)
+  - [Notes](https://iiitaphyd-my.sharepoint.com/:o:/g/personal/girish_varma_iiit_ac_in/EjDx5EHDB15HsxnQffn_WkoBxcO1nO3cmaNsz7uSe6q8mw?e=IidTZi)
   - *Read:*
     - [DB] Chapter 5
     - [KE] https://ermongroup.github.io/cs228-notes/inference/ve/

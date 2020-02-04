@@ -57,18 +57,15 @@ Broadly the course will cover four modules
 | Assignments  |          20 |
 | Project      |          20 |
 
-
-
-
 ## Lectures
 
 - **Lec 1: Probability Recap.**
   - *Read:* For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2
   - *Solve:*
-      - <sup>sub</sup> For any two distributions $p,q$ on $\\{1, \cdots, n \\}$, show that:
+        - <sup>sub</sup> For any two distributions $p,q$ on $\\{1, \cdots, n \\}$, show that:
          $$\max\_{A \subseteq \\{1, \cdots, n\\}} | p(A) - q(A) | = \frac{\sum\_{i=1}^n | p(i) - q(i) |}{2}.$$
          Note that the event $A$ choosen in LHS is a way of distinguishing $p$ from $q$ using $1$ sample in the best possible way. The RHS is the $\ell_1$ norm $\|p - q\|_1$.
-      - <sup>sub</sup> Prove that any DAG (Directed Acyclic Graph) with finite number of vertices, has atleast one vertex with no incoming edges (ie. pointed towards it). Also show that there is atleast one vertex with no outgoing edges.
+        - <sup>sub</sup> Prove that any DAG (Directed Acyclic Graph) with finite number of vertices, has atleast one vertex with no incoming edges (ie. pointed towards it). Also show that there is atleast one vertex with no outgoing edges.
 
             [Hint] Note that there are infinite graphs where the statement is not true. Hence you need to use the fact that the graph has only finite number of nodes in the proof.
 
@@ -76,20 +73,20 @@ Broadly the course will cover four modules
   Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence
   - *Read:* [DB] Sections 3.1 - 3.3
   - *Solve:*
-      - [DB] Section 3.8 Exercise 24<sup>sub</sup>, 27, 35<sup>sub</sup>.
+        - [DB] Section 3.8 Exercise 24<sup>sub</sup>, 27, 35<sup>sub</sup>.
 
 - **Lec 3: Belief Networks II.**
   d-Connectivity  | I-maps | Minimal and Perfect Imaps
   - *Read:*
-      - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
-      - [DB] Section 3.3
+    - [KE] [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
+    - [DB] Section 3.3
   - *Explore:*
-      - [KF] Chapter 3. Section 3.3
+        - [KF] Chapter 3. Section 3.3
 
 - **Lec 4: Markov Networks I.**
   - *Read:*
-     - [DB] Chapter 4
-     - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
+    - [DB] Chapter 4
+    - [KE] https://ermongroup.github.io/cs228-notes/representation/undirected/
 
 - **Lec 5: Markov Networks II.**
  - *Read:*
@@ -98,6 +95,12 @@ Broadly the course will cover four modules
 
 
 - **[Quiz I](PGM_Quiz_1.pdf)**
+
+- **Lec 6: Inference I : Variable Elimination and Message Passing**
+  - [Notes](https://iiitaphyd-my.sharepoint.com/personal/girish_varma_iiit_ac_in/_layouts/15/WopiFrame.aspx?sourcedoc={41e4f130-07c3-475e-b319-d07df9ff5a4a}&action=view&wd=target%28Inference%20I.one%7C557cfdae-a5f5-4959-aa11-04247589e15e%2FVariable%20Elimination%20and%20Message%20Passing%7C4b361c37-d21b-4bcf-8854-7fc82ea65e68%2F%29)
+  - *Read:*
+    - [DB] Chapter 5
+    - [KE] https://ermongroup.github.io/cs228-notes/inference/ve/
 
 ## Textbook and References
 

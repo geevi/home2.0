@@ -102,6 +102,19 @@ Broadly the course will cover four modules
       - [DB] Chapter 5
       - [KE] https://ermongroup.github.io/cs228-notes/inference/ve/
 
+- **Lec 7-8: Markov Chain Monte Carlo Sampling**
+  - *Read*:
+      - [Slides by Art Owen](https://statweb.stanford.edu/~owen/pubtalks/05mcmc.pdf) (till slide 22)
+      - [MCMC Revolution by Persi Diaconis](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) (has cryptography example)
+  - *Explore*:
+      - [MCMC Book Chapter by Art Owen](https://statweb.stanford.edu/~owen/mc/Ch-MCMC.pdf)
+
+- **Lec 9: Probability Basics of Sampling: Tail Bounds**
+  - *Read*:
+      - [Lectures Notes by Pravesh Kothari](https://www.cs.princeton.edu/courses/archive/fall16/cos521/Lectures/lec3.pdf)
+      
+
+
 ## Textbook and References
 
 - [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf).

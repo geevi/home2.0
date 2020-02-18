@@ -105,7 +105,7 @@ Broadly the course will cover four modules
 - **Lec 8-9: Markov Chain Monte Carlo Sampling**
   - *Read*:
       - [Slides by Art Owen](https://statweb.stanford.edu/~owen/pubtalks/05mcmc.pdf) (till slide 22)
-      - [MCMC Revolution by Persi Diaconis](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) (has cryptography example)
+      - [MCMC Revolution by Persi Diaconis](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) Pages 1-5 (has cryptography example)
   - *Explore*:
       - [MCMC Book Chapter by Art Owen](https://statweb.stanford.edu/~owen/mc/Ch-MCMC.pdf)
 

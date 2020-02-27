@@ -120,7 +120,7 @@ Broadly the course will cover four modules
   - *Read*:
       - [MCMC book by Art Owen](https://statweb.stanford.edu/~owen/mc/Ch-MCMC.pdf).  Pages 6-8 for Ising Model definition. Pages 16-18 for General MCMC formulation (also known as Metropolis - Hasting's). Pages 31 - 32 for MCMC formulation of Ising Model.
 
-
+- **[Mid Sem Exam](PGM_MidSem.pdf)**
 
 ## Textbook and References
 

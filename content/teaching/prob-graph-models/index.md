@@ -122,6 +122,12 @@ Broadly the course will cover four modules
 
 - **[Mid Sem Exam](PGM_MidSem.pdf)**
 
+
+- **Lec 13: Intro to Learning Theory**
+  - *Read*:
+      - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 2
+
+
 ## Textbook and References
 
 - [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf).
@@ -132,6 +138,9 @@ Broadly the course will cover four modules
 
 - [KF] Probabilistic Graphical Models: Principles and Techniques
   Daphne Koller and Nir Friedman, MIT Press (2009).
+
+- [EX] [Probabilistic Graphical Models](https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)
+  Eric Xing
 
 - [KM] Machine Learning: a Probabilistic Perspective
   by Kevin Patrick Murphy

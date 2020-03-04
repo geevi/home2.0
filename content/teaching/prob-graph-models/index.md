@@ -133,10 +133,13 @@ Broadly the course will cover four modules
 - [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf).
   David Barber
 
-- [KE] [Probabilistic Graphical Models, Course Notes](https://ermongroup.github.io/cs228-notes/)
+- [KE] [Probabilistic Graphical Models, Course Notes](https://ermongroup.github.io/cs228-notes/).
   Volodymyr Kuleshov and Stefano Ermon
 
-- [KF] Probabilistic Graphical Models: Principles and Techniques
+- [MMSM] [Handbook of Graphical Models](https://stat.ethz.ch/~maathuis/papers/Handbook.pdf)
+Marloes Maathuis, Mathias Drton, Steven Lauritzen, Martin Wainwright
+
+- [KF] Probabilistic Graphical Models: Principles and Techniques.
   Daphne Koller and Nir Friedman, MIT Press (2009).
 
 - [EX] [Probabilistic Graphical Models](https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)

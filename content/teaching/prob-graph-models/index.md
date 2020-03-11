@@ -128,6 +128,15 @@ Broadly the course will cover four modules
       - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 2
 
 
+- **Lec 14: Agnostic PAC Learning**
+  - *Read*:
+      - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 3, 4
+
+- **Lec 15: VC Dimension**
+  - *Read*:
+        - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 6
+
+
 ## Textbook and References
 
 - [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf).

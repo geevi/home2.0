@@ -109,7 +109,7 @@ Broadly the course will cover four modules
   - *Explore*:
       - [MCMC Book Chapter by Art Owen](https://statweb.stanford.edu/~owen/mc/Ch-MCMC.pdf)
 
-- **Lec 10: Tutorial**
+- **Lec 10: Tutorial - I**
 
 - **Lec 11: Probability Basics of Sampling: Tail Bounds**
   - *Read*:
@@ -132,10 +132,24 @@ Broadly the course will cover four modules
   - *Read*:
       - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 3, 4
 
-- **Lec 15: VC Dimension**
+- **Tutorial II on PAC Learning**
+
+- **Lec 15: VC Dimension I**
   - *Read*:
         - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 6
 
+- **Lec 16: VC Dimension II - Sauer-Shellah-Peres Lemma**
+   - *Read*:
+        - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 6
+
+- **Lec 17: Recap & Learning Conjunctions**
+   - *Read*:
+        - [Computational Learning Theory by Vazirani, Kearns](https://pdfs.semanticscholar.org/a3c3/b359f6745b4cfa7238d35b0ce88f4a93c6f1.pdf).  Section 1.3
+  
+
+- **Lec 18: No Free Lunch Theorem**
+   - *Read*:
+        - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 5
 
 ## Textbook and References
 

@@ -145,11 +145,21 @@ Broadly the course will cover four modules
 - **Lec 17: Recap & Learning Conjunctions**
    - *Read*:
         - [Computational Learning Theory by Vazirani, Kearns](https://pdfs.semanticscholar.org/a3c3/b359f6745b4cfa7238d35b0ce88f4a93c6f1.pdf).  Section 1.3
+  - [*Video*](https://www.youtube.com/watch?v=MEJA_Kf51Xo)
+  - [*Notes*](pgm_lec17.pdf) 
   
 
 - **Lec 18: No Free Lunch Theorem**
    - *Read*:
         - [Understanding ML by Shai Shalev-Shwartz, Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).  Chapter 5
+  - [*Notes*](pgm_lec18.pdf) 
+
+- **Lec 19: Learning Graphical Models**
+   - *Read*:
+        - [Learning Bayesian Nets: PGM Course Lecture Notes](https://ermongroup.github.io/cs228-notes/learning/directed/).  
+        - [Learning Markov Nets: PGM Course Lecture Notes](https://ermongroup.github.io/cs228-notes/learning/undirected/).
+  - [*Video*](https://web.microsoftstream.com/video/967f08ec-aecd-4f78-8073-daa62300d8e3)  
+  - [*Notes*](pgm_lec19.pdf) 
 
 ## Textbook and References
 

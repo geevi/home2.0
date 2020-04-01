@@ -158,7 +158,7 @@ Broadly the course will cover four modules
    - *Read*:
         - [Learning Bayesian Nets: PGM Course Lecture Notes](https://ermongroup.github.io/cs228-notes/learning/directed/).  
         - [Learning Markov Nets: PGM Course Lecture Notes](https://ermongroup.github.io/cs228-notes/learning/undirected/).
-  - [*Video*](https://web.microsoftstream.com/video/967f08ec-aecd-4f78-8073-daa62300d8e3)  
+  - [*Video*](https://www.youtube.com/watch?v=nY15BLUBsbw)  
   - [*Notes*](pgm_lec19.pdf) 
 
 ## Textbook and References

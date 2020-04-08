@@ -161,6 +161,13 @@ Broadly the course will cover four modules
   - [*Video*](https://www.youtube.com/watch?v=nY15BLUBsbw)  
   - [*Notes*](pgm_lec19.pdf) 
 
+- **Lec 20: Group Testing**
+  - [*Video*](https://web.microsoftstream.com/video/fefbbdd0-05e2-45bb-8709-c86a09a312f8)  
+  - [*Notes*](pgm_lec19.pdf) 
+  - *Reference*
+      - [Sparse Recovery using Sparse Matrices, Section III](https://people.csail.mit.edu/indyk/survey-10.pdf)
+  
+
 ## Textbook and References
 
 - [DB] [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf).

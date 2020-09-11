@@ -7,7 +7,7 @@ title = "Probability & Statistics"
 
 page_type = "main"
 
-selected = true
+selected = false
 
 # Project summary to display on homepage.
 summary = "A first undergraduate course in probability and statistics with a focus on discrete spaces."
@@ -31,6 +31,7 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+I am teaching a 17 lecture course on Probability here: [https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about](https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about)
 
 A first undergraduate course in probability and statistics with a focus on discrete spaces. The course is roughly divided in to 4 equal parts with an exam at the end of each part.
 

@@ -5,7 +5,7 @@ date = "2017-06-01"
 # Project title.
 title = "Complexity Theory"
 
-selected = true
+selected = false
 
 
 # Project summary to display on homepage.
@@ -32,6 +32,11 @@ page_type = "main"
 #caption = "My caption :smile:"
 
 +++
+
+I am teaching a full 26 lecture course on Complexity this semester:
+
+ [https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp11+Monsoon_2020/about](https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp11+Monsoon_2020/about)
+
 
 Complexity theory studies what problems can and cannot be solved by computers given limited running time and memory resources.
 

@@ -19,7 +19,7 @@ summary = "A first undergraduate course on Computational Complexity Theory."
 projects = ["complexity-theory", "theory-cs"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp11+Monsoon_2020/about"
 
 # Does the project detail page use math formatting?
 math = true

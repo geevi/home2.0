@@ -16,7 +16,8 @@ authors = [ '''Phd Thesis advised by <a href='http://www.tcs.tifr.res.in/~prahla
 # 6 = Book chapter
 publication_types = ["5"]
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Supported by Google India Phd Fellowship in Algorithms</span><br/>Tata Institute of Fundamental Research, Mumbai.'''
+publication = '''Supported by Google India Phd Fellowship in Algorithms  
+                 Tata Institute of Fundamental Research, Mumbai.'''
 publication_short = "Phd Thesis at TIFR, Mumbai"
 
 # Abstract and optional shortened version.

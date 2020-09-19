@@ -46,7 +46,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ml4opthalmology","deep-learning", "machine-learning"]
+projects = ["ml-for-opthalmology","deep-learning", "machine-learning"]
 
 # Links (optional).
 #url_pdf = ""

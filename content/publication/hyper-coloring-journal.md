@@ -16,7 +16,9 @@ authors = ["Venkat Guruswami", "Prahladh Harsha", "Johan Hastad", "Srikanth Srin
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>SIAM Journal on Computing (<strong>SICOMP</strong>)</span><br/>Sym. of Theory of Computing (<strong>STOC</strong>)'''
+publication = '''SIAM Journal on Computing (**SICOMP**)     
+                 Sym. of Theory of Computing (**STOC**)'''
+
 publication_short = "SICOMP | STOC'15"
 
 # Abstract and optional shortened version.

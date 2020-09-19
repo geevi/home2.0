@@ -16,7 +16,8 @@ authors = [" Vincenzo Bonifaci", "Kurt Mehlhorn", "Girish Varma"]
 # 6 = Book chapter
 publication_types = ["2"]
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Journal of Theoretical Biology</span><br/>Symp. of Discrete Algorithms'''
+publication = '''Journal of Theoretical Biology  
+                 Symp. of Discrete Algorithms'''
 publication_short = "JTB'12 | SODA'11"
 
 # Abstract and optional shortened version.

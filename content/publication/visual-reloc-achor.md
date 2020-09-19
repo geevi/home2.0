@@ -17,7 +17,8 @@ authors = ["Soham Saha", "Girish Varma", '''<a href="https://faculty.iiit.ac.in/
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Spotlight Presentation</span><br/>British Machine Vision Conference'''
+publication = '''Spotlight Presentation  
+                 British Machine Vision Conference'''
 publication_short = "BMVC'18"
 
 bibtex='''

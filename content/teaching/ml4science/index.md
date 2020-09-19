@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2018-01-01"
+date = "2019-01-01"
 
 # Project title.
-title = "Efficient CNNs"
+title = "Machine Learning in Natural Sciences"
 
 selected = true
 
 
 # Project summary to display on homepage.
-summary = "Surveying methods used to make deep learning models efficient."
+summary = "A project oriented course in applying machine learning techniques to solving problems in natural sciences."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
@@ -17,13 +17,13 @@ summary = "Surveying methods used to make deep learning models efficient."
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["deep-learning"]
-projects = ["machine-learning", "model-compression"]
+projects = ["machine-learning", "ml-for-science"]
 
 
 page_type = "main"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://ml4science.iiit.ac.in/"
 
 # Does the project detail page use math formatting?
 math = false

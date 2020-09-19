@@ -17,7 +17,8 @@ authors = ['''<a href='https://researchweb.iiit.ac.in/~ameya.prabhu/'>Ameya Prab
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>Oral Presentation</span><br/><a href='https://eccv2018.org/'>European Conference on Computer Vision</a>'''
+publication = '''Oral Presentation  
+                 [European Conference on Computer Vision](https://eccv2018.org/)'''
 publication_short = "ECCV'18"
 
 # Abstract and optional shortened version.

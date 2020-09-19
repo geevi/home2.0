@@ -17,8 +17,8 @@ authors = ["Sudhir Kumar Reddy", "Girish Varma", '''<a href="https://faculty.iii
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''<span style='color: orange'>JTCF Novel Technology paper award Finalist</span>
-<br/>International Conference on Intelligent Robots'''
+publication = '''JTCF Novel Technology paper award Finalist   
+                 International Conference on Intelligent Robots'''
 publication_short = "IROS'18"
 
 bibtex='''

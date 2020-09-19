@@ -269,8 +269,8 @@ a.btn.btn-default.tag.mb-3:hover {
 }
 
 .card:hover {
-  background: linear-gradient(to bottom,#ebf7f8, white);
-  border-top: 1px solid rgba(22, 168, 186, 0.53);
+  background: linear-gradient(to bottom,#ceffff, white);
+  border-top: 1px solid rgb(0 123 249);
 }
 
 .portrait-title h2 {

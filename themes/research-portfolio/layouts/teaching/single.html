@@ -83,9 +83,11 @@
     <div class="col-lg-4 pub" itemscope itemtype="http://schema.org/CreativeWork">
 
         {{ if  (.Params.toc) }}
+        
         <aside style="border-left: 1px #cccccc solid;
-        margin-left: 20px;">
-                {{.TableOfContents}}
+        margin-left: 10px; padding-left: 10px;">
+        <b>Contents</b>
+        {{.TableOfContents}}
         </aside>
         {{ end }}
             </div>

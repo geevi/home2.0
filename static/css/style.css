@@ -321,6 +321,19 @@ main {
 
   }
 
+  @media (min-width: 1400px) {
+  aside {
+    position: fixed;
+    top: 100px;
+    right: 0px;
+    margin: 0px 20px;
+    padding: 10px;
+    max-width: 500px;
+    max-height: 900px;
+    overflow-y: scroll;
+}
+}
+
 aside ul ul, aside ul ol, aside ol ul, aside ol ol {
 margin-left: -15px;
 

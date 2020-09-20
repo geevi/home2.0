@@ -311,14 +311,14 @@ main {
   #about a img {
     padding: 5px;
     border: 2px transparent solid;
-    opacity: 0.5;
+    opacity: 0.4;
   }
 
   
   #about a img:hover {
-    border-top: 2px solid rgb(0 123 249);
-    background: linear-gradient(to bottom,#ceffff, #f8f9fa)  
-}
+    opacity: 1.0;
+
+  }
 
 aside ul ul, aside ul ol, aside ol ul, aside ol ol {
 margin-left: -15px;

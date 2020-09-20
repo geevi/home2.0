@@ -295,6 +295,7 @@ main {
 .worksfor {
     border-bottom: unset;
     padding: 10px 0px;
+    font-size: 1.1em;
   }
   
   .profile {

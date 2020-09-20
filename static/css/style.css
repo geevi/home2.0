@@ -311,6 +311,7 @@ main {
   #about a img {
     padding: 5px;
     border: 2px transparent solid;
+    opacity: 0.5;
   }
 
   

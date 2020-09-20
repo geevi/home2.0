@@ -307,3 +307,14 @@ main {
   .col-lg-9 {
     padding-left: 30px;
   }
+
+  #about a img {
+    padding: 5px;
+    border: 2px transparent solid;
+  }
+
+  
+  #about a img:hover {
+    border-top: 2px solid rgb(0 123 249);
+    background: linear-gradient(to bottom,#ceffff, #f8f9fa)  
+}

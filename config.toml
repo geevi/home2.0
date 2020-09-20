@@ -5,6 +5,9 @@ theme = "research-portfolio"
 
 
 
+[params]
+  shortTitle = "gv"
+
 [[menu.main]]
   name = "Home"
   url = "#about"

@@ -12,7 +12,9 @@
 
   <div class="row">
 
-    <div class="col-lg-8 col-centered pub" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <div class="col-lg-8 pub" itemscope itemtype="http://schema.org/CreativeWork">
 
 
       <div class="pub-title">
@@ -23,7 +25,7 @@
           {{ end }}
         </span>
       </div>
-
+      
       <div class="article-container">
 
         {{ if .Params.image }}
@@ -77,6 +79,15 @@
 
       </div>
     </div>
+    
+    <div class="col-lg-3 pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+        {{ if and (gt .WordCount 400 ) (.Params.toc) }}
+        <aside>
+                {{.TableOfContents}}
+        </aside>
+        {{ end }}
+            </div>
   </div>
 </div>
 

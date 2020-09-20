@@ -72,7 +72,7 @@ main {
 }
 
 .pub-item .card {
-  border-top: 1px solid rgba(0,0,0,.125);
+  border-top: 2px solid rgba(0,0,0,.125);
   padding: 5px 0px;
 }
 
@@ -84,10 +84,13 @@ main {
   padding: 0px 20px;
 } */
 
+.publication-container {
+    margin-top: 50px;
+}
 
 .pub {
-  margin: 80px 0px;
-  padding: 50px 10px;
+  margin: 50px 0px;
+  padding: 0px 10px;
 }
 
 .tag {
@@ -270,7 +273,7 @@ a.btn.btn-default.tag.mb-3:hover {
 
 .card:hover {
   background: linear-gradient(to bottom,#ceffff, white);
-  border-top: 1px solid rgb(0 123 249);
+  border-top: 2px solid rgb(0 123 249);
 }
 
 .portrait-title h2 {

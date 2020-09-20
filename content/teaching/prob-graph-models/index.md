@@ -5,6 +5,8 @@ date = "2020-01-02"
 # Project title.
 title = "Probabilistic Graphical Models"
 
+toc = true
+
 selected = true
 
 page_type = "main"

@@ -6,7 +6,7 @@ date = "2019-07-29"
 title = "Advanced Mathematical Structures"
 
 selected = true
-
+toc = true
 page_type = "main"
 
 # Project summary to display on homepage.

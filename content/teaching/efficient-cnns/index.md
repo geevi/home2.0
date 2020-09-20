@@ -7,7 +7,7 @@ title = "Efficient CNNs"
 
 selected = true
 
-
+toc = true
 # Project summary to display on homepage.
 summary = "Surveying methods used to make deep learning models efficient."
 

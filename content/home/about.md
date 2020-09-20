@@ -56,3 +56,6 @@ URL="http://iiit.ac.in/"
 I am an Assistant Professor at the [Center for Security, Theory & Algorithms Research (CSTAR)](http://cstar.iiit.ac.in/) and the [Machine Learning Lab](http://mll.iiit.ac.in/) at [IIIT Hyderabad](http://iiit.ac.in/), broadly interested in theoretical and applied computer science problems.
 
 I did my [Phd thesis](/publication/thesis) on Computational Complexity theory (at [TIFR Mumbai](http://www.tcs.tifr.res.in/)) and continues to have interest in Complexity theory, Combinatorics and Graph theory. Later I went on to do research (at IIIT Hyderabad) in Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation. A summary of my research can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vRWkBqM6TOI8dT5VPSGjSZnrtiVGPjBFSwn7gF8cv-E8am32bxcZh-akJPobQulytrzo2qq3acLiLrO/pub?start=false&loop=false&delayms=3000).
+
+
+[![Twitter](/img/twitter35x35.png)](https://twitter.com/girishvarma) &nbsp;&nbsp;&nbsp; [![Github](/img/github35x35.png)](https://github.com/geevi) &nbsp;&nbsp;&nbsp; [![Google Scholar](/img/scholar35x35.png)](https://scholar.google.co.in/citations?user=YLlRCu4AAAAJ&hl=en)

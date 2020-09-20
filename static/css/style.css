@@ -291,13 +291,13 @@ main {
 
 .worksfor {
     border-bottom: unset;
-    padding: 5px 0px;
+    padding: 10px 0px;
   }
   
   .profile {
     text-align: right;
     padding-right: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border-right: 1px gainsboro solid;
   }
   

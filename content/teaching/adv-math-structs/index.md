@@ -57,64 +57,65 @@ This course is intended to familiarize the students with the types of mathematic
 
 ## Lectures
 
-- **Lec 1: Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups**
-    - *Read*: [MA] Chapter 2, Section 1,2. [TJ] Chapter 3, 4
-    - *Solve*:
-        1. Prove that there is a unique Identity element for any group.
-        2. [MA] Chapter 2 Exercies, Section 1 Question 5, Section 2 (Page 70) Question 10
-        3. [TJ] Section 3.4: Problems 2, 10
+### Lec 1: Operator | Associativity | Groups | Subgroups | Integer Subgroups | Cyclic Groups
 
-- **Lec 2: Burnside / Pólya Counting**
-    - *Read*: [JM] Chapter 22, 23.
-      [Alon Frieze's Slides](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf)
-    - *Solve*: [JM] 23.4 Exercises (Lecture 23), 1, 3
+- *Read*: [MA] Chapter 2, Section 1,2. [TJ] Chapter 3, 4
+- *Solve*:
+    1. Prove that there is a unique Identity element for any group.
+    2. [MA] Chapter 2 Exercies, Section 1 Question 5, Section 2 (Page 70) Question 10
+    3. [TJ] Section 3.4: Problems 2, 10
 
-- **Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting**
-    - *Read*: [MA] Chapter 2, Section 3, 4, 5, 6.
-      For FLT Proof using Polya Counting see the [blog post](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/)
-    - *Solve*:
-        1. If $G$ has no proper subgroups then show that $G$ is cyclic of order $p$, where $p$ is a prime number.
-        2. If $G$ is not a cyclic group then show that $G$ has a proper subgroup (ie not $\{0\}$ or $G$ itself).
-        3. A group is called Abelian if the operation is also commutative. Prove that
-            1. Every finite cyclic group has to be an Abelian Group
-            2. Give an example of a finite Abelian Group that is not cyclic.
-        4. $\mathbb{Z}_p\times \mathbb{Z}_q$ is the product of the two sets with $pq$ elements. Addition is defined coordinate wise. Prove that:
-            1. $\mathbb{Z}_p\times \mathbb{Z}_q$ is a group.
-            2. Show that if $p, q$ is coprime (ie has gcd = 1) then $\mathbb{Z}\_p \times \mathbb{Z}\_q$ is isomorphic to $\mathbb{Z}_{pq}$.
-        5. Let $p$ be a prime and $n, k$ positive integers, $F = \left\\{ f:\mathbb{Z}\_p^k \rightarrow [n] \right\\}$ (the set of all functions from $\mathbb{Z}\_p^k$ to $[n]$.). For a function $f \in F$, and $a \in \mathbb{Z}\_p^k$, the translation of $f$ by $a$ is the function $g(x) = f(x + a)$ (addition is defined coordinate-wise modulo $p$).
-            1. Define a group and a group action of that group on $F$ that captures translations, which could be used to count the number of distinct functions with translation symmetry (ie. $f(x)$ and $g(x) = f(x + a)$ is in the same orbit).
-            2. Let $a \in \mathbb{Z}^k\_p \setminus \\{ 0^k \\}$ . What is the number of cycles in the permutation corresponding to the translation by $a$?
-            3. Use above to show that $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
+### Lec 2: Burnside / Pólya Counting
+- *Read*: [JM] Chapter 22, 23.
+    [Alon Frieze's Slides](https://www.math.cmu.edu/~af1p/Teaching/Combinatorics/Slides/Polya.pdf)
+- *Solve*: [JM] 23.4 Exercises (Lecture 23), 1, 3
 
-            [Hint] This is the strict generalization of the [example we did in class: the proof of FLT theorem](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/). For getting that result, substitute $k=1$ and $n = a$.
+### Lec 3: Isomorphisms | Homomorphisms | Cosets | Legrange's Theorem | Fermat Little Theorem | FLT Proof using Polya Counting
+- *Read*: [MA] Chapter 2, Section 3, 4, 5, 6.
+    For FLT Proof using Polya Counting see the [blog post](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/)
+- *Solve*:
+    1. If $G$ has no proper subgroups then show that $G$ is cyclic of order $p$, where $p$ is a prime number.
+    2. If $G$ is not a cyclic group then show that $G$ has a proper subgroup (ie not $\{0\}$ or $G$ itself).
+    3. A group is called Abelian if the operation is also commutative. Prove that
+        1. Every finite cyclic group has to be an Abelian Group
+        2. Give an example of a finite Abelian Group that is not cyclic.
+    4. $\mathbb{Z}_p\times \mathbb{Z}_q$ is the product of the two sets with $pq$ elements. Addition is defined coordinate wise. Prove that:
+        1. $\mathbb{Z}_p\times \mathbb{Z}_q$ is a group.
+        2. Show that if $p, q$ is coprime (ie has gcd = 1) then $\mathbb{Z}\_p \times \mathbb{Z}\_q$ is isomorphic to $\mathbb{Z}_{pq}$.
+    5. Let $p$ be a prime and $n, k$ positive integers, $F = \left\\{ f:\mathbb{Z}\_p^k \rightarrow [n] \right\\}$ (the set of all functions from $\mathbb{Z}\_p^k$ to $[n]$.). For a function $f \in F$, and $a \in \mathbb{Z}\_p^k$, the translation of $f$ by $a$ is the function $g(x) = f(x + a)$ (addition is defined coordinate-wise modulo $p$).
+        1. Define a group and a group action of that group on $F$ that captures translations, which could be used to count the number of distinct functions with translation symmetry (ie. $f(x)$ and $g(x) = f(x + a)$ is in the same orbit).
+        2. Let $a \in \mathbb{Z}^k\_p \setminus \\{ 0^k \\}$ . What is the number of cycles in the permutation corresponding to the translation by $a$?
+        3. Use above to show that $p^k$ divides $n^{p^k} - n^{p^{k-1}}$.
 
-
-        6. A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. For example the sum  and product functions ($f(x) = \sum\_{i\in [k]} x\_i \mod n$ and $g(x) = \prod\_{i\in [k]} x\_i \mod n$ correspondingly) are symmetric. The Max, Min functions are also symmetric. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.
-
-        7. Let $k$ be prime and $\mathcal F = \left\\{ f:[m]^k\rightarrow [n] \right\\}$ (set of all functions from $[m]^k$ to $[n]$). $g$ is a cyclic reordering of $f$, if $\exists i \in [k]$ such that $g(x) = f(\sigma^i(x))$ where $\sigma^i(x) = x\_i \cdots x\_n x\_1 \cdots x\_{i-1}$. Find the number of distinct functions in $\mathcal F$ if cyclic reorderings are considered the same.
-        Use this to show that $k$ divides $n^{m^k} - n^t$ where $t = \frac{m^k - m}{k} + m $.
+        [Hint] This is the strict generalization of the [example we did in class: the proof of FLT theorem](https://keriimov.wordpress.com/2015/05/24/a-combinatorial-proof-for-fermats-little-theorem-2/). For getting that result, substitute $k=1$ and $n = a$.
 
 
-- **Lec 4: Counting | 12 fold way of Counting Balls and Bins**
-    - *Read*: [CoCo] Sections 1 - 1.5.2
-    - *Solve*:
-        1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i \cdot k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
-        2. Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
+    6. A function $f:[m]^k \rightarrow [n]$ is symmetric if for all $x, y \in [m]^k$ such that $y$ can be obtained by permuting $x$ (using a permutation in $S\_k$), $f(x) = f(y)$. For example the sum  and product functions ($f(x) = \sum\_{i\in [k]} x\_i \mod n$ and $g(x) = \prod\_{i\in [k]} x\_i \mod n$ correspondingly) are symmetric. The Max, Min functions are also symmetric. Find the number of symmetric functions in terms of $m, n, k$. [Hint] Requires some ball and bins counting.
+
+    7. Let $k$ be prime and $\mathcal F = \left\\{ f:[m]^k\rightarrow [n] \right\\}$ (set of all functions from $[m]^k$ to $[n]$). $g$ is a cyclic reordering of $f$, if $\exists i \in [k]$ such that $g(x) = f(\sigma^i(x))$ where $\sigma^i(x) = x\_i \cdots x\_n x\_1 \cdots x\_{i-1}$. Find the number of distinct functions in $\mathcal F$ if cyclic reorderings are considered the same.
+    Use this to show that $k$ divides $n^{m^k} - n^t$ where $t = \frac{m^k - m}{k} + m $.
 
 
-- **Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions**
-    - *Read*: [CoCo] Sections 1.5.2 - 1.7
+### Lec 4: Counting | 12 fold way of Counting Balls and Bins
+- *Read*: [CoCo] Sections 1 - 1.5.2
+- *Solve*:
+    1. Let $k\_1, k\_2, ...., k\_n$ be numbers such that $ \sum_{i=1}^n i \cdot k_i = n$. Find the number of permutations of $[n]$, with $k_1$ cycles of length $1$, $k_2$ cycles of length $2$, $\cdots$, $k_n$ cycles of length $n$.
+    2. Find a generating set of size $2$ for $S_n$. (Need to prove why your set generates $S_n$).
 
 
-- **Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion**
-    - *Read*: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
-    - *Solve*:
-        1. Show that the set of even parity permutations form a subgroup of $S_n$ of size $n!/2$. Show that the set of odd partiy permutations is a coset of this subgroup.
-        2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that:
-            1. For odd $r$,
-            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \|$$
-            2. For even $r$,
-            $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| $$
+### Lec 5: 12 fold way of Counting Balls and Bins | Permutations | Inversions | Cycle Structure | Transpositions
+- *Read*: [CoCo] Sections 1.5.2 - 1.7
+
+
+### Lec 6: Cycle Structure | Parity of Permutation | Derangements | Inclusion Exclusion
+- *Read*: [CoCo] Sections 1.7.1, 1.7.2, 1.7.3, Section 2 - 2.1.1.
+- *Solve*:
+    1. Show that the set of even parity permutations form a subgroup of $S_n$ of size $n!/2$. Show that the set of odd partiy permutations is a coset of this subgroup.
+    2. Let $A\_1, \cdots, A\_k \subseteq [n]$. For $S \subseteq [k]$, let $A\_S = \cap_{s \in S} A\_s$ and $A\_\emptyset = [n]$. Then for $0 \leq r \leq k$, show that:
+        1. For odd $r$,
+        $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \geq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \|$$
+        2. For even $r$,
+        $$ \left\| \overline{ \cup\_{i \in k} A\_k } \right\| \leq \sum\_{S \subseteq [k]: |S| \leq r } (-1)^{|S|} \| A\_S \| $$
 
 
 - **Tutorial 1**
@@ -126,7 +127,7 @@ This course is intended to familiarize the students with the types of mathematic
            1. Find the number of functions having size of the range to be exactly $k$.
            2. Find the number of functions for which the range is exactly the set of even numbers in $[2n]$.
 
-- **Lec 8: Inclusion Exclusion | Proof using Linear Algebra**
+### Lec 8: Inclusion Exclusion | Proof using Linear Algebra
   - *Read*:
       1. [CoCo] Sections 2.1.2, 2.2.
       2. For Linear Algebra proof read [RP Stanley](http://www-math.mit.edu/~rstan/ec/ec1.pdf) pages 223-225.
@@ -140,7 +141,7 @@ This course is intended to familiarize the students with the types of mathematic
 
 - **[Quiz I](AMS_Quiz_1.pdf)**
 
-- **Lec 9: Answer Discussion**
+### Lec 9: Answer Discussion
   - *Solve*:
         1. Let $\mathcal B\_n = \left\\{ f:\\{0,1\\}^n \rightarrow \\{0,1\\} \right\\}$ (the set of all Boolean functions). A function $f\in \mathcal B\_n$, depends on $i$th coordinate ($i \in [n]$) if $\exists x\_1, \cdots, x\_{i-1}, x\_{i+1}, \cdots, x_n \in \\{0,1\\}$ such that for $y = x\_1 \cdots x\_{i-1}0x\_{i+1} \cdots x\_n$, $y' = x\_1 \cdots x\_{i-1}1x\_{i+1} \cdots x\_n$, $f(y) \neq f(y')$. Find the number of functions which depends on all the coordinates in $[n]$.
         2. Let $k \geq r$. Prove Lec 6, Problem 2 by first showing that:
@@ -150,24 +151,24 @@ This course is intended to familiarize the students with the types of mathematic
             $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$
 
 
-- **Lec 10: Families of Sets: Sperner's Theorem | Intersecting Families | Hall's Theorem (SDR)**
+### Lec 10: Families of Sets: Sperner's Theorem | Intersecting Families | Hall's Theorem (SDR)
   - *Read*: [PJC] Chapter 7. [DG] Section 1.7 for Sperner's Thm. Chapter 4 for SDR.
   - *Solve*:
         1. Let $n = 2k$. Show that there are $2^{2k−1 \choose k−1}$ intersecting families of $k$-element subsets of $[n]$ having the maximum number${2k−1 \choose k−1}$ of members.
         2.  Show that, for every non-empty subset $A$ of $[n]$, there is an intersecting family $\mathcal{F}$ of subsets of $[n]$ of size $2^{n−1}$ with $A\in \mathcal F$. Show further that any two subsets $A,B$ with $A\cap B \neq \phi$ are contained in a family with these properties. What about three pairwise intersecting sets?
 
-- **Lec 11: System of Distinct Representatives | Erdős-Ko-Rado Theorem**
+### Lec 11: System of Distinct Representatives | Erdős-Ko-Rado Theorem
   - *Read*: [PJC] Chapter 7 (Appendix for Erdos-Ko-Rado).  Chapter 4 for SDR.
 
-- **Lec 12: Rings, Fields and Vector Spaces I**
+### Lec 12: Rings, Fields and Vector Spaces I
   - *Read*: [ADS] Chapter 16. [TJ] Chapter 16.
 
-- **Lec 13: Rings, Fields and Vector Spaces II**
+### Lec 13: Rings, Fields and Vector Spaces II
   - *Read*: https://web.stanford.edu/class/ee392d/Chap7.pdf
 
 - **[Mid Sem Exam](AMS_Midsem.pdf)**
 
-- **Lec 14: Probability and Computing | PIT | Min Cut | Erdős Ko Rado**
+### Lec 14: Probability and Computing | PIT | Min Cut | Erdős Ko Rado
   - *Read*
       - Min Cut: http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf
       - Probability Basics and EKR (Section 2.3): http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf
@@ -189,43 +190,43 @@ This course is intended to familiarize the students with the types of mathematic
             3. Using a finite number of tosses, can you choose one among three options "almost" or "approximately" uniform way? When would you say a distribution is almost uniform among three options (what is the mathematical definition of almost uniform)?
             4. Suppose you are given an unfair coin with probability of heads being $p<\frac{1}{2}$. Can you use the unfair coin to simulate a fair coin exactly or even approximately (that is choose 1 among 2 options uniformly)?
 
-- **Lec 15: Probabilistic Method**
+### Lec 15: Probabilistic Method
   - *Read:*
       - [AZ] Proofs from the Book, Chapter 35
   - *Solve:*
       1. Let $\sigma$ be a uniformly random permutation chosen from $S_n$. What is the expected number of fixed points ($i$ such that $\sigma(i)=i$) in $\sigma$? What about the expected number of cycles of length $2$? What about the expected number of cycles?
       2. Let $G$ be a random graph on $n$ nodes. That is each of the ${n \choose 2}$ edges is independently chosen with probability $\frac{1}{2}$. What is the expected number of simple cycles of length less than $\ell$?
-- **Lec 16: Probabilistic Method | Random Graphs**
+### Lec 16: Probabilistic Method | Random Graphs
   - *Read:*
       - 3SAT 7/8 algorithm: https://i.cs.hku.hk/~hubert/teaching/c8601_2011/notes1.pdf
       - Method of conditional expectations: https://i.cs.hku.hk/~hubert/teaching/c8601_2011/notes2.pdf
       - Large girth, large chromatic number graphs:
           - [AZ] Proofs from the Book, Chapter 35.
           - [AS] Page 38.
-- **Lec 17: Tail Bounds | Chebyshev | Chernoff**
+### Lec 17: Tail Bounds | Chebyshev | Chernoff
   - *Read:*
       - http://math.mit.edu/~goemans/18310S15/chernoff-notes.pdf
       - We also used Chernoff's Bound to amplify the probability of a weak algorithm to obtain a strong algorithm using Chebyshev and Chernoff's Bounds.
 
-- **Lec 18: Introduction to Spectral Graph Theory**
+### Lec 18: Introduction to Spectral Graph Theory
   - *Read:*
       - Upto Page 6 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf
 
-- **Lec 19: Random Walks, Eigen Values and Expanders**
+### Lec 19: Random Walks, Eigen Values and Expanders
   - *Read:*
       - Section 4.2 in http://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf
 
 - **[Quiz 2](AMS_Quiz_2.pdf)**
 
 - **Error Correcting Codes | Reed Solomon Codes: 3 lecs (by Prof. Prasad)**
-- **Lec 23: Graphs and Codes**
+### Lec 23: Graphs and Codes
   - Recapped Error Correcting Codes. Rate, Distance, Hamming bound, Singleton Bound.
   - *Read:*
       - Upto Section 10.4 in http://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf
-- **Lec 24: Linear Decoding for Expander Codes**
+### Lec 24: Linear Decoding for Expander Codes
   - *Read:* http://www.cs.yale.edu/homes/spielman/eigs/lect10.pdf
 
-- **Lec 25: Pairwise Independent Hash Functions**
+### Lec 25: Pairwise Independent Hash Functions
   - Pair/$k$-wise independent hash functions, Application to Set Membership, Construction using Reed Solomon Codes.
   - *Read:*
       - Sections 1, 3, 4 in https://cseweb.ucsd.edu/~slovett/teaching/SP15-CSE190/pairwise_hash_functions.pdf

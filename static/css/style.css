@@ -318,3 +318,8 @@ main {
     border-top: 2px solid rgb(0 123 249);
     background: linear-gradient(to bottom,#ceffff, #f8f9fa)  
 }
+
+aside ul ul, aside ul ol, aside ol ul, aside ol ol {
+margin-left: -15px;
+
+}

@@ -324,7 +324,7 @@ main {
   @media (min-width: 1400px) {
   aside {
     position: fixed;
-    top: 100px;
+    top: 64px;
     right: 0px;
     margin: 0px 20px;
     padding: 10px;
@@ -336,5 +336,9 @@ main {
 
 aside ul ul, aside ul ol, aside ol ul, aside ol ol {
 margin-left: -15px;
-
 }
+
+html, body {
+    scroll-padding-top: 100px;
+}
+

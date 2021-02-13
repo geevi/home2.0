@@ -6,6 +6,8 @@ date = "2021-01-01"
 title = "Markov Chain Monte Carlo: Theory, Applications and Interdisciplinary Problems"
 
 selected = true
+toc = true
+
 
 
 # Project summary to display on homepage.
@@ -115,7 +117,8 @@ math = true
   https://arxiv.org/pdf/2001.11566.pdf    
 
 ## Participants
-- TANMAY SINHA.
+
+- TANMAY SINHA
 - Aditya Morolia
 - Chaitanya Kharyal
 - Shantanu Das
@@ -124,3 +127,4 @@ math = true
 - SHREEVIGNESH SURIYANARAYANAN
 - Prajwal Krishna
 - Athreya Chandramouli
+

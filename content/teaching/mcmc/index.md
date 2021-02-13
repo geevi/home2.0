@@ -63,6 +63,9 @@ math = true
 
 ## Projects
 
+
+
+
 ### 1. Lifted Sampling of PGMs
 
 
@@ -116,6 +119,27 @@ math = true
 
 - Three lectures on random proper colorings of $\mathbb Z^d$.  
   https://arxiv.org/pdf/2001.11566.pdf    
+
+
+### 6. Markov Chains for Transportation Problems
+
+- LEARNING OPTIMAL TRAFFIC ROUTING BEHAVIORS USING MARKOVIAN FRAMEWORK IN MICROSCOPIC SIMULATION  
+  https://people.eecs.berkeley.edu/~theophile/docs/publications/Cabannes_20_TRB.pdf
+
+- Estimating Urban Traffic Patterns through Probabilistic Interconnectivity of Road Network Junctions  
+  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127095
+
+- On Sampling Simple Paths in Planar Graphs According to Their Lengths
+  https://people.inf.ethz.ch/pennap/papers/sampling-LNCS.pdf
+
+- Metropolis-Hastings sampling of paths
+  https://transp-or.epfl.ch/documents/technicalReports/FloeBier11.pdf
+
+
+### Misc
+
+- https://people.eecs.berkeley.edu/~russell/papers/nips18-metamcmc.pdf
+
 
 ## Participants
 

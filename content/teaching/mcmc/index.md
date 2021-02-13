@@ -60,6 +60,7 @@ math = true
    Examples the Hypercube Random Walk, Colorings
 
 
+
 ## Projects
 
 ### 1. Lifted Sampling of PGMs

@@ -349,3 +349,8 @@ html, body {
 .pub h2 {
   font-variant: small-caps;
 }
+
+.pub h1, h2, h3, h4, h5, h6 {
+  color: rgb(111, 111, 111);
+  padding-top: 10px;
+}

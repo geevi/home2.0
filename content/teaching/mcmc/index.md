@@ -115,5 +115,12 @@ math = true
   https://arxiv.org/pdf/2001.11566.pdf    
 
 ## Participants
+- TANMAY SINHA.
+- Aditya Morolia
+- Chaitanya Kharyal
+- Shantanu Das
+- Rohan Sharma
+- ABHINAV VAISHYA
+- SHREEVIGNESH SURIYANARAYANAN
+- Prajwal Krishna
 - Athreya Chandramouli
-- Shantanu

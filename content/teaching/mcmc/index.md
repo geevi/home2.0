@@ -108,7 +108,7 @@ math = true
 
 ### 4. MCMC in Computer Graphics
 
-- Manifold Exploration: A Markov Chain Monte Carlo Technique for Rendering Scenes with Difficult Specular Transport.
+- Manifold Exploration: A Markov Chain Monte Carlo Technique for Rendering Scenes with Difficult Specular Transport.  
   http://www.cs.cornell.edu/projects/manifolds-sg12/manifolds-sg12.pdf
 
 - Path Space Markov Chain Monte Carlo Methods in Computer Graphics  
@@ -134,6 +134,24 @@ math = true
 
 - Metropolis-Hastings sampling of paths  
   https://transp-or.epfl.ch/documents/technicalReports/FloeBier11.pdf
+
+
+### 7. Bayesian Modeling for Ranking and Match making in Gaming Systems
+
+- TrueSkill Through Time: Revisiting the History of Chess   
+  https://www.microsoft.com/en-us/research/wp-content/uploads/2008/01/NIPS2007_0931.pdf
+
+- Beyond Skill Rating: Advanced Matchmaking in Ghost Recon Online
+  https://ieeexplore.ieee.org/document/6156756
+
+- Meeting your match
+  https://mbmlbook.com/TrueSkill.html
+
+- Pairwise Comparisons with Flexible Time-Dynamics   
+  https://dl.acm.org/doi/pdf/10.1145/3292500.3330831?casa_token=CWxxUgzjkXkAAAAA:Afk8YnOi1zgWQNzyOHO_q6hfiyXPAGkgs5ueoPHqUg1tX08-qN0rauz5PQo1TRiU-pKa3yg5i_kgqJs
+
+- A Neural Network Go Rating Model Considering Winning Rate   
+  https://dl.acm.org/doi/pdf/10.1145/3374587.3374626?casa_token=BLQjsgkR9cQAAAAA:Tw-ZCPox8hWCXvgSWOY9oA_9pxR7KCTxXOTvQTkYQ8kP77Ant_I-qPZ9entrHhmNidDqah8KbnINd8c 
 
 
 ### Misc

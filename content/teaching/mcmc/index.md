@@ -129,16 +129,18 @@ math = true
 - Estimating Urban Traffic Patterns through Probabilistic Interconnectivity of Road Network Junctions  
   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127095
 
-- On Sampling Simple Paths in Planar Graphs According to Their Lengths
+- On Sampling Simple Paths in Planar Graphs According to Their Lengths  
   https://people.inf.ethz.ch/pennap/papers/sampling-LNCS.pdf
 
-- Metropolis-Hastings sampling of paths
+- Metropolis-Hastings sampling of paths  
   https://transp-or.epfl.ch/documents/technicalReports/FloeBier11.pdf
 
 
 ### Misc
 
 - https://people.eecs.berkeley.edu/~russell/papers/nips18-metamcmc.pdf
+- https://ermongroup.github.io/blog/a-nice-mc/
+- https://arxiv.org/abs/1711.09268
 
 
 ## Participants

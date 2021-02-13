@@ -342,3 +342,10 @@ html, body {
     scroll-padding-top: 100px;
 }
 
+#teaching .card {
+  height: 300px;
+}
+
+.pub h2 {
+  font-variant: small-caps;
+}

@@ -10,7 +10,7 @@ toc = true
 page_type = "main"
 
 # Project summary to display on homepage.
-summary = "This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory."
+summary = "A broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"

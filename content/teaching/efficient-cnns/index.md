@@ -5,7 +5,7 @@ date = "2018-01-01"
 # Project title.
 title = "Efficient CNNs"
 
-selected = true
+selected = false
 
 toc = true
 

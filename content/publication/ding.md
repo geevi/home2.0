@@ -21,8 +21,8 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''ChemArXiv'''
-publication_short = "ChemArXiv"
+publication = '''Phys. Chem. Chem. Phys., 2020,22, 26935-26943'''
+publication_short = "Phys. Chem. Chem. Phys., 2020."
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -60,13 +60,17 @@ url_pdf = "https://chemrxiv.org/articles/Deep_Learning_Enabled_Inorganic_Materia
 #highlight = true
 
 bibtex = '''
-@article{Pathak2020,
-author = "Yashaswi Pathak and Karandeep Singh Juneja and Girish Varma and Masahiro Ehara and U. Deva Priyakumar",
-title = "{Deep Learning Enabled Inorganic Material Generator}",
-year = "2020",
-month = "5",
-url = "https://chemrxiv.org/articles/preprint/Deep_Learning_Enabled_Inorganic_Material_Generator/12312260",
-doi = "10.26434/chemrxiv.12312260.v1"
+@Article{PJVEP,
+author ="Pathak, Yashaswi and Juneja, Karandeep Singh and Varma, Girish and Ehara, Masahiro and Priyakumar, U. Deva",
+title  ="Deep learning enabled inorganic material generator",
+journal  ="Phys. Chem. Chem. Phys.",
+year  ="2020",
+volume  ="22",
+issue  ="46",
+pages  ="26935-26943",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D0CP03508D",
+url  ="http://dx.doi.org/10.1039/D0CP03508D"
 }
 '''
 # Featured image

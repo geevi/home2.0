@@ -144,7 +144,7 @@ math = true
 - Beyond Skill Rating: Advanced Matchmaking in Ghost Recon Online
   https://ieeexplore.ieee.org/document/6156756
 
-- Meeting your match
+- Meeting your match  
   https://mbmlbook.com/TrueSkill.html
 
 - Pairwise Comparisons with Flexible Time-Dynamics   

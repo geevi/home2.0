@@ -346,6 +346,7 @@ html, body {
   height: 300px;
 }
 
+
 .pub h2 {
   font-variant: small-caps;
   letter-spacing: 2px;
@@ -355,3 +356,5 @@ html, body {
   color: rgb(90, 90, 90);
   padding-top: 10px;
 }
+
+

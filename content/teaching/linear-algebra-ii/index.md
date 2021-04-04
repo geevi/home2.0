@@ -63,7 +63,8 @@ Weekly tutorials conducted by TAs in smaller groups as per times fixed.
 
 
 ##### Office Hours
-I will be available on Teams during the timings given bellow, for clearing any doubts.
+I will be available on Teams during the timings given bellow, for clearing any doubts. 
+You can sent a direct message to me for joining.
 - Monday, 530-730PM.
 - Thursday, 330-530PM.
 

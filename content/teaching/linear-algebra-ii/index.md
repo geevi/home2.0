@@ -126,7 +126,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 #### Assignment 1
    
-### Norms & Dot Products
+### Norms & Inner Products
 
 #### 5. Norms & Inner Products   
 

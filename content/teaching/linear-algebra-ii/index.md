@@ -87,7 +87,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - [Linear Algebra Done Right Videos](https://linear.axler.net/LADRvideos.html)  
   Sheldon Axler
 
-- [The Fast Fourier Transform and Polynomial Multiplication](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf)
+- [The Fast Fourier Transform and Polynomial Multiplication](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf)  
   Mordecai GOLIN
 
 - \[GS\] [Linear Algebra MIT OCW Course Materials](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)   

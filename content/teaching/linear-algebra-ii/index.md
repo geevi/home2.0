@@ -59,8 +59,8 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 4 hrs solving assignments, quizes etc
 
 ### Evaluations
-- 3 Assignments
 - 4 Light Quizzes (Weekly)
+- 3 Assignments
 - 2 Deep Quizzes (17th April, 4th May)
 
 ## Textbook and References

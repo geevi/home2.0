@@ -103,45 +103,45 @@ The resources provided are licenced under Creative Commons/Open Licences.
   	   - Chapter 13 in [CDTW]
 
 
-##### 4. Problem Solving for Eigenvalues and Diagonalization    
+#### 4. Problem Solving for Eigenvalues and Diagonalization    
 
-##### Assignment 1
+#### Assignment 1
    
 ### Norms & Dot Products
 
-##### 5. Norms & Dot Products I  
+#### 5. Norms & Inner Products   
 
 
-##### 6. Orthonormal Vectors 
+#### 6. Orthonormal Vectors 
 
 
-##### 7. Gram-Schmidt Orthonormalization
+#### 7. Gram-Schmidt Orthonormalization
 
 
-##### 8. Problem Solving for Norms & Dot Products
+#### 8. Problem Solving for Norms & Dot Products
 
 
 
-##### Assignment 2
+#### Assignment 2
    
 #### 9. Deep Quiz I
 
 ### Advanced Topics & Applications
 
 
-##### 10. Spectral Decomposition Theorem
+#### 10. Spectral Decomposition Theorem
 
 
-##### 11. Singular Value Decomposition
+#### 11. Singular Value Decomposition
 
 
-##### 12. PCA & Best Fit Subspaces
+#### 12. PCA & Best Fit Subspaces
 
 
-##### 13. Problem Solving
+#### 13. Problem Solving
 
 
-##### Assignment 3
+#### Assignment 3
 
 #### 14. Deep Quiz II
 

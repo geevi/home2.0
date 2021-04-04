@@ -70,9 +70,10 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 2 Deep Quizzes (17th April, 4th May)
 
 ## Textbook and References
-The resources provided are licenced under Creative Commons/Open Licences and hence downloadable.
 
 ### Textbook
+The resources provided are licenced under Creative Commons/Open Licences and hence downloadable.
+
 - \[CDTW\] [Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
   David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron
 

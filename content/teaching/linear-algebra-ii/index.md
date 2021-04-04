@@ -37,10 +37,16 @@ math = true
 
 +++
 
-A 15 lecture course which introduces intermediate level topics in Linear Algebra.
+A 15 lecture course which introduces intermediate level topics in Linear Algebra. 
 
+## Prerequisites
+Assumes that Linear Algebra I is covered. Specifically assumes knowledge of the following topics:
 
-
+- Solutions to Linear Equations, Echelon Forms, Gaussian Elimination
+- Field, Vector Space Defintions, Real, Complex, Finite Field based Vector Spaces
+- Linear Transformation, Matrix, Rank, Inverse, Transpose
+- Change of Basis and effect on Matrix of the Linear Transformation
+- Determinants
 
 ## Schedule
 
@@ -65,13 +71,22 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ## Textbook and References
 The resources provided are licenced under Creative Commons/Open Licences and hence downloadable.
+
+### Textbook
 - \[CDTW\] [Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
   David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron
 
 - \[WKN\] [Linear Algebra with Applications](https://lyryx.com/linear-algebra-applications/)  
   W. Keith Nicholson
 
-- \[GS\] [Linear Algebra MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)  
+### Extra Reading
+- [Down with Determinants](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf)  
+  Sheldon Axler
+
+- [Linear Algebra Done Right Videos](https://linear.axler.net/LADRvideos.html)  
+  Sheldon Axler
+
+- \[GS\] [Linear Algebra MIT OCW Course Materials](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)   
   Gilbert Strang
 
 

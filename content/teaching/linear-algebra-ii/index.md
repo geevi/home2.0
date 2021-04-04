@@ -86,7 +86,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - [Linear Algebra Done Right Videos](https://linear.axler.net/LADRvideos.html)  
   Sheldon Axler
 
-- \[GS\] [Linear Algebra MIT OCW Course Materials](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)   
+- \[GS\] [Linear Algebra MIT OCW Course Materials](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)   
   Gilbert Strang
 
 

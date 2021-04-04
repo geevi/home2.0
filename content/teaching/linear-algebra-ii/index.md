@@ -46,11 +46,11 @@ A 15 lecture course which introduces intermediate level topics in Linear Algebra
 
 ### Class Timings
 
-From 3th March to 4th May, 2021, Tuesdays, Thursdays and Saturdays
+From 30th March to 4th May, 2021, Tuesdays, Thursdays and Saturdays
 - 10-11 AM for Batch 2
 - 12-01  PM for Batch 1
 
-Also there is weekly tutorials conducted by TAs in smaller groups of students.
+Also there are weekly tutorials conducted by TAs in smaller groups.
 
 ### Expected Workload
 Students are expected to spent atleast 12 hrs per week. Roughly
@@ -64,7 +64,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 2 Deep Quizzes (17th April, 4th May)
 
 ## Textbook and References
-The resources provided are licenced under Creative Commons/Open Licences.
+The resources provided are licenced under Creative Commons/Open Licences and hence downloadable.
 - \[CDTW\] [Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
   David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron
 
@@ -103,7 +103,7 @@ The resources provided are licenced under Creative Commons/Open Licences.
   	   - Chapter 13 in [CDTW]
 
 
-#### 4. Problem Solving for Eigenvalues and Diagonalization    
+#### 4. Problem Solving 
 
 #### Assignment 1
    
@@ -118,8 +118,7 @@ The resources provided are licenced under Creative Commons/Open Licences.
 #### 7. Gram-Schmidt Orthonormalization
 
 
-#### 8. Problem Solving for Norms & Dot Products
-
+#### 8. Problem Solving 
 
 
 #### Assignment 2

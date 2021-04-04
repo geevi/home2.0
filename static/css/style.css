@@ -47,10 +47,7 @@ h4.heading {
   padding-top: 10px;
   border-bottom: 1px solid rgb(173, 172, 172);
 }
-
-.pub p {
-  text-align: justify;
-}
+  
 .pub {
   margin: 50px auto;
   padding: 50px 0;

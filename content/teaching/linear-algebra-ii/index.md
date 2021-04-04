@@ -50,13 +50,22 @@ Assumes that Linear Algebra I is covered. Specifically assumes knowledge of the 
 
 ## Schedule
 
-### Class Timings
+### Meetings
 
+##### Live Lectures
 From 30th March to 4th May, 2021, Tuesdays, Thursdays and Saturdays
 - 10-11 AM for Batch 2
 - 12-01  PM for Batch 1
 
-Also there are weekly tutorials conducted by TAs in smaller groups.
+
+##### Tutorials
+Weekly tutorials conducted by TAs in smaller groups as per times fixed.
+
+
+##### Office Hours
+I will be available on Teams during the timings given bellow, for clearing any doubts.
+- Monday, 530-730PM.
+- Thursday, 330-530PM.
 
 ### Expected Workload
 Students are expected to spent atleast 12 hrs per week. Roughly

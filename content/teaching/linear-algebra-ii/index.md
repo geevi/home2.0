@@ -124,7 +124,8 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 #### 4. Problem Solving 
 
-#### Assignment 1
+#### [Assignment 1](problems.pdf)
+Submit by 10th April
    
 ### Norms & Inner Products
 
@@ -141,8 +142,10 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 
 #### Assignment 2
+Submit by 16th April
    
 #### 9. Deep Quiz I
+On 17th April
 
 ### Advanced Topics & Applications
 
@@ -160,7 +163,11 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 
 #### Assignment 3
+Submit by 22nd April
 
-#### 14. Deep Quiz II
 
 #### 15. Course Summary & Closing Notes.
+
+
+#### 14. Deep Quiz II
+On 4th May

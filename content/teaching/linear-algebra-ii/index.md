@@ -137,8 +137,12 @@ Submit by 10th April
    Jordan Form | Norms | Distance | Inner Product | Complex Case  
    - [Notes](notes/lec4.pdf) | [Video](https://web.microsoftstream.com/video/b4452435-fa85-4d1c-92a1-6e5f28e36db2)  
    - Reading
-       - Section 10.1 in [WKN] 
-       - For Jordan Form, see [Down with Determinants](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf)  (extra reading)
+       - Section 10.1 in [WKN]
+   - Explore 
+       - For Jordan Form, Generalized Eigenvectors, see [Down with Determinants](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf).
+       - [Geometric Multiplicity $\leq$ Algebraic Multiplicity.](http://www.ee.iitm.ac.in/~uday/2017b-EE5120/multiplicity.pdf) 
+       - [Rotation Matrics have complex eigenvalues.](http://scipp.ucsc.edu/~haber/ph116A/Rotation2.pdf)
+  
 #### 6. Orthonormal Vectors 
 
 

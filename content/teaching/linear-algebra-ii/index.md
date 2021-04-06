@@ -110,29 +110,23 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 #### 1. Linear Algebra & Random Walks  
    Recalling Basics | Function Spaces | Random Walk on Graphs 
-   - [Notes](notes/lec1.pdf)
-   - [Video](https://web.microsoftstream.com/video/7dfd9faa-f14f-4b7f-ad7c-43480bf9ecb3)
+   - [Notes](notes/lec1.pdf) | [Video](https://web.microsoftstream.com/video/7dfd9faa-f14f-4b7f-ad7c-43480bf9ecb3)
    - Reading
      - Section 2.9 in [WKN]
 
 #### 2. Eigenvectors and Eigenvalues  
    Definitions | Characteristic Polynomial | Examples
-   - [Notes](notes/lec2.pdf)
-   - [Video](https://web.microsoftstream.com/video/4465dd79-af1d-4400-b575-e52c312fe944)
+   - [Notes](notes/lec2.pdf) | [Video](https://web.microsoftstream.com/video/4465dd79-af1d-4400-b575-e52c312fe944)
    - Reading  
       - Section 3.3 for Eigenvalues, Section 2.9 for Random Walks on Graphs in [WKN].
   	  - Chapter 12 in [CDTW].
     
 #### 3. Diagonalization   
    Eigenvector Basis and Powering | Multiplicities  
-   - [Notes](notes/lec3.pdf)
-   - [Video](https://web.microsoftstream.com/video/a26c1382-d6ee-4668-a5e8-15add4db7987)
+   - [Notes](notes/lec3.pdf) | [Video](https://web.microsoftstream.com/video/a26c1382-d6ee-4668-a5e8-15add4db7987)
    - Reading
        - Section 3.3 in [WKN]  
   	   - Chapter 13 in [CDTW]
-
-
-#### 4. Problem Solving 
 
 #### [Assignment 1](problems.pdf)
 Submit by 10th April
@@ -140,8 +134,11 @@ Submit by 10th April
 ### Norms & Inner Products
 
 #### 5. Norms & Inner Products   
-
-
+   Jordan Form | Norms | Distance | Inner Product | Complex Case  
+   - [Notes](notes/lec4.pdf) | [Video](https://web.microsoftstream.com/video/b4452435-fa85-4d1c-92a1-6e5f28e36db2)  
+   - Reading
+       - Section 10.1 in [WKN] 
+       - For Jordan Form, see [Down with Determinants](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf)  (extra reading)
 #### 6. Orthonormal Vectors 
 
 

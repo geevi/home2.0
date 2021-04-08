@@ -144,6 +144,13 @@ Submit by 10th April
        - [Rotation Matrics have complex eigenvalues.](http://scipp.ucsc.edu/~haber/ph116A/Rotation2.pdf)
   
 #### 6. Orthonormal Vectors 
+   Orthogonal & Orthonormal Vectors | Gram-Schmidt Orthogonalization  
+   - [Notes](notes/lec5.pdf) | [Video](https://web.microsoftstream.com/video/fdfb2b3e-dd75-444c-b69d-7e7ca4861924)  
+   - Reading
+       - Section 10.2 in [WKN]
+       - Chapter 14 in [CDTW]
+   - Explore 
+       - For Bilinear forms see [Slides of Prof. P. Karageorgis](https://www.maths.tcd.ie/~pete/ma1212/chapter3.pdf).
 
 
 #### 7. Gram-Schmidt Orthonormalization

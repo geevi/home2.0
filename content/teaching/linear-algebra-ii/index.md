@@ -153,7 +153,7 @@ Submit by 10th April
        - For Bilinear forms see [Slides of Prof. P. Karageorgis](https://www.maths.tcd.ie/~pete/ma1212/chapter3.pdf).
 
 
-#### 7. Gram-Schmidt Orthonormalization
+#### 7. QR Decomposition
 
 
 #### 8. Problem Solving 

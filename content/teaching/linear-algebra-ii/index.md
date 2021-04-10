@@ -133,7 +133,7 @@ Submit by 10th April
    
 ### Norms & Inner Products
 
-#### 5. Norms & Inner Products   
+#### 4. Norms & Inner Products   
    Jordan Form | Norms | Distance | Inner Product | Complex Case  
    - [Notes](notes/lec4.pdf) | [Video](https://web.microsoftstream.com/video/b4452435-fa85-4d1c-92a1-6e5f28e36db2)  
    - Reading
@@ -143,7 +143,7 @@ Submit by 10th April
        - [Geometric Multiplicity $\leq$ Algebraic Multiplicity.](http://www.ee.iitm.ac.in/~uday/2017b-EE5120/multiplicity.pdf) 
        - [Rotation Matrics have complex eigenvalues.](http://scipp.ucsc.edu/~haber/ph116A/Rotation2.pdf)
   
-#### 6. Orthonormal Vectors 
+#### 5. Orthonormal Vectors 
    Orthogonal & Orthonormal Vectors | Gram-Schmidt Orthogonalization  
    - [Notes](notes/lec5.pdf) | [Video](https://web.microsoftstream.com/video/fdfb2b3e-dd75-444c-b69d-7e7ca4861924)  
    - Reading
@@ -153,7 +153,12 @@ Submit by 10th April
        - For Bilinear forms see [Slides of Prof. P. Karageorgis](https://www.maths.tcd.ie/~pete/ma1212/chapter3.pdf).
 
 
-#### 7. QR Decomposition
+#### 6. Projection and Orthogonal Complement
+   Subspace Projections | Orthogonal Complements | Fitting with Errors
+   - [Notes](notes/lec6.pdf) | [Video](https://web.microsoftstream.com/video/930ca162-6b12-4482-8c2d-24403355e4b0)
+   - Reading
+       - Section 14.6 in [CDTW]
+       - Section 8.1 in [KTW]
 
 
 #### 8. Problem Solving 

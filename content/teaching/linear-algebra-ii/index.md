@@ -161,6 +161,9 @@ Submit by 10th April
        - Section 8.1 in [KTW]
 
 
+#### 7. Least Squares Fitting 
+
+
 #### 8. Problem Solving 
 
 
@@ -189,8 +192,8 @@ On 17th April
 Submit by 22nd April
 
 
-#### 15. Course Summary & Closing Notes.
+#### 14. Course Summary & Closing Notes.
 
 
-#### 14. Deep Quiz II
+#### 15. Deep Quiz II
 On 4th May

@@ -129,7 +129,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
   	   - Chapter 13 in [CDTW]
 
 #### [Assignment 1](problems.pdf)
-Submit by 10th April
+Submit by 13th April
    
 ### Norms & Inner Products
 
@@ -168,7 +168,7 @@ Submit by 10th April
 
 
 #### Assignment 2
-Submit by 16th April
+Submit by 20th April
    
 #### 9. Deep Quiz I
 On 17th April
@@ -189,7 +189,7 @@ On 17th April
 
 
 #### Assignment 3
-Submit by 22nd April
+Submit by 27nd April
 
 
 #### 14. Course Summary & Closing Notes.

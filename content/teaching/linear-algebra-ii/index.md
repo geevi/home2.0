@@ -90,6 +90,9 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - \[WKN\] [Linear Algebra with Applications](https://lyryx.com/linear-algebra-applications/)  
   W. Keith Nicholson
 
+- \[MR\][Interative Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+  Dan Margalit and Joseph Rabinoff
+
 ### Extra Reading
 - [Down with Determinants](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf)  
   Sheldon Axler
@@ -162,6 +165,11 @@ Submit by 13th April
 
 
 #### 7. Least Squares Fitting 
+   Best fit vector on a subspace | Least Squares Fitting Equation
+   - [Notes](notes/lec7.pdf) | [Video](https://web.microsoftstream.com/video/97dd19eb-b92d-4c00-ba9e-84e0dff7c2fb)
+   - Reading
+     - \[MR\] [Section 6.5](https://textbooks.math.gatech.edu/ila/least-squares.html)
+     - Chapter 7 (upto page 307) in [CDTW]
 
 
 #### 8. Problem Solving 

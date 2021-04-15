@@ -90,7 +90,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - \[WKN\] [Linear Algebra with Applications](https://lyryx.com/linear-algebra-applications/)  
   W. Keith Nicholson
 
-- \[MR\][Interative Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+- \[MR\] [Interative Linear Algebra](https://textbooks.math.gatech.edu/ila/)  
   Dan Margalit and Joseph Rabinoff
 
 ### Extra Reading

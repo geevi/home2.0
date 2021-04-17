@@ -182,21 +182,22 @@ Submit by 20th April
 ### Advanced Topics & Applications
 
 
-#### 10. Spectral Decomposition Theorem
+#### 9. Spectral Decomposition Theorem
 
 
-#### 11. Singular Value Decomposition
+#### 10. Singular Value Decomposition
 
 
-#### 12. PCA & Best Fit Subspaces
+#### 11. PCA & Best Fit Subspaces
 
 
-#### 13. Problem Solving
+#### 12. Problem Solving
 
 
 #### Assignment 3
 Submit by 27nd April
 
+#### 13. Sparse Recovery and Pooled Testing (Tentative)
 
 #### 14. Course Summary & Closing Notes.
 

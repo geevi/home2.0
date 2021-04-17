@@ -171,15 +171,13 @@ Submit by 13th April
      - \[MR\] [Section 6.5](https://textbooks.math.gatech.edu/ila/least-squares.html)
      - Chapter 7 (upto page 307) in [CDTW]
 
-
-#### 8. Problem Solving 
+#### 8. Deep Quiz I and Discussion
+   - [Notes](notes/lec8.pdf) | [Video](https://web.microsoftstream.com/video/6adb50ee-9d24-430c-823d-3f2a6462c271)
 
 
 #### Assignment 2
 Submit by 20th April
    
-#### 9. Deep Quiz I
-On 17th April
 
 ### Advanced Topics & Applications
 

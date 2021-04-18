@@ -163,6 +163,7 @@ Submit by 13th April
        - Section 14.6 in [CDTW]
        - Section 8.1 in [KTW]
 
+### Advanced Topics
 
 #### 7. Least Squares Fitting 
    Best fit vector on a subspace | Least Squares Fitting Equation
@@ -175,29 +176,30 @@ Submit by 13th April
    - [Notes](notes/lec8.pdf) | [Video](https://web.microsoftstream.com/video/6adb50ee-9d24-430c-823d-3f2a6462c271)
 
 
-#### Assignment 2
-Submit by 20th April
-   
 
-### Advanced Topics & Applications
-
+#### [Assignment 2](problems.pdf)
+Submit by 26th April
 
 #### 9. Spectral Decomposition Theorem
 
 
 #### 10. Singular Value Decomposition
 
+#### 11. Problem Solving
 
-#### 11. PCA & Best Fit Subspaces
+### Applications
 
-
-#### 12. Problem Solving
+#### 12. PCA & Best Fit Subspaces
 
 
 #### Assignment 3
 Submit by 27nd April
 
 #### 13. Sparse Recovery and Pooled Testing (Tentative)
+
+   - Explore
+     - [Compressive Sensing](https://web.stanford.edu/class/cs168/l/l17.pdf)  
+       Lecture Notes. Tim Roughgarden & Gregory Valiant.
 
 #### 14. Course Summary & Closing Notes.
 

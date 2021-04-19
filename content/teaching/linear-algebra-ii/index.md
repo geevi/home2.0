@@ -106,6 +106,14 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - \[GS\] [Linear Algebra MIT OCW Course Materials](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)   
   Gilbert Strang
 
+### On Solving Hard Problems and Understanding Proofs
+
+
+- [How to Solve it](https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf)   
+  G. Polya
+
+- [Richard Feynman, His Life, and the Art of Solving Important Problems](https://www.jurnalanas.com/feynman-and-the-art-of-problem-solving/)  
+  Blog Post
 
 ## Lecture Topics
 

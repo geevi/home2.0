@@ -196,7 +196,7 @@ Submit by 26th April
      - Chapter 15 in [CDTW]  
    - Solve  
      - Question 3, 5 in Review Problems 15.1 in [CDTW]
-     - If $P$ is the change of basis matrix for changing from standard basis to another orthonormal basis, then columns of $P$ are orthonormal.
+     - If $P$ is the change of basis matrix for changing coordinates from standard basis to another orthonormal basis, then columns of $P$ are orthonormal.
      - If columns of $P$ are orthonormal then rows of $P$ are also orthonormal.
 
 

@@ -195,7 +195,7 @@ Submit by 26th April
    - Reading
      - Chapter 15 in [CDTW]  
    - Solve  
-     - Question 3 in Review Problems 15.1 in [CDTW]
+     - Question 3, 5 in Review Problems 15.1 in [CDTW]
 
 
 #### 10. Singular Value Decomposition

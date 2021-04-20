@@ -190,6 +190,10 @@ Submit by 13th April
 Submit by 26th April
 
 #### 9. Spectral Decomposition Theorem
+  Eigenvalues and eigenvectors of Symmetric Matices | Spectral Decomposition
+   - [Notes](notes/lec9.pdf) | [Video](https://web.microsoftstream.com/video/7f995877-9281-42c2-83b4-2b40a3fc10bb)
+   - Reading
+     - Chapter 15 in [CDTW]
 
 
 #### 10. Singular Value Decomposition

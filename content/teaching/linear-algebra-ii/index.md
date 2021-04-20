@@ -93,12 +93,18 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - \[MR\] [Interative Linear Algebra](https://textbooks.math.gatech.edu/ila/)  
   Dan Margalit and Joseph Rabinoff
 
+- \[DA\] [Understanding Linear Algebra](http://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/ula.html)  
+  David Austin
+
 ### Extra Reading
 - [Down with Determinants](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf)  
   Sheldon Axler
 
 - [Linear Algebra Done Right Videos](https://linear.axler.net/LADRvideos.html)  
   Sheldon Axler
+
+- [Markov Chains and Google's PageRank Algorithm](http://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/sec-stochastic.html)  
+  Understanding Linear Algebra, David Austin.
 
 - [The Fast Fourier Transform and Polynomial Multiplication](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf)  
   Mordecai GOLIN

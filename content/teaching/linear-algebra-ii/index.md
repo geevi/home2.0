@@ -210,7 +210,10 @@ Submit by 26th April
   Spectral Theorem | Spectral Decomposition
    - [Notes](notes/lec10.pdf) | [Video](https://web.microsoftstream.com/video/829c0127-407e-4f78-b1ee-178ee1efae80)
    - Reading
+     - Section 10.3 in [WKN]
      - Chapter 15 in [CDTW]
+   - Solve
+     - Let $v_1,\cdots, v_n$ be a basis for an $n$ dimensional vector space $V$ over some field $\mathbb F$ and let $M,M' \in \mathbb F^{n\times n}$ be matrices. Show that if $$\forall i \in \\{1,\cdots n\\},\qquad Mv_i = M'v_i$$ then $M=M'$.
 
 #### 11. Singular Value Decomposition
 

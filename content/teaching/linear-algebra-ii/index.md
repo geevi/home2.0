@@ -212,7 +212,7 @@ Submit by 26th April
    - Reading
      - Chapter 15 in [CDTW]
 
-#### 11. Problem Solving
+#### 11. Singular Value Decomposition
 
 ### Applications
 

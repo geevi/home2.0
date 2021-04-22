@@ -195,8 +195,8 @@ Submit by 13th April
 #### [Assignment 2](problems.pdf)
 Submit by 26th April
 
-#### 9. Spectral Decomposition Theorem
-  Eigenvalues and eigenvectors of Symmetric Matices | Spectral Decomposition
+#### 9. Symmetric Matrices and Properties
+  Eigenvalues and eigenvectors of Symmetric Matices | Spectral Theorem
    - [Notes](notes/lec9.pdf) | [Video](https://web.microsoftstream.com/video/7f995877-9281-42c2-83b4-2b40a3fc10bb)
    - Reading
      - Chapter 15 in [CDTW]  
@@ -206,7 +206,11 @@ Submit by 26th April
      - If columns of $P$ are orthonormal then rows of $P$ are also orthonormal.
 
 
-#### 10. Singular Value Decomposition
+#### 10. Spectral Decomposition Theorem
+  Spectral Theorem | Spectral Decomposition
+   - [Notes](notes/lec10.pdf) | [Video](https://web.microsoftstream.com/video/829c0127-407e-4f78-b1ee-178ee1efae80)
+   - Reading
+     - Chapter 15 in [CDTW]
 
 #### 11. Problem Solving
 

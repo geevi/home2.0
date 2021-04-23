@@ -213,7 +213,9 @@ Submit by 26th April
      - Section 10.3 in [WKN]
      - Chapter 15 in [CDTW]
    - Solve
-     - Let $v_1,\cdots, v_n$ be a basis for an $n$ dimensional vector space $V$ over some field $\mathbb F$ and let $M,M' \in \mathbb F^{n\times n}$ be matrices. Show that if $$\forall i \in \\{1,\cdots n\\},\qquad Mv_i = M'v_i$$ then $M=M'$.
+     - Let $v_1,\cdots, v_n$ be a basis for an $n$ dimensional vector space $V$ over some field $\mathbb F$ and let $M,M' \in \mathbb F^{n\times n}$ be matrices. Show that if $$\forall i \in \\{1,\cdots n\\},\qquad Mv_i = M'v_i$$ then $M=M'$.  
+     - Consider the $n$ dimenstional complex vector space $\mathbb C^n$. Is $\mathbb R^n$ a subpace of $\mathbb C^n$?  
+     - We know that $\mathbb R^n$ is a subset of $\mathbb C^n$. Suppose $v_1,\ldots, v_n \mathbb R^n$ be orthonormal vectors. Can they form a basis for $\mathbb C^n$?
 
 #### 11. Singular Value Decomposition
 

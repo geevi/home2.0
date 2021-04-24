@@ -218,6 +218,11 @@ Submit by 26th April
      - We know that $\mathbb R^n$ is a subset of $\mathbb C^n$. Suppose $v_1,\ldots, v_n \in \mathbb R^n$ be orthonormal vectors. Can they form a basis for $\mathbb C^n$?
 
 #### 11. Singular Value Decomposition
+  Spectral Theorem for Complex Spaces | Singular Value Decomposition
+   - [Notes](notes/lec11.pdf) | [Video](https://web.microsoftstream.com/video/b5980684-abdb-46f1-9354-fbf1fa60fa1a)
+   - Reading
+     - Section 17.2 in [CDTW]
+     - Section 8.6 in [WKN]
 
 ### Applications
 

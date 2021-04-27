@@ -227,7 +227,15 @@ Submit by 26th April
 ### Applications
 
 #### 12. PCA & Best Fit Subspaces
-
+  Principal Component Analysis | Applications in Data Science
+  - [Notes]() | [Video]() 
+  - Reading
+  - Code
+    - [Finding axis of a spiral galaxy.](https://colab.research.google.com/drive/1DQBLsKjFSrxi5IBH8rFE42FjZVOo7Tgi?usp=sharing)
+  - Explore
+    - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
+      Has proofs for SVD giving best fit subspaces.
+    - [PCA and Image Compression](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf). 
 
 #### Assignment 3
 Submit by 27nd April

@@ -228,8 +228,7 @@ Submit by 26th April
 
 #### 12. PCA & Best Fit Subspaces
   Principal Component Analysis | Applications in Data Science
-  - [Notes]() | [Video]() 
-  - Reading
+  - [Notes](notes/lec12.pdf) | [Video](https://web.microsoftstream.com/video/f1a66466-0e38-476c-8f56-d89cefc167f2) 
   - Code
     - [Finding axis of a spiral galaxy.](https://colab.research.google.com/drive/1DQBLsKjFSrxi5IBH8rFE42FjZVOo7Tgi?usp=sharing)
   - Explore

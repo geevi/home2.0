@@ -236,7 +236,7 @@ Submit by 26th April
       Has proofs for SVD giving best fit subspaces.
     - [PCA and Image Compression](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf). 
 
-#### Assignment 3
+#### [Assignment 3](problems.pdf)
 See Section 6 in [Problems](problems.pdf).
 Submit by 7th May
 

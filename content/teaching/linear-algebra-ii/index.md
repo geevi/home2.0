@@ -237,7 +237,8 @@ Submit by 26th April
     - [PCA and Image Compression](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf). 
 
 #### Assignment 3
-Submit by 27nd April
+See Section 6 in [Problems](problems.pdf).
+Submit by 7th May
 
 #### 13. Sparse Recovery and Pooled Testing (Tentative)
 

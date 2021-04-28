@@ -238,7 +238,7 @@ Submit by 26th April
 
 #### [Assignment 3](problems.pdf)
 See Section 6 in [Problems](problems.pdf).
-Submit by 7th May
+Submit by 7th May.
 
 #### 13. Sparse Recovery and Pooled Testing (Tentative)
 

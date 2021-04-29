@@ -239,9 +239,9 @@ See Section 6 in [Problems](problems.pdf).
 Submit by 7th May.
 
 #### 13. SVD & Best Fit Subspaces
-  - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)
-   - Read
-    - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
+  - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)  
+   - Read  
+     - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
 
 #### 14. Course Summary & Closing Notes.
 

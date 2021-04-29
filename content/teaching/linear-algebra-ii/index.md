@@ -226,25 +226,22 @@ Submit by 26th April
 
 ### Applications
 
-#### 12. PCA & Best Fit Subspaces
+#### 12. SVD & Applications
   Principal Component Analysis | Applications in Data Science
   - [Notes](notes/lec12.pdf) | [Video](https://web.microsoftstream.com/video/f1a66466-0e38-476c-8f56-d89cefc167f2) 
   - Code
     - [Finding axis of a spiral galaxy.](https://colab.research.google.com/drive/1DQBLsKjFSrxi5IBH8rFE42FjZVOo7Tgi?usp=sharing)
   - Explore
-    - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
-      Has proofs for SVD giving best fit subspaces.
     - [PCA and Image Compression](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf). 
 
 #### [Assignment 3](problems.pdf)
 See Section 6 in [Problems](problems.pdf).
 Submit by 7th May.
 
-#### 13. Sparse Recovery and Pooled Testing (Tentative)
-
-   - Explore
-     - [Compressive Sensing](https://web.stanford.edu/class/cs168/l/l17.pdf)  
-       Lecture Notes. Tim Roughgarden & Gregory Valiant.
+#### 13. SVD & Best Fit Subspaces
+  - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)
+   - Read
+    - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
 
 #### 14. Course Summary & Closing Notes.
 

@@ -148,6 +148,12 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 #### [Assignment 1](problems.pdf)
 Submit by 13th April
+   - Practice Problems:
+     - Show that for any matrix $M \in \mathbb R^{n \times n}$ with eigenvalue $\lambda \in \mathbb R$, 
+$$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\lambda, M^t).$$  
+     - Let $M$ be block diagonal with blocks $M_1,\ldots,M_k$ (all square matrices). Show that:
+        $$ \text{geometric_multiplicity}(\lambda, M) = \sum_{i=1}^k \text{geometric_multiplicity}(\lambda, M_i).$$
+ 
    
 ### Norms & Inner Products
 
@@ -242,6 +248,8 @@ Submit by 7th May.
   - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)  
    - Read  
      - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
+
+
 
 #### 14. Course Summary & Closing Notes.
 

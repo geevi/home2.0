@@ -148,6 +148,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 #### [Assignment 1](problems.pdf)
 Submit by 13th April
+   - [Notes](notes/assignment_1_disc.pdf) | [Video](https://web.microsoftstream.com/video/ecf3a7dd-a520-4c40-8509-e55e026b882a)
    - Practice Problems:
      - Show that for any matrix $M \in \mathbb R^{n \times n}$ with eigenvalue $\lambda \in \mathbb R$, 
 $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\lambda, M^t).$$  

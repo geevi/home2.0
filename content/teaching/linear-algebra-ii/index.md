@@ -236,6 +236,8 @@ Submit by 26th April
 #### 12. SVD & Applications
   Principal Component Analysis | Applications in Data Science
   - [Notes](notes/lec12.pdf) | [Video](https://web.microsoftstream.com/video/f1a66466-0e38-476c-8f56-d89cefc167f2) 
+  - Read
+    - Section 8.11 in [WKN]
   - Code
     - [Finding axis of a spiral galaxy.](https://colab.research.google.com/drive/1DQBLsKjFSrxi5IBH8rFE42FjZVOo7Tgi?usp=sharing)
   - Explore
@@ -256,7 +258,13 @@ Submit by 7th May.
 
 
 
-#### 14. Course Summary & Closing Notes.
+#### 14. More Applications , Course Summary & Closing Notes.
+   - Applications
+     - Algorithms: [Discrete Fourier Transform](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf) and Fast Multiplication.
+     - [Robotics](http://16623.courses.cs.cmu.edu/slides/Lecture_18.pdf), VR, AR uses 3D, 6D data.
+     - [Pooled Testing for COVID](https://signalprocessingsociety.org/newsletter/2020/07/compressed-sensing-approach-group-testing-covid-19-detection): currently being used in IIIT to test 400 campus residents with only 40 tests.
+     - Machine Learning and Data Science. See [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf)
+     - Communications Systems: Error Correcting Codes (See Section 8.8 in [WKN]).
 
 
 #### 15. Deep Quiz II

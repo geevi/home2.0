@@ -254,7 +254,7 @@ Submit by 7th May.
   - Problems **<sup style="color: red;">NEW</sup>**
     - Suppose $W$ is a $k$ dimensional subspace of $\mathbb R^n$ and $v_1,\ldots, v_{k-1} \in \mathbb R^n$ be orthonormal vectors (may or may not be in $W$).
       Show that there exists a vector $w\in W$ that is nonzero, such that $w \in \text{span}(v_1,\ldots, v_{k-1})^\perp$. That is
-      $$ \exists w \in W \cap \text{span}(v_1,\ldots, v_{k-1})^\perp \text{ such that } v \neq 0. $$
+      $$ \exists w \in W \cap \text{span}(v_1,\ldots, v_{k-1})^\perp \text{ such that } w \neq 0. $$
 
 
 

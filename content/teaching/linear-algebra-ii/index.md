@@ -240,6 +240,9 @@ Submit by 26th April
     - [Finding axis of a spiral galaxy.](https://colab.research.google.com/drive/1DQBLsKjFSrxi5IBH8rFE42FjZVOo7Tgi?usp=sharing)
   - Explore
     - [PCA and Image Compression](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf). 
+  - Problems
+    - Suppose $W$ is a $k$ dimensional subspace of $\mathbb R^n$ and $v_1,\ldots, v_{k-1} \in \mathbb R^n$ be orthonormal vectors.
+      Show that there exists a vector $w\in W$ that is nonzero, such that $w \in \text{span}(v_1,\ldots, v_{k-1})^\perp$.
 
 #### [Assignment 3](problems.pdf)
 See Section 6 in [Problems](problems.pdf).

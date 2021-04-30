@@ -149,7 +149,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 #### [Assignment 1](problems.pdf)
 Submit by 13th April
    - [Notes](notes/assignment_1_disc.pdf) | [Video](https://web.microsoftstream.com/video/ecf3a7dd-a520-4c40-8509-e55e026b882a)
-   - Practice Problems:
+   - Practice Problems:**<sup style="color: red;">NEW</sup>**
      - Show that for any matrix $M \in \mathbb R^{n \times n}$ with eigenvalue $\lambda \in \mathbb R$, 
 $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\lambda, M^t).$$  
      - Let $M$ be block diagonal with blocks $M_1,\ldots,M_k$ (all square matrices). Show that:
@@ -240,9 +240,6 @@ Submit by 26th April
     - [Finding axis of a spiral galaxy.](https://colab.research.google.com/drive/1DQBLsKjFSrxi5IBH8rFE42FjZVOo7Tgi?usp=sharing)
   - Explore
     - [PCA and Image Compression](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf). 
-  - Problems
-    - Suppose $W$ is a $k$ dimensional subspace of $\mathbb R^n$ and $v_1,\ldots, v_{k-1} \in \mathbb R^n$ be orthonormal vectors.
-      Show that there exists a vector $w\in W$ that is nonzero, such that $w \in \text{span}(v_1,\ldots, v_{k-1})^\perp$.
 
 #### [Assignment 3](problems.pdf)
 See Section 6 in [Problems](problems.pdf).
@@ -252,6 +249,10 @@ Submit by 7th May.
   - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)  
    - Read  
      - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
+  - Problems **<sup style="color: red;">NEW</sup>**
+    - Suppose $W$ is a $k$ dimensional subspace of $\mathbb R^n$ and $v_1,\ldots, v_{k-1} \in \mathbb R^n$ be orthonormal vectors.
+      Show that there exists a vector $w\in W$ that is nonzero, such that $w \in \text{span}(v_1,\ldots, v_{k-1})^\perp$.
+
 
 
 

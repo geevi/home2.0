@@ -149,7 +149,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 #### [Assignment 1](problems.pdf)
 Submit by 13th April
    - [Notes](notes/assignment_1_disc.pdf) | [Video](https://web.microsoftstream.com/video/ecf3a7dd-a520-4c40-8509-e55e026b882a)
-   - Practice Problems:**<sup style="color: red;">NEW</sup>**
+   - Practice Problems:**<sup style="color: red; background-color: yellow; padding: 2px">new</sup>**
      - Show that for any matrix $M \in \mathbb R^{n \times n}$ with eigenvalue $\lambda \in \mathbb R$, 
 $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\lambda, M^t).$$  
      - Let $M$ be block diagonal with blocks $M_1,\ldots,M_k$ (all square matrices). Show that:
@@ -251,7 +251,7 @@ Submit by 7th May.
   - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)  
    - Read  
      - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
-  - Problems **<sup style="color: red;">NEW</sup>**
+  - Problems **<sup style="color: red; background-color: yellow; padding: 2px">new</sup>**
     - Suppose $W$ is a $k$ dimensional subspace of $\mathbb R^n$ and $v_1,\ldots, v_{k-1} \in \mathbb R^n$ be orthonormal vectors (may or may not be in $W$).
       Show that there exists a vector $w\in W$ that is nonzero, such that $w \in \text{span}(v_1,\ldots, v_{k-1})^\perp$. That is
       $$ \exists w \in W \cap \text{span}(v_1,\ldots, v_{k-1})^\perp \text{ such that } w \neq 0. $$
@@ -264,6 +264,7 @@ Submit by 7th May.
      - Algorithms: [Discrete Fourier Transform](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf) and Fast Multiplication.
      - [Robotics](http://16623.courses.cs.cmu.edu/slides/Lecture_18.pdf), VR, AR uses 3D, 6D data.
      - [Pooled Testing for COVID](https://signalprocessingsociety.org/newsletter/2020/07/compressed-sensing-approach-group-testing-covid-19-detection): currently being used in IIIT to test 400 campus residents with only 40 tests.
+     - [Compress Sensing](http://theory.stanford.edu/~tim/s15/l/l13.pdf).
      - Machine Learning and Data Science. See [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf)
      - Communications Systems: Error Correcting Codes (See Section 8.8 in [WKN]).
 

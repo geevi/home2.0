@@ -271,6 +271,10 @@ Submit by 7th May.
      - [Compress Sensing](http://theory.stanford.edu/~tim/s15/l/l13.pdf).
      - Machine Learning and Data Science. See [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf)
      - Communications Systems: Error Correcting Codes (See Section 8.8 in [WKN]).
+     - Quantum Computing
+       - [Videos by M. Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4).
+       - [QED](https://en.wikipedia.org/wiki/QED:_The_Strange_Theory_of_Light_and_Matter) by Feynmann.
+       - [Lecture Notes by Vazirani.](https://people.eecs.berkeley.edu/~vazirani/quantum.html)
 
 
 #### 15. Deep Quiz II

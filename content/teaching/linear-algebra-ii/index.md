@@ -261,7 +261,8 @@ Submit by 7th May.
 
 #### 14. More Applications , Course Summary & Closing Notes.
    - Applications
-     - Algorithms: [Discrete Fourier Transform](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf) and Fast Multiplication.
+     - Algorithms: [Discrete Fourier Transform](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf) and Fast Multiplication. 
+     - Spectral Graph Drawing: [Spielman](https://www.youtube.com/watch?v=CDMQR422LGM), [Book Chapter](https://www.cis.upenn.edu/~cis515/cis515-15-graph-drawing.pdf)
      - [Robotics](http://16623.courses.cs.cmu.edu/slides/Lecture_18.pdf), VR, AR uses 3D, 6D data.
      - [Pooled Testing for COVID](https://signalprocessingsociety.org/newsletter/2020/07/compressed-sensing-approach-group-testing-covid-19-detection): currently being used in IIIT to test 400 campus residents with only 40 tests.
      - [Compress Sensing](http://theory.stanford.edu/~tim/s15/l/l13.pdf).

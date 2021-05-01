@@ -260,6 +260,8 @@ Submit by 7th May.
 
 
 #### 14. More Applications , Course Summary & Closing Notes.
+   - Reading
+     - [Determinants and Volume](https://textbooks.math.gatech.edu/ila/determinants-volumes.html).
    - Applications
      - Algorithms: [Discrete Fourier Transform](http://www.cs.ust.hk/mjg_lib/Classes/COMP3711H_Fall16/lectures/FFT_Slides.pdf) and Fast Multiplication. 
      - Spectral Graph Drawing: [Spielman](https://www.youtube.com/watch?v=CDMQR422LGM), [Book Chapter](https://www.cis.upenn.edu/~cis515/cis515-15-graph-drawing.pdf)

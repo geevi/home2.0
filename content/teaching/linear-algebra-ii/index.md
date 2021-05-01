@@ -260,6 +260,7 @@ Submit by 7th May.
 
 
 #### 14. More Applications , Course Summary & Closing Notes.
+   - [Notes](notes/lec14.pdf) | [Video](https://web.microsoftstream.com/video/480d1ceb-f87f-45a0-8603-57bf5648b97b)
    - Reading
      - [Determinants and Volume](https://textbooks.math.gatech.edu/ila/determinants-volumes.html).
    - Applications

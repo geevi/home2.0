@@ -36,8 +36,7 @@ math = true
 #caption = "My caption :smile:"
 
 +++
-
-A course which introduces intermediate level topics in Linear Algebra, specifically the following topics:  
+An introduction to intermediate level topics in Linear Algebra by a series of questions and answers. Specifically the following topics are covered:  
 -  Eigenvalues & Eigenvectors  
 -  Norms, Inner Products and Projections
 -  Spectral & Singular Value Decomposition Theorems
@@ -301,7 +300,7 @@ Submit by 7th May.
 
 
 
-#### 14. More Applications , Course Summary & Closing Notes.
+#### 14. Course Summary, More Applications & Closing Notes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFZAqba7IgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

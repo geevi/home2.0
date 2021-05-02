@@ -129,9 +129,9 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 ## Lecture Topics
 
-### Eigenvalues & Diagonalization
+### 1 Eigenvalues & Diagonalization
 
-#### 1. Linear Algebra & Random Walks  
+#### 1.1 Linear Algebra & Random Walks  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qWbABNXFsUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -140,7 +140,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
    - Reading
      - Section 2.9 in [WKN]
 
-#### 2. Eigenvectors and Eigenvalues  
+#### 1.2 Eigenvectors and Eigenvalues  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fO_kiQ_hFyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -150,7 +150,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
       - Section 3.3 for Eigenvalues, Section 2.9 for Random Walks on Graphs in [WKN].
   	  - Chapter 12 in [CDTW].
     
-#### 3. Diagonalization   
+#### 1.3 Diagonalization   
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/jss3SE-Je1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
@@ -170,9 +170,9 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
         $$ \text{geometric_multiplicity}(\lambda, M) = \sum_{i=1}^k \text{geometric_multiplicity}(\lambda, M_i).$$
  
    
-### Norms & Inner Products
+### 2 Norms & Inner Products
 
-#### 4. Norms & Inner Products   
+#### 2.1 Norms & Inner Products   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61qYfkls2L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
        - [Geometric Multiplicity $\leq$ Algebraic Multiplicity.](http://www.ee.iitm.ac.in/~uday/2017b-EE5120/multiplicity.pdf) 
        - [Rotation Matrics have complex eigenvalues.](http://scipp.ucsc.edu/~haber/ph116A/Rotation2.pdf)
   
-#### 5. Orthonormal Vectors 
+#### 2.2 Orthonormal Vectors 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BhZ_cqCwGfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -198,7 +198,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
        - For Bilinear forms see [Slides of Prof. P. Karageorgis](https://www.maths.tcd.ie/~pete/ma1212/chapter3.pdf).
 
 
-#### 6. Projection and Orthogonal Complement
+#### 2.3 Projection and Orthogonal Complement
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mG0px7sl66M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -208,9 +208,8 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
        - Section 14.6 in [CDTW]
        - Section 8.1 in [KTW]
 
-### Advanced Topics
 
-#### 7. Least Squares Fitting 
+#### 2.4 Least Squares Fitting 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qEtnrYJ43do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -224,11 +223,13 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
    - [Notes](notes/lec8.pdf) | [Video](https://web.microsoftstream.com/video/6adb50ee-9d24-430c-823d-3f2a6462c271)
 
 
+### 3 Advanced Topics
+
 
 #### [Assignment 2](problems.pdf)
 Submit by 26th April
 
-#### 9. Symmetric Matrices and Properties
+#### 3.1 Symmetric Matrices and Properties
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fKk4boPUYgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -242,7 +243,7 @@ Submit by 26th April
      - If columns of $P$ are orthonormal then rows of $P$ are also orthonormal.
 
 
-#### 10. Spectral Decomposition Theorem
+#### 3.2 Spectral Decomposition Theorem
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nNKqYWkvuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -256,7 +257,7 @@ Submit by 26th April
      - Consider the $n$ dimenstional complex vector space $\mathbb C^n$. Is $\mathbb R^n$ a subpace of $\mathbb C^n$?  
      - We know that $\mathbb R^n$ is a subset of $\mathbb C^n$. Suppose $v_1,\ldots, v_n \in \mathbb R^n$ be orthonormal vectors. Can they form a basis for $\mathbb C^n$?
 
-#### 11. Singular Value Decomposition
+#### 3.3 Singular Value Decomposition
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMbWVWbW9mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -266,9 +267,9 @@ Submit by 26th April
      - Section 17.2 in [CDTW]
      - Section 8.6 in [WKN]
 
-### Applications
+### 4 Applications
 
-#### 12. SVD & Applications
+#### 4.1 SVD & Applications
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoWaIiRdQ7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -285,7 +286,7 @@ Submit by 26th April
 See Section 6 in [Problems](problems.pdf).
 Submit by 7th May.
 
-#### 13. SVD & Best Fit Subspaces
+#### 4.2 SVD & Best Fit Subspaces
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MuKUsD-choc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -300,7 +301,7 @@ Submit by 7th May.
 
 
 
-#### 14. Course Summary, More Applications & Closing Notes.
+### 5 Course Summary, More Applications & Closing Notes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFZAqba7IgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -321,5 +322,5 @@ Submit by 7th May.
        - [Lecture Notes by Vazirani.](https://people.eecs.berkeley.edu/~vazirani/quantum.html)
 
 
-#### 15. Deep Quiz II
+#### Deep Quiz II
 On 4th May

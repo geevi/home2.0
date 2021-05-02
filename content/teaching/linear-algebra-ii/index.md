@@ -36,7 +36,7 @@ math = true
 #caption = "My caption :smile:"
 
 +++
-An introduction to intermediate level topics in Linear Algebra by a series of [questions and answers](https://en.wikipedia.org/wiki/Socratic_questioning). Specifically the following topics are covered:  
+An introduction to intermediate level topics in Linear Algebra by a series of [probing questions and answers](https://en.wikipedia.org/wiki/Socratic_questioning). Specifically the following topics are covered:  
 -  Eigenvalues & Eigenvectors  
 -  Norms, Inner Products and Projections
 -  Spectral & Singular Value Decomposition Theorems

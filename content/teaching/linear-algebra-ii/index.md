@@ -11,7 +11,7 @@ toc = true
 
 
 # Project summary to display on homepage.
-summary = "A 15 lecture course which introduces intermediate level topics in Linear Algebra."
+summary = "An introduction to intermediate level topics in Linear Algebra by a series of questions and answers. All materials including videos, notes, assignments is provided here. The textbooks used are also openly available."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"

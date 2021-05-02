@@ -219,7 +219,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
      - \[MR\] [Section 6.5](https://textbooks.math.gatech.edu/ila/least-squares.html)
      - Chapter 7 (upto page 307) in [CDTW]
 
-#### 8. Deep Quiz I and Discussion
+#### Deep Quiz I and Discussion
    - [Notes](notes/lec8.pdf) | [Video](https://web.microsoftstream.com/video/6adb50ee-9d24-430c-823d-3f2a6462c271)
 
 

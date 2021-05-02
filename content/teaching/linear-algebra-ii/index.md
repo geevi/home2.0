@@ -129,7 +129,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 
 ## Lecture Topics
 
-### 1 Eigenvalues & Diagonalization
+### 1. Eigenvalues & Diagonalization
 
 #### 1.1 Linear Algebra & Random Walks  
 
@@ -170,7 +170,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
         $$ \text{geometric_multiplicity}(\lambda, M) = \sum_{i=1}^k \text{geometric_multiplicity}(\lambda, M_i).$$
  
    
-### 2 Norms & Inner Products
+### 2. Norms & Inner Products
 
 #### 2.1 Norms & Inner Products   
 
@@ -223,7 +223,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
    - [Notes](notes/lec8.pdf) | [Video](https://web.microsoftstream.com/video/6adb50ee-9d24-430c-823d-3f2a6462c271)
 
 
-### 3 Advanced Topics
+### 3. Advanced Topics
 
 
 #### [Assignment 2](problems.pdf)
@@ -267,7 +267,7 @@ Submit by 26th April
      - Section 17.2 in [CDTW]
      - Section 8.6 in [WKN]
 
-### 4 Applications
+### 4. Applications
 
 #### 4.1 SVD & Applications
 
@@ -301,7 +301,7 @@ Submit by 7th May.
 
 
 
-### 5 Course Summary, More Applications & Closing Notes.
+### 5. Course Summary, More Applications & Closing Notes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFZAqba7IgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

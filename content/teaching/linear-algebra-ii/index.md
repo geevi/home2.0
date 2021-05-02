@@ -37,7 +37,13 @@ math = true
 
 +++
 
-A 15 lecture course which introduces intermediate level topics in Linear Algebra. 
+A course which introduces intermediate level topics in Linear Algebra, specifically the following topics:  
+-  Eigenvalues & Eigenvectors  
+-  Norms, Inner Products and Projections
+-  Spectral & Singular Value Decomposition Theorems
+-  Applications of SVD and Best Fit Subspaces
+
+All materials including videos, notes, assignments is provided here. The textbooks used are also openly available. The course was designed for computer science and electronics undergraduate engineering students at IIIT Hyderabad. 
 
 ## Prerequisites
 Assumes that Linear Algebra I is covered. Specifically assumes knowledge of the following topics:
@@ -127,12 +133,18 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 ### Eigenvalues & Diagonalization
 
 #### 1. Linear Algebra & Random Walks  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qWbABNXFsUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    Recalling Basics | Function Spaces | Random Walk on Graphs 
    - [Notes](notes/lec1.pdf) | [Video](https://web.microsoftstream.com/video/7dfd9faa-f14f-4b7f-ad7c-43480bf9ecb3)
    - Reading
      - Section 2.9 in [WKN]
 
 #### 2. Eigenvectors and Eigenvalues  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fO_kiQ_hFyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    Definitions | Characteristic Polynomial | Examples
    - [Notes](notes/lec2.pdf) | [Video](https://web.microsoftstream.com/video/4465dd79-af1d-4400-b575-e52c312fe944)
    - Reading  
@@ -140,7 +152,10 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
   	  - Chapter 12 in [CDTW].
     
 #### 3. Diagonalization   
-   Eigenvector Basis and Powering | Multiplicities  
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/jss3SE-Je1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+   Eigenvector Basis and Powering | Multiplicities       
    - [Notes](notes/lec3.pdf) | [Video](https://web.microsoftstream.com/video/a26c1382-d6ee-4668-a5e8-15add4db7987)
    - Reading
        - Section 3.3 in [WKN]  
@@ -159,6 +174,9 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 ### Norms & Inner Products
 
 #### 4. Norms & Inner Products   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/61qYfkls2L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    Jordan Form | Norms | Distance | Inner Product | Complex Case  
    - [Notes](notes/lec4.pdf) | [Video](https://web.microsoftstream.com/video/b4452435-fa85-4d1c-92a1-6e5f28e36db2)  
    - Reading
@@ -169,6 +187,9 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
        - [Rotation Matrics have complex eigenvalues.](http://scipp.ucsc.edu/~haber/ph116A/Rotation2.pdf)
   
 #### 5. Orthonormal Vectors 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BhZ_cqCwGfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    Orthogonal & Orthonormal Vectors | Gram-Schmidt Orthogonalization  
    - [Notes](notes/lec5.pdf) | [Video](https://web.microsoftstream.com/video/fdfb2b3e-dd75-444c-b69d-7e7ca4861924)  
    - Reading
@@ -179,6 +200,9 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 
 
 #### 6. Projection and Orthogonal Complement
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mG0px7sl66M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    Subspace Projections | Orthogonal Complements | Fitting with Errors
    - [Notes](notes/lec6.pdf) | [Video](https://web.microsoftstream.com/video/930ca162-6b12-4482-8c2d-24403355e4b0)
    - Reading
@@ -188,6 +212,9 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 ### Advanced Topics
 
 #### 7. Least Squares Fitting 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qEtnrYJ43do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    Best fit vector on a subspace | Least Squares Fitting Equation
    - [Notes](notes/lec7.pdf) | [Video](https://web.microsoftstream.com/video/97dd19eb-b92d-4c00-ba9e-84e0dff7c2fb)
    - Reading
@@ -203,6 +230,9 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 Submit by 26th April
 
 #### 9. Symmetric Matrices and Properties
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKk4boPUYgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   Eigenvalues and eigenvectors of Symmetric Matices | Spectral Theorem
    - [Notes](notes/lec9.pdf) | [Video](https://web.microsoftstream.com/video/7f995877-9281-42c2-83b4-2b40a3fc10bb)
    - Reading
@@ -214,6 +244,9 @@ Submit by 26th April
 
 
 #### 10. Spectral Decomposition Theorem
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNKqYWkvuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   Spectral Theorem | Spectral Decomposition
    - [Notes](notes/lec10.pdf) | [Video](https://web.microsoftstream.com/video/829c0127-407e-4f78-b1ee-178ee1efae80)
    - Reading
@@ -225,6 +258,9 @@ Submit by 26th April
      - We know that $\mathbb R^n$ is a subset of $\mathbb C^n$. Suppose $v_1,\ldots, v_n \in \mathbb R^n$ be orthonormal vectors. Can they form a basis for $\mathbb C^n$?
 
 #### 11. Singular Value Decomposition
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMbWVWbW9mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   Spectral Theorem for Complex Spaces | Singular Value Decomposition
    - [Notes](notes/lec11.pdf) | [Video](https://web.microsoftstream.com/video/b5980684-abdb-46f1-9354-fbf1fa60fa1a)
    - Reading
@@ -234,6 +270,9 @@ Submit by 26th April
 ### Applications
 
 #### 12. SVD & Applications
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yoWaIiRdQ7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   Principal Component Analysis | Applications in Data Science
   - [Notes](notes/lec12.pdf) | [Video](https://web.microsoftstream.com/video/f1a66466-0e38-476c-8f56-d89cefc167f2) 
   - Read
@@ -248,6 +287,9 @@ See Section 6 in [Problems](problems.pdf).
 Submit by 7th May.
 
 #### 13. SVD & Best Fit Subspaces
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MuKUsD-choc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)  
    - Read  
      - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
@@ -260,6 +302,9 @@ Submit by 7th May.
 
 
 #### 14. More Applications , Course Summary & Closing Notes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MFZAqba7IgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
    - [Notes](notes/lec14.pdf) | [Video](https://web.microsoftstream.com/video/480d1ceb-f87f-45a0-8603-57bf5648b97b)
    - Reading
      - [Determinants and Volume](https://textbooks.math.gatech.edu/ila/determinants-volumes.html).

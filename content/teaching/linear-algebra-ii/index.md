@@ -42,7 +42,7 @@ An introduction to intermediate level topics in Linear Algebra by a series of [p
 -  Spectral & Singular Value Decomposition Theorems
 -  Applications of SVD and Best Fit Subspaces
 
-All materials including videos, notes, assignments is provided here. The textbooks used are also openly available. The course was designed for computer science and electronics undergraduate engineering students at IIIT Hyderabad. 
+All materials including videos, notes, assignments are provided here. The textbooks used are also openly available. The course was designed for computer science and electronics undergraduate engineering students at IIIT Hyderabad. 
 
 ## Prerequisites
 Assumes that Linear Algebra I is covered. Specifically assumes knowledge of the following topics:

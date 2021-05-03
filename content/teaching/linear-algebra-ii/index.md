@@ -44,6 +44,8 @@ An introduction to intermediate level topics in Linear Algebra by a series of [p
 
 All materials including videos, notes, assignments are provided here. The textbooks used are also openly available. The course was designed for computer science and electronics undergraduate engineering students at IIIT Hyderabad. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">reviews! not so bad i guess.<br>amazed by students who took time to solve hard problems even during these times. <a href="https://t.co/5sgsiRY7oZ">pic.twitter.com/5sgsiRY7oZ</a></p>&mdash; Girish Varma (@girishvarma) <a href="https://twitter.com/girishvarma/status/1389278000764522507?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Prerequisites
 Assumes that Linear Algebra I is covered. Specifically assumes knowledge of the following topics:
 
@@ -297,6 +299,9 @@ Submit by 7th May.
     - Suppose $W$ is a $k$ dimensional subspace of $\mathbb R^n$ and $v_1,\ldots, v_{k-1} \in \mathbb R^n$ be orthonormal vectors (may or may not be in $W$).
       Show that there exists a vector $w\in W$ that is nonzero, such that $w \in \text{span}(v_1,\ldots, v_{k-1})^\perp$. That is
       $$ \exists w \in W \cap \text{span}(v_1,\ldots, v_{k-1})^\perp \text{ such that } w \neq 0. $$
+    - Suppose $M \in \mathbb R^{n \times n}$ is invertible with singular value decomposition:
+      $$ M = \sum_{i=1}^n s_i u_iv_i^T \qquad \text{ where } s_i \in \mathbb R^{+}, u_i,v_i \in \mathbb{R}^{n \times 1}.$$
+      Let $M' = \sum_{i=1}^n s^{-1}_i v_iu_i^T$. Show that $M' = M^{-1}$.
 
 
 

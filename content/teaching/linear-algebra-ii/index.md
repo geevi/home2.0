@@ -138,7 +138,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qWbABNXFsUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    Recalling Basics | Function Spaces | Random Walk on Graphs 
-   - [Notes](notes/lec1.pdf) | [Video](https://web.microsoftstream.com/video/7dfd9faa-f14f-4b7f-ad7c-43480bf9ecb3)
+   - [Notes](notes/lec1.pdf)
    - Reading
      - Section 2.9 in [WKN]
 
@@ -147,7 +147,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fO_kiQ_hFyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    Definitions | Characteristic Polynomial | Examples
-   - [Notes](notes/lec2.pdf) | [Video](https://web.microsoftstream.com/video/4465dd79-af1d-4400-b575-e52c312fe944)
+   - [Notes](notes/lec2.pdf) 
    - Reading  
       - Section 3.3 for Eigenvalues, Section 2.9 for Random Walks on Graphs in [WKN].
   	  - Chapter 12 in [CDTW].
@@ -157,15 +157,15 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
    <iframe width="560" height="315" src="https://www.youtube.com/embed/jss3SE-Je1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
    Eigenvector Basis and Powering | Multiplicities       
-   - [Notes](notes/lec3.pdf) | [Video](https://web.microsoftstream.com/video/a26c1382-d6ee-4668-a5e8-15add4db7987)
+   - [Notes](notes/lec3.pdf) 
    - Reading
        - Section 3.3 in [WKN]  
   	   - Chapter 13 in [CDTW]
 
 #### [Assignment 1](problems.pdf)
 Submit by 13th April
-   - [Notes](notes/assignment_1_disc.pdf) | [Video](https://web.microsoftstream.com/video/ecf3a7dd-a520-4c40-8509-e55e026b882a)
-   - Practice Problems:**<sup style="color: red; background-color: yellow; padding: 2px; border-radius: 5px;">new</sup>**
+   - [Notes](notes/assignment_1_disc.pdf) 
+   - Practice Problems:**<sup style="color: red; background-color: yellow; padding: 5px; border-radius: 5px;">new</sup>**
      - Show that for any matrix $M \in \mathbb R^{n \times n}$ with eigenvalue $\lambda \in \mathbb R$, 
 $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\lambda, M^t).$$  
      - Let $M$ be block diagonal with blocks $M_1,\ldots,M_k$ (all square matrices). Show that:
@@ -179,7 +179,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 <iframe width="560" height="315" src="https://www.youtube.com/embed/61qYfkls2L0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    Jordan Form | Norms | Distance | Inner Product | Complex Case  
-   - [Notes](notes/lec4.pdf) | [Video](https://web.microsoftstream.com/video/b4452435-fa85-4d1c-92a1-6e5f28e36db2)  
+   - [Notes](notes/lec4.pdf) 
    - Reading
        - Section 10.1 in [WKN]
    - Explore 
@@ -192,7 +192,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BhZ_cqCwGfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    Orthogonal & Orthonormal Vectors | Gram-Schmidt Orthogonalization  
-   - [Notes](notes/lec5.pdf) | [Video](https://web.microsoftstream.com/video/fdfb2b3e-dd75-444c-b69d-7e7ca4861924)  
+   - [Notes](notes/lec5.pdf) 
    - Reading
        - Section 10.2 in [WKN]
        - Chapter 14 in [CDTW]
@@ -205,7 +205,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mG0px7sl66M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    Subspace Projections | Orthogonal Complements | Fitting with Errors
-   - [Notes](notes/lec6.pdf) | [Video](https://web.microsoftstream.com/video/930ca162-6b12-4482-8c2d-24403355e4b0)
+   - [Notes](notes/lec6.pdf)
    - Reading
        - Section 14.6 in [CDTW]
        - Section 8.1 in [KTW]
@@ -216,7 +216,7 @@ $$ \text{geometric_multiplicity}(\lambda, M) = \text{geometric_multiplicity}(\la
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qEtnrYJ43do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    Best fit vector on a subspace | Least Squares Fitting Equation
-   - [Notes](notes/lec7.pdf) | [Video](https://web.microsoftstream.com/video/97dd19eb-b92d-4c00-ba9e-84e0dff7c2fb)
+   - [Notes](notes/lec7.pdf)
    - Reading
      - \[MR\] [Section 6.5](https://textbooks.math.gatech.edu/ila/least-squares.html)
      - Chapter 7 (upto page 307) in [CDTW]
@@ -236,7 +236,7 @@ Submit by 26th April
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fKk4boPUYgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   Eigenvalues and eigenvectors of Symmetric Matices | Spectral Theorem
-   - [Notes](notes/lec9.pdf) | [Video](https://web.microsoftstream.com/video/7f995877-9281-42c2-83b4-2b40a3fc10bb)
+   - [Notes](notes/lec9.pdf) 
    - Reading
      - Chapter 15 in [CDTW]  
    - Solve  
@@ -250,7 +250,7 @@ Submit by 26th April
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nNKqYWkvuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   Spectral Theorem | Spectral Decomposition
-   - [Notes](notes/lec10.pdf) | [Video](https://web.microsoftstream.com/video/829c0127-407e-4f78-b1ee-178ee1efae80)
+   - [Notes](notes/lec10.pdf)
    - Reading
      - Section 10.3 in [WKN]
      - Chapter 15 in [CDTW]
@@ -264,7 +264,7 @@ Submit by 26th April
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMbWVWbW9mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   Spectral Theorem for Complex Spaces | Singular Value Decomposition
-   - [Notes](notes/lec11.pdf) | [Video](https://web.microsoftstream.com/video/b5980684-abdb-46f1-9354-fbf1fa60fa1a)
+   - [Notes](notes/lec11.pdf) 
    - Reading
      - Section 17.2 in [CDTW]
      - Section 8.6 in [WKN]
@@ -276,7 +276,7 @@ Submit by 26th April
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoWaIiRdQ7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   Principal Component Analysis | Applications in Data Science
-  - [Notes](notes/lec12.pdf) | [Video](https://web.microsoftstream.com/video/f1a66466-0e38-476c-8f56-d89cefc167f2) 
+  - [Notes](notes/lec12.pdf)   
   - Read
     - Section 8.11 in [WKN]
   - Code
@@ -292,7 +292,7 @@ Submit by 7th May.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MuKUsD-choc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  - [Notes](notes/lec13.pdf) | [Video](https://web.microsoftstream.com/video/85e145d2-42f7-4687-9e8b-5a7809f3b17c)  
+  - [Notes](notes/lec13.pdf)  
    - Read  
      - Chapter 3 in [Foundations of Data Science by Blum, Hopcroft, and Kannan](https://www.cs.cornell.edu/jeh/book.pdf).  
   - Problems **<sup style="color: red; background-color: yellow; padding: 5px; border-radius: 5px;">new</sup>**
@@ -310,7 +310,7 @@ Submit by 7th May.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFZAqba7IgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-   - [Notes](notes/lec14.pdf) | [Video](https://web.microsoftstream.com/video/480d1ceb-f87f-45a0-8603-57bf5648b97b)
+   - [Notes](notes/lec14.pdf)  
    - Reading
      - [Determinants and Volume](https://textbooks.math.gatech.edu/ila/determinants-volumes.html).
    - Applications

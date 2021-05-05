@@ -327,5 +327,5 @@ Submit by 7th May.
        - [Lecture Notes by Vazirani.](https://people.eecs.berkeley.edu/~vazirani/quantum.html)
 
 
-#### Deep Quiz II
+#### [Deep Quiz II](problems.pdf)
 On 4th May

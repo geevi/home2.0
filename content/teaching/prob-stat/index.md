@@ -31,7 +31,9 @@ math = false
 #caption = "My caption :smile:"
 
 +++
-I am teaching a 17 lecture course on Probability here: [https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about](https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about)
+I am teaching a 17 lecture course on Probability here: [https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about](https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about). Videos from that course available on youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdarCLN35z-ArxfyMolYrY0qCLqwv8jqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A first undergraduate course in probability and statistics with a focus on discrete spaces. The course is roughly divided in to 4 equal parts with an exam at the end of each part.
 

@@ -20,7 +20,7 @@ summary = "A first course in probability and statistics with a focus on discrete
 projects = ["mathematics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about"
+#external_link = "https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about"
 
 # Does the project detail page use math formatting?
 math = false
@@ -31,6 +31,11 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+Course Videos available on youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdarCLN35z-ArxfyMolYrY0qCLqwv8jqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I am teaching a 17 lecture online course on Probability here: 
 
 [https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about](https://elearn.iiit.ac.in/courses/course-v1:IIITH+M20Temp4+2020_Monsoon/about)
+

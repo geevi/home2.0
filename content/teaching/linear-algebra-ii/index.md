@@ -119,6 +119,11 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
 - \[GS\] [Linear Algebra MIT OCW Course Materials](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)   
   Gilbert Strang
 
+### Interactive Videos
+- [Essence of linear algebra by 3Blue1Brown.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra at Khan Academy.](https://www.khanacademy.org/math/linear-algebra)
+- [Mathigon.](https://mathigon.org/)
+
 ### On Solving Problems & Understanding Proofs
 
 - [Richard Feynman, His Life, and the Art of Solving Important Problems](https://www.jurnalanas.com/feynman-and-the-art-of-problem-solving/)  

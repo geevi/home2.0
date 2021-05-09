@@ -120,7 +120,7 @@ The resources provided are licenced under Creative Commons/Open Licences and hen
   Gilbert Strang
 
 ### Interactive Videos
-- [Essence of linear algebra by 3Blue1Brown.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Essence of Linear Algebra by 3Blue1Brown.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra at Khan Academy.](https://www.khanacademy.org/math/linear-algebra)
 - [Mathigon.](https://mathigon.org/)
 

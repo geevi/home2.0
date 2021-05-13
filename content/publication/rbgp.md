@@ -20,8 +20,8 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''arXiv'''
-publication_short = "arXiv"
+publication = '''Concurrency & Computation: Practice & Experience, 2021'''
+publication_short = " Concurrency Computat Pract Exper. 2021"
 
 # Abstract and optional shortened version.
 abstract = ""

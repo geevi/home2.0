@@ -22,8 +22,8 @@ authors = [
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = '''arXiv'''
-publication_short = "arXiv"
+publication = '''37th Conference on Uncertainty in Artificial Intelligence (**UAI**) 2021'''
+publication_short = "UAI'21"
 
 # Abstract and optional shortened version.
 abstract = ""

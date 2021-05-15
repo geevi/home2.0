@@ -362,3 +362,9 @@ html, body {
 .twitter-tweet {
   margin: 0px auto;
 }
+
+
+.pub-actions {
+  float: right;
+  transform: skewX(355deg);
+}

@@ -368,3 +368,8 @@ html, body {
   float: right;
   transform: skewX(355deg);
 }
+
+.text-muted {
+  float: right;
+  font-style: italic;
+}

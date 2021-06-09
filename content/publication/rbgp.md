@@ -38,7 +38,7 @@ selected = true
 projects = ["model-compression", "computer-vision", "deep-learning", "machine-learning"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2006.13486"
+url_pdf = "https://onlinelibrary.wiley.com/doi/10.1002/cpe.6363"
 url_preprint = "https://arxiv.org/abs/2006.13486"
 #url_code = "https://github.com/idharmateja/bsnn"
 #url_dataset = "#"
@@ -59,13 +59,17 @@ url_preprint = "https://arxiv.org/abs/2006.13486"
 #highlight = true
 
 bibtex = '''
-@misc{vooturi2020ramanujan,
-    title={Ramanujan Bipartite Graph Products for Efficient Block Sparse Neural Networks},
-    author={Dharma Teja Vooturi and Girish Varma and Kishore Kothapalli},
-    year={2020},
-    eprint={2006.13486},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{Vooturi21,
+author = {Vooturi, Dharma Teja and Varma, Girish and Kothapalli, Kishore},
+title = {Ramanujan bipartite graph products for efficient block sparse neural networks},
+journal = {Concurrency and Computation: Practice and Experience},
+volume = {n/a},
+number = {n/a},
+pages = {e6363},
+keywords = {block sparsity, graph product, Ramanujan bipartite graph, sparse neural networks},
+doi = {https://doi.org/10.1002/cpe.6363},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6363},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6363}
 }
 '''
 # Featured image

@@ -42,7 +42,7 @@ selected = true
 projects = ["model-compression", "computer-vision", "semantic-segmentation", "machine-learning"]
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Vallurupalli_Efficient_Semantic_Segmentation_CVPR_2018_paper.pdf"
+url_pdf = "https://link.springer.com/chapter/10.1007/978-981-15-8697-2_42"
 #url_preprint = "https://arxiv.org/abs/1811.10323"
 #url_code = "https://github.com/DrImpossible/Deep-Expander-Networks"
 #url_dataset = "#"

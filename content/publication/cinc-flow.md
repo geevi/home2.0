@@ -27,7 +27,7 @@ publication_short = "TPM Workshop at UAI'21"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "/img/gen-paths.png"
+image_preview = "img/cinc.png"
 
 # Is this a selected publication? (true/false)
 selected = true

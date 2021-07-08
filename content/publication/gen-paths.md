@@ -45,9 +45,9 @@ url_preprint = "https://arxiv.org/abs/2102.12886"
 #url_code = "https://github.com/idharmateja/bsnn"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "publication/pdf/gajjar_218_presentation_slides.pdf"
 #url_video = "#"
-#url_poster = "publication/pdf/block-sparse.pdf"
+url_poster = "publication/pdf/gpp-uai2021_poster.pdf"
 #url_source = "#"
 
 # Custom links (optional).

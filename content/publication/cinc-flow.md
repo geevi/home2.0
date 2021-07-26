@@ -30,7 +30,7 @@ abstract = ""
 image_preview = "img/cinc.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -45,7 +45,7 @@ url_preprint = "https://arxiv.org/abs/2107.01358"
 #url_project = "#"
 #url_slides = "#"
 #url_video = "#"
-#url_poster = "publication/pdf/block-sparse.pdf"
+url_poster = "publication/pdf/CINC_TPM.pdf"
 #url_source = "#"
 
 # Custom links (optional).

@@ -38,9 +38,9 @@ selected = true
 projects = ["machine-learning", "computer-vision"]
 
 # Links (optional).
-#url_pdf = "https://arxiv.org/abs/2102.12886"
+url_pdf = "https://openreview.net/forum?id=kl1ds_AeLRM"
 url_preprint = "https://arxiv.org/abs/2107.01358"
-#url_code = "https://github.com/idharmateja/bsnn"
+url_code = "https://github.com/Naagar/Normalizing_Flow_3x3_inv"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"

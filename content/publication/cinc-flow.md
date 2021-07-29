@@ -59,13 +59,13 @@ url_poster = "publication/pdf/CINC_TPM.pdf"
 #highlight = true
 
 bibtex = '''
-@misc{nagar2021cinc,
-      title={CInC Flow: Characterizable Invertible 3x3 Convolution}, 
-      author={Sandeep Nagar and Marius Dufraisse and Girish Varma},
-      year={2021},
-      eprint={2107.01358},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{
+nagar2021cinc,
+title={{CI}nC Flow: Characterizable Invertible 3\${\textbackslash}times\$3 Convolution},
+author={Sandeep Nagar and Marius Dufraisse and Girish Varma},
+booktitle={The 4th Workshop on Tractable Probabilistic Modeling},
+year={2021},
+url={https://openreview.net/forum?id=kl1ds_AeLRM}
 }
 '''
 # Featured image

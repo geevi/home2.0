@@ -36,7 +36,7 @@ page_type = "main"
 ## Prerequisites
 Assumes basic knowledge of Discrete Maths, Linear Algebra, Probability, and Algorithms. Highly recomended to brush up these concepts. Some references are given bellow:
 
-- Mathematical Background, Intro. to TCS, Boaz Barak.
+- Chapter 1. Mathematical Background, Intro. to TCS, Boaz Barak.
   https://files.boazbarak.org/introtcs/lnotes_book.pdf  
   We will be assuming that you have read this chapter fully and will have an assignment based on it in the first week.
     

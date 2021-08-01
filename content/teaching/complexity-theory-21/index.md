@@ -72,15 +72,16 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 4 hrs solving assignments, quizes etc
 
 ### Evaluations
-- 4 Light Quizzes (Weekly)
+- 4 Light Quizzes (Wieghtage: 30%).
   - 22, 28 August and 19, 26 September
-- 4 Assignments.     
+  - Weigtage: 
+- 4 Assignments (Wieghtage: 30%).     
   2-3 students will be randomly grouped. Each group is supposed to make a submission together. Contribution of each student is supposed to be mentioned clearly in the submission and marks obtained with divided acoordingly. Queries regarding the solutions might be asked individually. Dates for Release | Submission | Marks Relase given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  
   3. 31 Aug | 11 Sept | 18 Sept  
   4. 11 Sept | 22 Sept | 29 Sept   
-- 2 Deep Quizzes 
+- 2 Deep Quizzes (Wieghtage: 40%).
   1. Between 6-8 Sept | Mark release by 18th Sept.
   2. 30th Sept | Marks release by 10th Oct.
 

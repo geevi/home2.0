@@ -109,11 +109,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 #### 3.2 Time, Space hiearchy, P/poly has undecidable problems.
 
-### 3. Reductions and Completeness
+### 4. Reductions and Completeness
 
-#### 3.1 NP-Completeness, Reductions
+#### 4.1 NP-Completeness, Reductions
 
-#### 3.2 Cook-Levin Theorem
+#### 4.2 Cook-Levin Theorem
 
 
 

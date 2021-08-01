@@ -3,7 +3,7 @@
 date = "2021-07-01"
 
 # Project title.
-title = "Complexity Theory I"
+title = "Complexity Theory I (Draft Plan)"
 
 selected = true
 
@@ -74,8 +74,8 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 ### Evaluations
 - 4 Light Quizzes (Wieghtage: 30%).
   - 22, 28 August and 19, 26 September.  
-- 4 Group Assignments (Wieghtage: 30%).     
-  2-3 students will be randomly grouped independently for each assignment to collaboratively solve a deep problem. Each group is supposed to make a submission together. Each member should attempt the problem on his/her own first and then setup couple of group meetings to discuss progress. Writing of the solutions could be divided, but each member is supposed to understand the solution well.  Contribution of each student is supposed to be mentioned clearly in the submission and marks obtained will be divided acordingly. Queries regarding the solutions might be asked individually. Dates for Release | Submission | Marks Release given bellow: 
+- 4  Assignments (Wieghtage: 30%).       
+  Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  
   3. 31 Aug | 11 Sept | 18 Sept  

@@ -5,7 +5,7 @@ date = "2019-01-01"
 # Project title.
 title = "Machine Learning in Natural Sciences"
 
-selected = true
+selected = false    
 
 
 # Project summary to display on homepage.

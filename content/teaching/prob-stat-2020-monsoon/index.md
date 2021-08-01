@@ -7,7 +7,7 @@ title = "Probability & Statistics (Monsoon 2020)"
 
 page_type = "main"
 
-selected = true
+selected = false
 
 # Project summary to display on homepage.
 summary = "A first course in probability and statistics with a focus on discrete spaces."

@@ -74,7 +74,8 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 ### Evaluations
 - 4 Light Quizzes (Weekly)
   - 22, 28 August and 19, 26 September
-- 3 Assignments.   
+- 4 Assignments.     
+  2-3 students will be randomly grouped. Each group is supposed to make a submission together. Contribution of each student is supposed to be mentioned clearly in the submission.  
   Dates for Release | Submission | Marks Relase given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  

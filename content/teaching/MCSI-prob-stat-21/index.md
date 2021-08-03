@@ -52,19 +52,12 @@ Assumes basic knowledge of Discrete Maths and Algorithms. Highly recomended to b
 
 ### Meetings
 
-##### Live Lectures
-From 15th August - 30th September, 2021
-- Tuesdays (12:00 pm - 1:30 pm)
-- Fridays (12:00 pm - 1:30 pm)
+From 15th August - 30th September, 2021.  
 
-##### Tutorials
-Tutorial: Saturday (2:30 pm -4:00 pm)
-
-
-##### Office Hours
-I will be available on Teams during the timings given bellow, for clearing any doubts. 
+- **Live Lectures**: Tuesdays and Fridays (12:00 pm - 1:30 pm)  
+- **Tutorials**: Saturday (2:30 pm -4:00 pm)   
+- **Office Hours**: Wednesday, 5-630PM. I will be available on Teams during the timings given bellow, for clearing any doubts. 
 You can sent a direct message to me for joining.
-- Wednesday, 5-630PM.
 
 ### Expected Workload
 Students are expected to spent atleast 12 hrs per week. Roughly
@@ -73,15 +66,15 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 4 hrs solving assignments, quizes etc
 
 ### Evaluations
-- 4 Light Quizzes (Wieghtage: 30%).
-  - 22, 28 August and 19, 26 September.  
-- 4  Assignments (Wieghtage: 30%).       
+- **4 Light Quizzes** (Wieghtage: 30%).
+  - 22, 28 August and 19, 26 September.
+- **4  Assignments** (Wieghtage: 30%).       
   Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  
   3. 31 Aug | 11 Sept | 18 Sept  
   4. 11 Sept | 22 Sept | 29 Sept   
-- 2 Deep Quizzes (Wieghtage: 40%).
+- **2 Deep Quizzes** (Wieghtage: 40%).
   1. Between 6-8 Sept | Mark release by 18th Sept.
   2. 30th Sept | Marks release by 10th Oct.
 

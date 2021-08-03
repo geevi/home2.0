@@ -22,6 +22,8 @@ external_link = ""
 
 # Does the project detail page use math formatting?
 math = true
+toc = true
+
 
 page_type = "main"
 
@@ -37,8 +39,8 @@ page_type = "main"
 ## Prerequisites
 Assumes basic knowledge of Discrete Maths and Algorithms. Highly recomended to brush up these concepts, especially if you had a break from academics. Some references are given bellow:
 
-- Chapter 1. Mathematical Background, Intro. to TCS, Boaz Barak.
-  https://files.boazbarak.org/introtcs/lnotes_book.pdf  
+- Chaper 0,1 
+  https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf
   We will be assuming that you have read this chapter fully and will have an assignment based on it in the first week.
     
 - Mathematics for Computer Science. MIT OCW course.  
@@ -106,11 +108,22 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 #### 4.3 Multidimensional Gaussians | Kalman Filters
 
 
-## Textbook and References
+## References
 
+### Textbooks
 - [HPN] Introduction to Probability, Statistics and Random Processes. by Hossien Pishro-Nik.  
   https://www.probabilitycourse.com/  
 - [BT] Introduction to Probability, 2nd Edition by Dimitri P. Bertsekas and John N. Tsitsiklis. Lecture Notes.  
   https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf  
+- Probability & Statistics with Applications to Computing by Alex Tsun.  
+  https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf  
 - [WF] An Introduction to Probability Theory and Its Applications, Volume 1 by William Feller.
 - [SR] Introduction to Probability and Statistics for Engineers and Scientists by Sheldon M. Ross. Available in Library.
+
+### Online Resources
+
+- A Concrete Introduction to Probability (using Python)  
+  https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb  
+  https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb  
+
+- 

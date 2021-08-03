@@ -39,8 +39,7 @@ page_type = "main"
 ## Prerequisites
 Assumes basic knowledge of Discrete Maths and Algorithms. Highly recomended to brush up these concepts, especially if you had a break from academics. Some references are given bellow:
 
-- Chaper 0,1 
-  https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf
+- Chaper 0,1 in https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf.  
   We will be assuming that you have read this chapter fully and will have an assignment based on it in the first week.
     
 - Mathematics for Computer Science. MIT OCW course.  
@@ -122,11 +121,14 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### Online Resources
 
-- Videos from previous course
+- Videos from previous course  
   https://www.youtube.com/playlist?list=PLdarCLN35z-ArxfyMolYrY0qCLqwv8jqF  
 
 - A Concrete Introduction to Probability (using Python)  
   https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb  
   https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb  
 
-- 
+- 3Blue1Brown Youtube Channel  
+  https://www.youtube.com/watch?v=HZGCoVF3YvM
+
+  

@@ -122,6 +122,9 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### Online Resources
 
+- Videos from previous course
+  https://www.youtube.com/playlist?list=PLdarCLN35z-ArxfyMolYrY0qCLqwv8jqF  
+
 - A Concrete Introduction to Probability (using Python)  
   https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb  
   https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb  

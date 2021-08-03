@@ -107,9 +107,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### 3. Impossiblity Results
 
-#### 3.1 Universal TM, Halting Problem, Shannon's Counting Lowerboud for Circuit
+#### 3.1 Universal TM, Halting Problem
 
-#### 3.2 Time, Space hiearchy, P/poly has undecidable problems.
+#### 3.2 Time, Space hiearchy
+
+#### 3.3 Shannon's Counting Lowerboud for Circuits, P/poly has undecidable problems.
 
 ### 4. Reductions and Completeness
 
@@ -119,7 +121,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 
 
-
+Second part of the course invloving advanced topics like PSPACE, Space bounded computations, Polynomial Hierarchy, Arithmetic Circuits, Boolean Function Analysis etc will be taught by Nitin Saurabh.
 
 
 

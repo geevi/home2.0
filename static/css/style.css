@@ -373,3 +373,7 @@ html, body {
   float: right;
   font-style: italic;
 }
+
+h3 {
+  color: rgb(15, 15, 128);
+}

@@ -79,7 +79,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   2. 21 Aug | 31 Aug | 5 Sept  
   3. 31 Aug | 22 Sept | 29 Sept  (Group Assignment) 
   <!-- 4. 11 Sept | 22 Sept | 29 Sept    -->
-- **2 Deep Quizzes** (Wieghtage: 30%).
+- **2 Deep Quizzes** (Wieghtage: 30%). We will be doing timed exams of 1hr in moodle.
   1. Between 6-8 Sept | Mark release by 18th Sept.
   2. 30th Sept | Marks release by 10th Oct.
 

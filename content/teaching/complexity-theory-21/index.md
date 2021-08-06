@@ -71,7 +71,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 4 hrs solving assignments, quizes etc
 
 ### Evaluations
-- **4 Light Quizzes** (Wieghtage: 25%).
+- **4 Light Quizzes** (Wieghtage: 25%). MCQs to test your understanding of definitions and to ensure that students have gone through reading material.
   - 22, 28 August and 19, 26 September.  
 - **3  Assignments** (Wieghtage: 25%).       
   Dates for Release | Submission | Marks Release given bellow: 

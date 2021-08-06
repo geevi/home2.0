@@ -77,12 +77,12 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  
-  3. 31 Aug | 22 Sept | 29 Sept  (Group Assignment) 
+  3. 31 Aug | 22 Sept | 29 Sept  (Group Assignment)   
 ^There will be 3 more assignments in the Part II.
   <!-- 4. 11 Sept | 22 Sept | 29 Sept    -->
 - **2 Deep Quizzes** (Wieghtage: 30%, ^Best 3 of 4). We will be doing timed exams of 1hr in moodle.
   1. Between 6-8 Sept | Mark release by 18th Sept.
-  2. 30th Sept | Marks release by 10th Oct.
+  2. 30th Sept | Marks release by 10th Oct.  
 ^There will be 2 more in the Part II.
 - **Scribe Notes or Presentations** (Wieghtage: 10%). Students will be given a choice to scribe notes for a lecture or do presentations on an advanced topic. They will be evaluated on clarity of explaining the concepts.
 

@@ -35,6 +35,11 @@ page_type = "main"
 +++
 
 
+
+Second part of the course invloving advanced topics like PSPACE, Space bounded computations, Polynomial Hierarchy, Arithmetic Circuits, Boolean Function Analysis etc will be taught by Nitin Saurabh during Oct - Nov.
+
+
+
 ## Prerequisites
 Assumes basic knowledge of Discrete Maths, Linear Algebra, Probability, and Algorithms. Highly recomended to brush up these concepts. Some references are given bellow:
 
@@ -111,10 +116,6 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 #### 4.2 Cook-Levin Theorem
 
-
-### 5. Complexity II
-
-Second part of the course invloving advanced topics like PSPACE, Space bounded computations, Polynomial Hierarchy, Arithmetic Circuits, Boolean Function Analysis etc will be taught by Nitin Saurabh.
 
 
 

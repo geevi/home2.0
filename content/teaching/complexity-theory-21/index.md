@@ -71,19 +71,20 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - 4 hrs solving assignments, quizes etc
 
 ### Evaluations
-- **4 Light Quizzes** (Wieghtage: 25%). 20 min MCQ Test to check your understanding of definitions and to ensure that you have gone through reading material.
+- **4 Light Quizzes** (Wieghtage: 30%, Best 3 of 4). 20 min MCQ Test to check your understanding of definitions and to ensure that you have gone through reading material.
   - 22, 28 August and 19, 26 September.  
-- **3  Assignments** (Wieghtage: 25%). Problems will require longer to solve. You will need to upload written solutions. One of the assignments which will be harder can be assigned to a group of students. Groups will be formed by the instructors.      
+- **3  Assignments** (Wieghtage: 30%, ^Best 5 of 6). Problems will require longer to solve. You will need to upload written solutions. One of the assignments which will be harder can be assigned to a group of students. Groups will be formed by the instructors.      
   Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  
   3. 31 Aug | 22 Sept | 29 Sept  (Group Assignment) 
+^There will be 3 more assignments in the Part II.
   <!-- 4. 11 Sept | 22 Sept | 29 Sept    -->
-- **2 Deep Quizzes** (Wieghtage: 30%). We will be doing timed exams of 1hr in moodle.
+- **2 Deep Quizzes** (Wieghtage: 30%, ^Best 3 of 4). We will be doing timed exams of 1hr in moodle.
   1. Between 6-8 Sept | Mark release by 18th Sept.
   2. 30th Sept | Marks release by 10th Oct.
-
-- **Scribe Notes or Presentations** (Wieghtage: 20%). Students will be given a choice to scribe notes for a lecture or do presentations on an advanced topic. They will be evaluated on clarity of explaining the concepts.
+^There will be 2 more in the Part II.
+- **Scribe Notes or Presentations** (Wieghtage: 10%). Students will be given a choice to scribe notes for a lecture or do presentations on an advanced topic. They will be evaluated on clarity of explaining the concepts.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your intelligence cannot be measured by just a number. It is defined by your willingness to learn, solve problems and try new things.<br><br>You are more than just a number. Develop your skills wherever they may lead. Share your ideas. Your skills are more valuable than your grades. 🧠</p>&mdash; Prof. Feynman (@ProfFeynman) <a href="https://twitter.com/ProfFeynman/status/1382170602467856384?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

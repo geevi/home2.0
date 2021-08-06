@@ -117,6 +117,9 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - Videos from previous course  
   https://www.youtube.com/playlist?list=PLdarCLN35z-ArxfyMolYrY0qCLqwv8jqF  
 
+- Probabilistic Systems Analysis and Applied Probability, MIT Open Course Ware.  
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/resource-index/
+
 - A Concrete Introduction to Probability (using Python)  
   https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb  
   https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb  

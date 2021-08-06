@@ -73,7 +73,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 ### Evaluations
 - **4 Light Quizzes** (Wieghtage: 25%).
   - 22, 28 August and 19, 26 September.  
-- **4  Assignments** (Wieghtage: 25%).       
+- **3  Assignments** (Wieghtage: 25%).       
   Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  
   2. 21 Aug | 31 Aug | 5 Sept  

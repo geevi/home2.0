@@ -123,6 +123,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 #### 4.2 Cook-Levin Theorem
 
+#### 4.3 Complexity of Counting (if time permits)
 
 
 

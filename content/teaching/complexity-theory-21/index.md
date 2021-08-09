@@ -84,7 +84,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   1. Between 6-8 Sept | Mark release by 18th Sept.
   2. 30th Sept | Marks release by 10th Oct.  
 ^There will be 2 more in the Part II.
-- **Scribe Notes or Presentations** (Wieghtage: 10%). Students will be given a choice to scribe notes for a lecture or do presentations on an advanced topic. They will be evaluated on clarity of explaining the concepts.
+- **Scribe Notes or Presentations** (Wieghtage: 10%). Students will be given a choice to scribe notes for a lecture or do presentations on an advanced topic. They will be evaluated on clarity of explaining the concepts. Some of the topics for presentation are listed bellow:
+  1. PAC Learning and Sample Complexity
+  2. Property Testing
+  3. One Way functions in Cryptography
+  4. Communication Complexity
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your intelligence cannot be measured by just a number. It is defined by your willingness to learn, solve problems and try new things.<br><br>You are more than just a number. Develop your skills wherever they may lead. Share your ideas. Your skills are more valuable than your grades. 🧠</p>&mdash; Prof. Feynman (@ProfFeynman) <a href="https://twitter.com/ProfFeynman/status/1382170602467856384?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

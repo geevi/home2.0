@@ -59,7 +59,7 @@ Assumes basic knowledge of Discrete Maths, Linear Algebra, Probability, and Algo
 ### Meetings
 From 15th August - 30th September, 2021
 
-- **Live Lectures**: Monday, Thursday (5:00 pm - 6:30 pm)
+- **Live Lectures**: Tuesday, Friday (5:00 pm - 6:30 pm)
 - **Tutorials**: Saturday (2:30 pm -4:00 pm)
 - **Office Hours**: Friday, 5-630PM. I will be available on Teams during the timings given bellow, for clearing any doubts. 
 You can sent a direct message to me for joining.

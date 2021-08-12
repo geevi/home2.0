@@ -34,9 +34,9 @@ page_type = "main"
 
 +++
 
+First part of the course topics are here. 
 
-
-Second part of the course invloving advanced topics like PSPACE, Space bounded computations, Polynomial Hierarchy, Arithmetic Circuits, Boolean Function Analysis etc will be taught by Nitin Saurabh during Oct - Nov.
+Second part of the course invloving advanced topics like PSPACE, Space bounded computations, Polynomial Hierarchy, Arithmetic Circuits, Boolean Function Analysis etc will be taught by Nitin Saurabh during Oct - Nov. See https://nitinsau.github.io/CT-m21-iiith.html
 
 
 
@@ -72,7 +72,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### Evaluations
 - **4 Light Quizzes** (Wieghtage: 30%, Best 3 of 4). 20 min MCQ Test to check your understanding of definitions and to ensure that you have gone through reading material.
-  - 22, 28 August and 19, 26 September.  
+  - 22, 27 August and 18, 25 September.  
 - **3  Assignments** (Wieghtage: 30%, ^Best 5 of 6). Problems will require longer to solve. You will need to upload written solutions. One of the assignments which will be harder can be assigned to a group of students. Groups will be formed by the instructors.      
   Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  

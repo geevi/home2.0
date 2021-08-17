@@ -87,7 +87,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 #### 1.1 Probability and Counting | Infinite Sample Spaces 
 - Reading:
   - Section 1.0 - 1.3 in [HPN](https://www.probabilitycourse.com/).  
-  - Secion 1.1 - 1.2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
+  - Secion 1.1 - 1.2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
 #### 1.2 Axioms of Probability | Conditional Probability | Independence | Bayes' Rule
 ### 2. Random Variables
 #### 2.1 Random Variables | Expectation | Binomial Distrbution | Geometric Dist | Functions of RV

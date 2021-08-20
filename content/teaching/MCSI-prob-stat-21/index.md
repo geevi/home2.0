@@ -90,7 +90,21 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - Secion 1.1 - 1.2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
 - Solve:
   - [Problems](problems.pdf)
-#### 1.2 Axioms of Probability | Conditional Probability | Independence | Bayes' Rule
+#### 1.2 Axioms of Probability | Conditional Probability 
+- Reading:
+  - Section 1.4, Section 2 in [HPN](https://www.probabilitycourse.com/).  
+  - Secion 1.3, 1.6 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+- Explore:
+  - [Cantor's Diagonlization](https://jlmartin.ku.edu/~jlmartin/courses/math410-S09/cantor.pdf)
+  - [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis)
+- Solve:
+  - Let $X$ be number of nonempty bins and $Y$ be number of balls in the first bin. Find the probability of 
+    1. $X=i, Y=j$ 
+    2. $X=i$ conditioned on $Y=j$   
+  
+    for every $i,j$.
+
+#### 1.3 Independence | Bayes' Rule
 ### 2. Random Variables
 #### 2.1 Random Variables | Expectation | Binomial Distrbution | Geometric Dist | Functions of RV
 #### 2.2 Variance | Conditioning | Multiple RVs

@@ -97,7 +97,13 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### 1. Computational Models, Encoding of Problems
 
-#### 1.1 Motivations, Problem Encodings
+#### 1.1 Motivations, Representation
+- Read:
+  - For Multiplication Algorithms see Chapter 0 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
+  - For Euler, Hamiltonian paths see https://www.cs.sfu.ca/~ggbaker/zju/math/euler-ham.html
+  - For more on Representation of Mathematical Objects see Chapter 2 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
+- [Assignment 1](problems.pdf)
+  Deadline Aug 30th.
 
 #### 1.2 Turing Machine Model, Circuit Model
 
@@ -132,7 +138,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 - S. Arora and B. Barak (2000), Computational Complexity: A Modern Approach, Cambridge University Press.   
   https://theory.cs.princeton.edu/complexity/book.pdf  
-- B. Barak, Introduction to Theoretical Computer Science.  
+- [Barak] B. Barak, Introduction to Theoretical Computer Science.  
   https://files.boazbarak.org/introtcs/lnotes_book.pdf  
   https://introtcs.org/public/index.html
 - A. Wigderson, Mathematics and Computation.  

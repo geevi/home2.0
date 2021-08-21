@@ -67,7 +67,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### Evaluations
 - **4 Light Quizzes** (Wieghtage: 30%, Best 3 of 4). 20 min MCQ Test to check your understanding of definitions and to ensure that you have gone through reading material.
-  - 22, 28 August and 19, 26 September.
+  - 28 August and 4, 18, 25 September.
 - **4  Assignments**  (Wieghtage: 30%, ^Best 3 of 4). Problems will require longer to solve. You will need to upload written solutions.       
   Dates for Release | Submission | Marks Release given bellow: 
   1. 12 Aug | 21 Aug | 28 Aug  

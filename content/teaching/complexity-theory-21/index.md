@@ -3,7 +3,7 @@
 date = "2021-07-01"
 
 # Project title.
-title = "Complexity Theory I (Draft Plan)"
+title = "Complexity Theory I"
 
 selected = true
 
@@ -61,7 +61,7 @@ From 15th August - 30th September, 2021
 
 - **Live Lectures**: Tuesday, Friday (5:00 pm - 6:30 pm)
 - **Tutorials**: Saturday (2:30 pm -4:00 pm)
-- **Office Hours**: Wednesday, 5-630PM. I will be available on Teams during the timings given bellow, for clearing any doubts. 
+- **Office Hours**: Wednesday, 3-430PM. I will be available on Teams during the timings given bellow, for clearing any doubts. 
 You can sent a direct message to me for joining.
 
 ### Expected Workload
@@ -72,12 +72,12 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### Evaluations
 - **4 Light Quizzes** (Wieghtage: 30%, Best 3 of 4). 20 min MCQ Test to check your understanding of definitions and to ensure that you have gone through reading material.
-  - 22, 27 August and 18, 25 September.  
+  - 28 August and 4, 18, 25 September.  
 - **3  Assignments** (Wieghtage: 30%, ^Best 5 of 6). Problems will require longer to solve. You will need to upload written solutions. One of the assignments which will be harder can be assigned to a group of students. Groups will be formed by the instructors.      
   Dates for Release | Submission | Marks Release given bellow: 
-  1. 12 Aug | 21 Aug | 28 Aug  
-  2. 21 Aug | 31 Aug | 5 Sept  
-  3. 31 Aug | 22 Sept | 29 Sept  (Group Assignment)   
+  1. 20 Aug | 30 Aug | 10 Sept  
+  2. 30 Aug | 10 Sept | 20 Sept  
+  3. 10 Aug | 20 Sept | 30 Sept  (Group Assignment)   
 ^There will be 3 more assignments in the Part II.
   <!-- 4. 11 Sept | 22 Sept | 29 Sept    -->
 - **2 Deep Quizzes** (Wieghtage: 30%, ^Best 3 of 4). We will be doing timed exams of 1hr in moodle.

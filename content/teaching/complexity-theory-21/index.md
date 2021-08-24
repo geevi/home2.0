@@ -110,6 +110,8 @@ Students are expected to spent atleast 12 hrs per week. Roughly
  - Read:
   - For more on Representation of Mathematical Objects see Chapter 2 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
   - Sections 1.2, 1.3 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
+ - Explore:
+   - https://turingmachinesimulator.com/
   
 #### 1.3 Robustness of definitions
 

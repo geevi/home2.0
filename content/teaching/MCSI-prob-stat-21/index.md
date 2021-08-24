@@ -3,7 +3,7 @@
 date = "2021-07-01"
 
 # Project title.
-title = "Maths for CS I: Probability and Statistics (Draft)"
+title = "Maths for CS I: Probability and Statistics"
 
 selected = true
 
@@ -88,6 +88,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - Reading:
   - Section 1.0 - 1.3 in [HPN](https://www.probabilitycourse.com/).  
   - Secion 1.1 - 1.2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+  - Chapter 1 in https://www.math.kit.edu/iag6/lehre/co2015s/media/script.pdf  
 - Solve:
   - [Problems](problems.pdf)
 #### 1.2 Axioms of Probability | Conditional Probability 
@@ -104,7 +105,13 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   
     for every $i,j$.
 
-#### 1.3 Independence | Bayes' Rule
+#### 1.3 Conditional Probability | Independence 
+- Reading:
+  - Section 1.4, Section 2 in [HPN](https://www.probabilitycourse.com/).  
+  - Secion 1.3, 1.4 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+
+#### 1.4 Total Probability | Bayes' Rule
+
 ### 2. Random Variables
 #### 2.1 Random Variables | Expectation | Binomial Distrbution | Geometric Dist | Functions of RV
 #### 2.2 Variance | Conditioning | Multiple RVs

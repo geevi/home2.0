@@ -97,7 +97,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### 1. Computational Models, Encoding of Problems
 
-#### 1.1 Motivations, Representation
+#### 1.1 Motivations
 - Read:
   - For Multiplication Algorithms see Chapter 0 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
   - For Euler, Hamiltonian paths see https://www.cs.sfu.ca/~ggbaker/zju/math/euler-ham.html
@@ -105,8 +105,12 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - [Assignment 1](problems.pdf)
   Deadline Aug 30th.
 
-#### 1.2 Turing Machine Model, Circuit Model
-
+#### 1.2 Representations, Prefix Free Encoding, Turing Machine Model, Encoding TMs
+ - [Notes](lec2.pdf)
+ - Read:
+  - For more on Representation of Mathematical Objects see Chapter 2 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
+  - Sections 1.2, 1.3 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
+  
 #### 1.3 Robustness of definitions
 
 ### 2. Complexity Measures and Classes

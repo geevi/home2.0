@@ -113,7 +113,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
  - Explore:
    - https://turingmachinesimulator.com/
   
-#### 1.3 Robustness of definitions
+#### 1.3 Decidability, Universal TMs, Halting Problem, R/RE Languages, Robustness of TMs
+  - [Notes](lec3.pdf)
+  - Read:
+    - Section 1.3, 1.4 in  [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
+    - Chapter 9 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
 
 ### 2. Complexity Measures and Classes
 

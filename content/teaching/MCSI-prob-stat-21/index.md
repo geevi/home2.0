@@ -111,6 +111,13 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - Secion 1.3, 1.4 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
 
 #### 1.4 Total Probability | Bayes' Rule
+- Reading:
+  - Section 1.4, Section 2 in [HPN](https://www.probabilitycourse.com/). 
+  - Secion 1.3, 1.4, 1.5 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+- Explore:
+  - [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+  - [Birthday Problem](https://en.wikipedia.org/wiki/Birthday_problem)
+  - [Monty Python Game](https://en.wikipedia.org/wiki/Monty_Hall_problem#:~:text=As%20Keith%20Devlin%20says%2C%20%22By,of%20them%20is%2023.)
 
 ### 2. Random Variables
 #### 2.1 Random Variables | Expectation | Binomial Distrbution | Geometric Dist | Functions of RV

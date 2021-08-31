@@ -120,6 +120,9 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - [Monty Python Game](https://en.wikipedia.org/wiki/Monty_Hall_problem#:~:text=As%20Keith%20Devlin%20says%2C%20%22By,of%20them%20is%2023.)
 
 ### 2. Random Variables
+- Reading:
+  - Section 3 in [HPN](https://www.probabilitycourse.com/).
+  - Section 2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
 #### 2.1 Random Variables | Expectation | Binomial Distrbution | Geometric Dist | Functions of RV
 #### 2.2 Variance | Conditioning | Multiple RVs
 #### 2.3 Linearity of Expectation

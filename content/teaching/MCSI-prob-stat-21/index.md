@@ -123,6 +123,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - Reading:
   - Section 3 in [HPN](https://www.probabilitycourse.com/).
   - Section 2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+  
 #### 2.1 Random Variables | Expectation | Binomial Distrbution | Geometric Dist | Functions of RV
 #### 2.2 Variance | Conditioning | Multiple RVs
 #### 2.3 Linearity of Expectation

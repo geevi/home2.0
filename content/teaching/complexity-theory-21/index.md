@@ -121,8 +121,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ### 2. Complexity Measures and Classes
 
-#### 2.1 Complexity Measure and Classes
-#### 2.2 Non determinism, Savitch's Theorem
+#### 2.1 Complexity Measure and Classes, Non determinism, P, NP
+  - [Notes](lec4.pdf)
+  - Read:
+    - Section 1.5, 2.1, Chapter 4 into, Section 4.1 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
+  
 #### 2.3 Nonuniform Computation, P/poly
 
 ### 3. Impossiblity Results

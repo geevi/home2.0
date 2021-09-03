@@ -126,7 +126,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - Read:
     - Section 1.5, 2.1, Chapter 4 into, Section 4.1 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
   
-#### 2.3 Nonuniform Computation, P/poly
+#### 2.3 Circuits, Shannon's Lowerbound
+  - [Notes](lec5.pdf)
+  - Read:
+    - Chapter 3, 4 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
+
 
 ### 3. Impossiblity Results
 

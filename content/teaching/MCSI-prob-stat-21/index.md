@@ -131,7 +131,9 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - Section 3.2.2-3.2.3 in [HPN](https://www.probabilitycourse.com/).
   - Section 2.3-2.4 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
 
-#### 2.3 Variance | Poisson | Hypergeometric 
+#### 2.3 Variance | Markov's | Chebyshev's Inequality
+- Reading:
+  - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)
 
 
 ### 3. Advanced Random Variables
@@ -151,7 +153,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   https://www.probabilitycourse.com/  
 - [BT] Introduction to Probability, 2nd Edition by Dimitri P. Bertsekas and John N. Tsitsiklis. Lecture Notes.  
   https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf  
-- Probability & Statistics with Applications to Computing by Alex Tsun.  
+- [AT] Probability & Statistics with Applications to Computing by Alex Tsun.  
   https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf  
 - [WF] An Introduction to Probability Theory and Its Applications, Volume 1 by William Feller.
 - [SR] Introduction to Probability and Statistics for Engineers and Scientists by Sheldon M. Ross. Available in Library.

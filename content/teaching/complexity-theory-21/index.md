@@ -137,6 +137,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - [Notes](lec6.pdf)
   - Read:
     - Section 2.2 and 2.4 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
+    - [Lec 3](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec3.pdf), [Lec 4](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec4.pdf) Slides from Prof. Nabil.
 
 
 ## Textbook and References

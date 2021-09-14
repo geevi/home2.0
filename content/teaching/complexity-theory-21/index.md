@@ -126,28 +126,17 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - Read:
     - Section 1.5, 2.1, Chapter 4 into, Section 4.1 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
   
-#### 2.3 Circuits, Shannon's Lowerbound
+#### 2.2 Circuits, Shannon's Lowerbound
   - [Notes](lec5.pdf)
   - Read:
     - Chapter 3, 4 in [Barak](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
 
+### 3. Reductions and Completeness
 
-### 3. Impossiblity Results
-
-#### 3.1 Universal TM, Halting Problem
-
-#### 3.2 Time, Space hiearchy
-
-#### 3.3 Shannon's Counting Lowerboud for Circuits, P/poly has undecidable problems.
-
-### 4. Reductions and Completeness
-
-#### 4.1 NP-Completeness, Reductions
-
-#### 4.2 Cook-Levin Theorem
-
-#### 4.3 Complexity of Counting (if time permits)
-
+#### 3.1 P, NP, Verifier definition, Reduction
+  - [Notes](lec6.pdf)
+  - Read:
+    - Section 2.2 and 2.4 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
 
 
 ## Textbook and References

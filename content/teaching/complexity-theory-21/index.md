@@ -143,7 +143,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   - [Notes](lec7.pdf)
   - Read:
     - [Slides](https://people.csail.mit.edu/rrw/6.045-2020/lec15-color.pdf) Slides by Prof. Ryan Williams.
-    - [Lec 5](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec3.pdf) Slides from Prof. Nabil.
+    - [Lec 5](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec5.pdf) Slides from Prof. Nabil.
 
 
 ## Textbook and References

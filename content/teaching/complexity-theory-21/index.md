@@ -165,7 +165,7 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - C. Papadimitriou (1994), Computational Complexity, Addison Wesley Longman.
 
 
-## Course as Taught Elsewhere (Slides, Lecture Notes)
+## As Taught Elsewhere
 
 - P. Harsha &  R. Saptharishi Course  (videos, notes, problems)   
   Computational Complexity  

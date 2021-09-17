@@ -135,15 +135,16 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - Reading:
   - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)
 
+#### 2.4 Problem Solving | Poll Survey
+- Reading:
+  - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)
 
 ### 3. Advanced Random Variables
-#### 3.1 Tail Bounds (Markov, Chebyshev, Chernoff)
-#### 3.2 Continuos Distributions
-#### 3.3 Central Limit Theorem
+#### 3.1 Continuos Distributions
+#### 3.2 Central Limit Theorem
 ### 4. Advanced Topics and Applications
-#### 4.1 Statistics
 #### 4.2 Markov Chains
-#### 4.3 Multidimensional Gaussians | Kalman Filters
+#### 4.1 Statistics
 
 
 ## References

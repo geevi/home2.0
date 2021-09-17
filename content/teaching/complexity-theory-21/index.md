@@ -163,23 +163,23 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 ## Course as Taught Elsewhere (Slides, Lecture Notes)
 
-- P. Harsha Course  
+- P. Harsha &  R. Saptharishi Course  (videos, notes, problems)   
   Computational Complexity  
   https://www.tifr.res.in/~prahladh/teaching/2020-21/complexity/  
 
-- R. WIllliams Course  
+- R. WIllliams Course  (slides, problems)  
   Automata, Computability, and Complexity Theory - Spring 2020  
   https://people.csail.mit.edu/rrw/6.045-2020/index.html#lectures
 
-- N.H Mustafa Course
-  Complexity Theory
+- N.H Mustafa Course (slides are excellent on basics)   
+  Complexity Theory  
   https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/
 
-- M. Sudan Graduate Course  
-  Complexity Theory  
+- M. Sudan Graduate Course (notes, advanced course)   
+  Complexity Theory   
   http://people.seas.harvard.edu/~madhusudan/courses/Spring2018/
 
-- S. Vadhan Graduate Course  
+- S. Vadhan Graduate Course (notes, advanced course)  
   Complexity Theory  
   http://people.seas.harvard.edu/~salil/cs221/spring14/lectures.html
 

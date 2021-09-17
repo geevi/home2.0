@@ -160,3 +160,26 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - M. Sipser (2014), Introduction to Theory of Computation, Cengange Learning. 
 - C. Papadimitriou (1994), Computational Complexity, Addison Wesley Longman.
 
+
+## Course as Taught Elsewhere (Slides, Lecture Notes)
+
+- P. Harsha Course  
+  Computational Complexity  
+  https://www.tifr.res.in/~prahladh/teaching/2020-21/complexity/  
+
+- R. WIllliams Course  
+  Automata, Computability, and Complexity Theory - Spring 2020  
+  https://people.csail.mit.edu/rrw/6.045-2020/index.html#lectures
+
+- N.H Mustafa Course
+  Complexity Theory
+  https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/
+
+- M. Sudan Graduate Course  
+  Complexity Theory  
+  http://people.seas.harvard.edu/~madhusudan/courses/Spring2018/
+
+- S. Vadhan Graduate Course  
+  Complexity Theory  
+  http://people.seas.harvard.edu/~salil/cs221/spring14/lectures.html
+

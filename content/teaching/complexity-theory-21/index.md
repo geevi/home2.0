@@ -171,6 +171,10 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   Computational Complexity  
   https://www.tifr.res.in/~prahladh/teaching/2020-21/complexity/  
 
+- R. O'Donnell (excellent videos)  
+  Undergrad Complexity   
+  https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2
+
 - R. WIllliams Course  (slides, problems)  
   Automata, Computability, and Complexity Theory - Spring 2020  
   https://people.csail.mit.edu/rrw/6.045-2020/index.html#lectures

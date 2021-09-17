@@ -139,6 +139,12 @@ Students are expected to spent atleast 12 hrs per week. Roughly
     - Section 2.2 and 2.4 in [Arora, Barack](https://theory.cs.princeton.edu/complexity/book.pdf)
     - [Lec 3](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec3.pdf), [Lec 4](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec4.pdf) Slides from Prof. Nabil.
 
+#### 3.2 Cook, Levin Theorem
+  - [Notes](lec7.pdf)
+  - Read:
+    - [Slides](https://people.csail.mit.edu/rrw/6.045-2020/lec15-color.pdf) Slides by Prof. Ryan Williams.
+    - [Lec 5](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec3.pdf) Slides from Prof. Nabil.
+
 
 ## Textbook and References
 

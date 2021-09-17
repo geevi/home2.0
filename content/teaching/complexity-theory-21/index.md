@@ -154,6 +154,10 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 - [Barak] B. Barak, Introduction to Theoretical Computer Science.  
   https://files.boazbarak.org/introtcs/lnotes_book.pdf  
   https://introtcs.org/public/index.html
+
+- O. Goldreich, Computational Complexity: A Conceptual Perspective    
+  https://www.wisdom.weizmann.ac.il/~oded/cc-drafts.html  
+
 - A. Wigderson, Mathematics and Computation.  
   https://www.math.ias.edu/files/Book-online-Aug0619.pdf#page=1
 - C. Moore & S. Mertens (2011), The Nature of Computation, Oxford University Press.  

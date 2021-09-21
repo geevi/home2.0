@@ -133,14 +133,20 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 #### 2.3 Variance | Markov's | Chebyshev's Inequality
 - Reading:
-  - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)
+  - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf).
 
 #### 2.4 Problem Solving | Poll Survey
 - Reading:
-  - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf)
+  - Chapter 6 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf).
 
 ### 3. Advanced Random Variables
-#### 3.1 Continuos Distributions
+#### 3.1 Poisson, Expontial, Continous Distributions
+- Reading:
+  - Section 3.6, 4.1, 4.2 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf).
+  - Section 4.1, 4.2 in [HPN](https://www.probabilitycourse.com/).
+  - Section 3.1, 3.2, 5.2 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+
+
 #### 3.2 Central Limit Theorem
 ### 4. Advanced Topics and Applications
 #### 4.2 Markov Chains

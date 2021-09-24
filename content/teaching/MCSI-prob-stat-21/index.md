@@ -148,6 +148,11 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 
 #### 3.2 Gaussian Distribution, Central Limit Theorem
+- Reading:
+  - Section 4.3, 5.7 in [AT](https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf).
+  - Section 4.2.3, 7 in [HPN](https://www.probabilitycourse.com/).
+  - Section 3.3 (Normal Dist), 4.2 (Convolutions), 7.1-7.4 (CLT) in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+
 
 ### 4. Advanced Topics and Applications
 #### 4.2 Markov Chains

@@ -151,6 +151,13 @@ Students are expected to spent atleast 12 hrs per week. Roughly
     - [Slides](https://people.csail.mit.edu/rrw/6.045-2020/lec15-color.pdf) Slides by Prof. Ryan Williams.
     - [Lec 6](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec6.pdf), [Lec 7](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec7.pdf) Slides from Prof. Nabil.
 
+#### 3.4 CoNP, CoNP Complete, Reachability in small space
+  - [Notes](lec9.pdf)
+  - Read:
+    - [Slides](https://people.csail.mit.edu/rrw/6.045-2020/lec15-color.pdf) Slides by Prof. Ryan Williams.
+    - [Lec 8](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec8.pdf), [Lec 11](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec11.pdf) Slides from Prof. Nabil.
+
+
 
 ## Textbook and References
 

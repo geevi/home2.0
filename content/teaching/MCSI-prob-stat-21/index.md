@@ -155,7 +155,14 @@ Students are expected to spent atleast 12 hrs per week. Roughly
 
 
 ### 4. Advanced Topics and Applications
-#### 4.2 Markov Chains
+
+#### 4.1 Markov Chains
+- Reading:
+  - Section 11.2 in [HPN](https://www.probabilitycourse.com/).
+  - Chapter 6 in [BT](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf).
+
+
+
 #### 4.1 Statistics
 
 

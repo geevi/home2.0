@@ -161,6 +161,13 @@ Students are expected to spent atleast 12 hrs per week. Roughly
     - [Undirected Connectivity is in Log Space: an overview of the proof](http://theory.stanford.edu/~liyang/teaching/projects/undirected-connectivity-is-in-L.pdf)
 
 
+#### 3.5 Savitch's Theorem, L, NL, NL-Completeness, Log-Space Reductions
+  - [Notes](lec10.pdf)
+  - Read:
+    - [Lec 11](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec11.pdf), [Lec 12](https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/lec12.pdf) Slides from Prof. Nabil.
+    - Section 4.4  in [AB](https://theory.cs.princeton.edu/complexity/book.pdf). 
+ 
+
 
 ## Textbook and References
 

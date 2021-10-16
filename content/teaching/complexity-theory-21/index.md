@@ -206,6 +206,10 @@ Students are expected to spent atleast 12 hrs per week. Roughly
   Complexity Theory  
   https://perso.esiee.fr/~mustafan/TechnicalWritings/Complexityslides/
 
+- M. Sipser Course  
+  Theory of Computation  
+  https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/index.htm  
+
 - M. Sudan Graduate Course (notes, advanced course)   
   Complexity Theory   
   http://people.seas.harvard.edu/~madhusudan/courses/Spring2018/
